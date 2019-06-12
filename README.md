@@ -15,7 +15,7 @@
   - [Testes de Usabilidade](#testes-de-usabilidade)
 - [Condições de atribuição e afixação do Selo](#condições-de-atribuição-e-afixação-do-Selo)
 - Anexos
-  - [Selos em formato SVG](#selos-em-formato-svg) 
+  - [Selos em formato SVG](#selos-em-formato-svg)
   - [_Checklist_ "10 aspectos funcionais"](#checklist-10-aspetos-funcionais-de-acessibilidade)
   - [_Checklist_ "Conteúdo"](#checklist-conteúdo)
   - [_Checklist_ "Transação"](#checklist-transação)
@@ -453,7 +453,7 @@ As entidades podem renovar o Selo por igual período de 12 meses remetendo à AM
 
 ## Anexos
 
-### Selos em formato SVG <a href="https://selo.usabilidade.gov.pt/imagens_selo">https://selo.usabilidade.gov.pt/imagens_selo</a>
+### Selos em formato SVG 
 
 ### _Checklist_ "10 aspetos funcionais de acessibilidade"
 
