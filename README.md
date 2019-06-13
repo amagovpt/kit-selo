@@ -457,20 +457,28 @@ As entidades podem renovar o Selo por igual período de 12 meses remetendo à AM
 
 Todos os selos que se encontram abaixo estão em formato <abbr title="Scalable Vector Graphics" lang="en">SVG</abbr>, o formato vetorial gráfico do <abbr title="World Wide Web Consortium" lang="en">W3C</abbr>. Na prática, é possível escalar qualquer um destes gráficos sem perda de resolução - pode ter um pequeno ícone ou um gráfico do tamanho de um múpi. Para os descarregar, basta selecionar a imagem e com o menu contextual (botão direito do rato) selecionar "guardar como".
 
-Para cada nível existem 4 versões. Pode optar por afixar aquela que melhor se adequa ao seu design. 
+Para cada nível existem 4 versões do selo. Pode optar por afixar aquela que melhor se adequa ao seu <em lang="en">design</em>. 
 
-#### Selo Ouro
+#### Versões do Selo Ouro
 
-<img height="150" alt="Selo Ouro" src="img/ouro.svg">
-<img height="150" alt="Selo Ouro - vertical" src="img/ouro-vertical.svg">
-<img height="150" alt="Selo Ouro - horizontal" src="img/ouro-horizontal.svg">
+<img height="150" alt="Selo Ouro" src="img/ouro.svg"><br>
+<img height="150" alt="Selo Ouro - vertical" src="img/ouro-vertical.svg"><br>
+<img height="150" alt="Selo Ouro - horizontal" src="img/ouro-horizontal.svg"><br>
 <img height="150" alt="Selo Ouro - horizontal e letra branca" src="img/ouro-horizontal-branco.svg">
 
-#### Selo Prata
+#### Versoões do Selo Prata
 
+<img height="150" alt="Selo Prata" src="img/prata.svg"><br>
+<img height="150" alt="Selo Prata - vertical" src="img/prata-vertical.svg"><br>
+<img height="150" alt="Selo Prata - horizontal" src="img/prata-horizontal.svg"><br>
+<img height="150" alt="Selo Prata - horizontal e letra branca" src="img/prata-horizontal-branco.svg">
 
-#### Selo Bronze
+#### Versões do Selo Bronze
 
+<img height="150" alt="Selo Bronze" src="img/bronze.svg"><br>
+<img height="150" alt="Selo Bronze - vertical" src="img/bronze-vertical.svg"><br>
+<img height="150" alt="Selo Bronze - horizontal" src="img/bronze-horizontal.svg"><br>
+<img height="150" alt="Selo Bronze - horizontal e letra branca" src="img/bronze-horizontal-branco.svg">
 
 ### _Checklist_ "10 aspetos funcionais de acessibilidade"
 
