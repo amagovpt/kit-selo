@@ -15,7 +15,7 @@
   - [Testes de Usabilidade](#testes-de-usabilidade)
 - [Condições de atribuição e afixação do Selo](#condições-de-atribuição-e-afixação-do-Selo)
 - Anexos
-  - [Selos em formato SVG](#selos-em-formato-svg)
+  - [Selos em formato SVG](#formato-svg-do-selo-usabilidade-e-acessibilidade)
   - [_Checklist_ "10 aspectos funcionais"](#checklist-10-aspetos-funcionais-de-acessibilidade)
   - [_Checklist_ "Conteúdo"](#checklist-conteúdo)
   - [_Checklist_ "Transação"](#checklist-transação)
@@ -461,7 +461,14 @@ Para cada nível existem 4 versões. Pode optar por afixar aquela que melhor se 
 
 #### Selo Ouro
 
-<img src="img/ouro.svg" alt="Selo Ouro">
+<div class="row">
+  <div class="col-sm-6">
+    <img src="img/ouro.svg" alt="Selo Ouro">
+  </div>
+  <div class="col-sm-6">
+    <img src="img/ouro-vertical.svg" alt="Selo Ouro - vertical">
+  </div>
+</div>
 
 #### Selo Prata
 
