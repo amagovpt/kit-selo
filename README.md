@@ -373,14 +373,14 @@ Para que possa ser bem interpretado por tecnologias de apoio, os menus e submenu
 
 <div style="width:50%; margin:auto auto; text-align:center">
   <img alt="1.2 " style="width:50%;" src="img/checklist/02_menusnavegação.svg">
-  <p style="font-size:120%; font-weight:bold">É possível selecionar as opções e as subopções do menu quer com rato quer com teclado? </p>
+  <p style="font-size:120%; font-weight:bold">É possível selecionar as opções e as subopções do menu quer com rato quer com teclado?</p>
 </div>
 
 Deve ser possível percorrer a estrutura de navegação quer com um dispositivo apontador quer com o teclado.
 
 <div style="width:50%; margin:auto auto; text-align:center">
   <img alt="1.3 " style="width:50%;" src="img/checklist/03_menusnavegação.svg">
-  <p style="font-size:120%; font-weight:bold">As imagens-_link_, caso existam no menu, devem ter o correspondente equivalente alternativo em texto</p>
+  <p style="font-size:120%; font-weight:bold">As imagens-link, caso existam no menu, devem ter o correspondente equivalente alternativo em texto</p>
 </div>
 
 As imagens corretamente legendadas permitem ser interpretadas como texto, tornando todas as opções de navegação acessíveis.
@@ -389,19 +389,19 @@ As imagens corretamente legendadas permitem ser interpretadas como texto, tornan
 
 <div style="width:50%; margin:auto auto; text-align:center">
   <img alt="2.1 " style="width:50%;" src="img/checklist/01_titulossubtitulos.svg">
-  <p style="font-size:120%; font-weight:bold">Existe um título `<h1>` marcado na página</p>
+  <p style="font-size:120%; font-weight:bold">Existe um título <code>&lt;h1&gt;</code> marcado na página</p>
 </div> 
 
 O título principal de cada página, que sumariza o seu conteúdo, deve ser identificado como o primeiro nível dos títulos (h1). Não deverão ser usados mais do que um elemento deste tipo.
 
 <div style="width:50%; margin:auto auto; text-align:center">
   <img alt="2.2 " style="width:50%;" src="img/checklist/02_titulossubtitulos.svg">
-  <p style="font-size:120%; font-weight:bold">Existe uma marcação hierarquizada de títulos e subtítulos na página (<code>\<h1\></code>...<code>\<h6\></code>)</p>
+  <p style="font-size:120%; font-weight:bold">Existe uma marcação hierarquizada de títulos e subtítulos na página (<code>&lt;h1&gt;</code>...<code>&lt;h6&gt;</code>)</p>
 </div>  
 
 Os títulos são empregues de forma hierárquica para melhor estruturar os conteúdos, das informações mais gerais às mais particulares. Deverão ser usados de forma consistente por todo o sítio _Web_.
 
-**3 · TABELAS DE DADOS**
+#### 3 · TABELAS DE DADOS
 
 ☐ As células que constituem os cabeçalhos da tabela estão marcadas com o elemento `<th>` 
 
