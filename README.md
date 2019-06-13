@@ -461,22 +461,16 @@ Para cada nível existem 4 versões. Pode optar por afixar aquela que melhor se 
 
 #### Selo Ouro
 
-<div class="row">
-  <div class="col-sm-6">
-    <img src="img/ouro.svg" alt="Selo Ouro">
-  </div>
-  <div class="col-sm-6">
-    <img src="img/ouro-vertical.svg" alt="Selo Ouro - vertical">
-  </div>
-</div>
+![Selo Ouro](img/ouro.svg)
+![Selo Ouro - vertical](img/ouro-vertical.svg)
+![Selo Ouro - horizontal](img/ouro-horizontal.svg)
+1[Selo Ouro - horizontal e letra branca](img/ouro-horizontal-branco.svg)
 
 #### Selo Prata
 
-<img src="img/prata.svg" alt="Selo Prata">
 
 #### Selo Bronze
 
-<img src="img/bronze.svg" alt="Selo Bronze">
 
 ### _Checklist_ "10 aspetos funcionais de acessibilidade"
 
