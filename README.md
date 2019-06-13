@@ -252,21 +252,21 @@ Apresentam-se a seguir algumas das ferramentas de validação automática que po
 #### 1 · FORMULÁRIOS
 
 <div style="width:50%; margin:auto auto; text-align:center">
-  <img alt="1.1 " style="width:50%;" src="img/checklist/01_formularios.svg">
+  <img alt="1.1 " style="width:50%;" src="img/checklist/01_usabiliformularios.svg">
   <p style="font-size:120%; font-weight:bold">A sequência de tabulação entre campos segue a sequência de preenchimento</p>
 </div>
 
 A ordem de tabulação por entre os campos deve corresponder à sequência normal de preenchimento do formulário. 
 
 <div style="width:50%; margin:auto auto; text-align:center">
-  <img alt="1.2 " style="width:50%;" src="img/checklist/02_formularios.svg">
+  <img alt="1.2 " style="width:50%;" src="img/checklist/02_usabiliformularios.svg">
   <p style="font-size:120%; font-weight:bold">Os formulários com mais de 2 ecrãs de altura devem ser distribuídos por várias páginas</p>
 </div>
 
 Os formulários não devem ser apresentados de forma excessivamente longa. Os formulários que ocupem mais de 2 ecrãs de altura devem ser distribuídos por tantos ecrãs quantos os necessários, para cumprir com esta regra. Os formulários longos podem também ter vários momentos de interação diferidos, solicitando ao utilizador a informação absolutamente necessária em cada etapa, em oposição à solicitação de toda a informação necessária logo num primeiro momento de interação.
 
 <div style="width:50%; margin:auto auto; text-align:center">
-  <img alt="1.3 " style="width:50%;" src="img/checklist/03_formularios.svg">
+  <img alt="1.3 " style="width:50%;" src="img/checklist/03_usabiliformularios.svg">
   <p style="font-size:120%; font-weight:bold">Os formulários com mais de uma página têm a sequência de passos ilustrada</p>
 </div>
 
