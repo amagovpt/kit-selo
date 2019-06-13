@@ -463,9 +463,8 @@ Para cada nível existem 4 versões. Pode optar por afixar aquela que melhor se 
 
 <img height="100" alt="Selo Ouro" src="img/ouro.svg">
 <img height="100" alt="Selo Ouro - vertical" src="img/ouro-vertical.svg">
-
-![Selo Ouro - horizontal](img/ouro-horizontal.svg)
-![Selo Ouro - horizontal e letra branca](img/ouro-horizontal-branco.svg)
+<img height="100" alt="Selo Ouro - horizontal" src="img/ouro-horizontal.svg">
+<img height="100" alt="Selo Ouro - horizontal e letra branca" src="img/ouro-horizontal-branco.svg">
 
 #### Selo Prata
 
