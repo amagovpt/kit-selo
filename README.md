@@ -180,29 +180,47 @@ As hiperligações de texto devem apresentar um contraste mínimo de 4,5:1 com o
 
 #### 4 · ESTRUTURA DA INFORMAÇÃO
 
-☐ Os documentos longos têm um índice no topo com hiperligações internas para o mesmo 
+<div style="width:50%; margin:auto auto; text-align:center">
+  <img alt="4.1 " style="width:50%;" src="img/checklist/01_estruturainformacao.svg">
+  <p style="font-size:120%; font-weight:bold">Os documentos longos têm um índice no topo com hiperligações internas para o mesmo</p>
+</div>
 
 Os documentos com mais de três ecrãs de altura deverão ter a hierarquia de cabeçalhos espelhada num índice no topo da página com hiperligações internas para as respetivas secções e subsecções. 
 
-☐ O layout do sítio _Web_ é adaptável a plataformas móveis sem necessidade de efetuar varrimento horizontal 
+<div style="width:50%; margin:auto auto; text-align:center">
+  <img alt="4.2 " style="width:50%;" src="img/checklist/02_estruturainformacao.svg">
+  <p style="font-size:120%; font-weight:bold">O layout do sítio _Web_ é adaptável a plataformas móveis sem necessidade de efetuar varrimento horizontal</p>
+</div>
 
 O layout do sítio _Web_ deve ser adaptável aos tamanhos mais comuns de visualização, adaptando-se a várias larguras de ecrã sem que surjam barras de varrimento horizontais. 
 
 #### 5 · ELEMENTOS INTERATIVOS
 
-☐ Não existem elementos interativos acionados apenas com a passagem do rato (<em>hover</em>)
- 
+<div style="width:50%; margin:auto auto; text-align:center">
+  <img alt="5.1 " style="width:50%;" src="img/checklist/01_elementosinterativos.svg">
+  <p style="font-size:120%; font-weight:bold">Não existem elementos interativos acionados apenas com a passagem do rato (<em lang="en">hover</em>)</p>
+</div>
+
 Não devem existir elementos de interação, como hiperligações ou botões, que aparecem apenas quando se passa por cima com um dispositivo apontador. Este método de interação não está disponível em aparelhos com interação por toque. 
 
-☐ Os elementos interativos têm uma dimensão mínima de 44px CSS (44pt) (vertical e horizontal) 
+<div style="width:50%; margin:auto auto; text-align:center">
+  <img alt="5.2 " style="width:50%;" src="img/checklist/02_elementosinterativos.svg">
+  <p style="font-size:120%; font-weight:bold">Os elementos interativos têm uma dimensão mínima de 44px CSS (44pt) (vertical e horizontal) </p>
+</div>
 
 De forma a assegurar que todos os elementos interativos são facilmente acionáveis por qualquer tipo de dispositivo apontador ou toque, estes devem ter a dimensão mínima de 44px CSS de altura e de largura. 
 
-☐ Há apenas um botão de ação principal por página e o mesmo encontra-se destacado 
+<div style="width:50%; margin:auto auto; text-align:center">
+  <img alt="5.3 " style="width:50%;" src="img/checklist/03_elementosinterativos.svg">
+  <p style="font-size:120%; font-weight:bold">Há apenas um botão de ação principal por página e o mesmo encontra-se destacado </p>
+</div>
 
 Deve existir apenas um botão de ação principal por página e o mesmo deve apresentar-se numa cor contrastante. Todos os outros botões devem ser considerados como secundários. 
 
-☐ Elementos gráficos interativos têm de aparentar ser clicáveis
+<div style="width:50%; margin:auto auto; text-align:center">
+  <img alt="5.4 " style="width:50%;" src="img/checklist/04_elementosinterativos.svg">
+  <p style="font-size:120%; font-weight:bold">Elementos gráficos interativos têm de aparentar ser clicáveis</p>
+</div>
 
 Os elementos gráficos clicáveis devem ser percecionáveis como tal, através da forma, da cor ou do aparente volume.
 
