@@ -93,7 +93,7 @@ Este nível está também alinhado com a recomendação constante na metodologia
 
 ## Requisitos para obter o Selo Bronze
 
-### Usabilidade: conformidade para com a _checklist_ "Conteúdo"
+### Usabilidade: conformidade para com a <em lang="en">Checklist</em> "Conteúdo"
 
 #### 1 · CLAREZA DO CONTEÚDO
 
@@ -125,25 +125,37 @@ Cada bloco de conteúdo isolado ou conjunto de blocos de conteúdo relacionado d
 
 A identificação da entidade responsável pelos conteúdos produzidos, incluindo uma hiperligação para a página de contactos deverá constar do rodapé de todas as páginas. 
 
-**2 · USABILIDADE DO CONTEÚDO**
+#### 2 · USABILIDADE DO CONTEÚDO
 
-☐ Blocos e linhas de texto com largura não superior a 100 caracteres 
-
-Para manter o conforto de leitura, os blocos ou linhas de texto não deverão ter mais de 100 caracteres de largura. Os 80 caracteres correspondem à dimensão que se apresenta nos estudos como a mais confortável para os utilizadores. 
-
-☐ O espaçamento entre linhas não é inferior a 1.5x do tamanho da letra 
-
-Para assegurar a leitura confortável de blocos de texto deve ser usado um espaçamento entre linhas de 1.5x do tamanho da letra. 
-
-☐ O tipo de letra do corpo do documento é adequado e o tamanho da letra é, no mínimo, de 12 pontos 
+<div style="width:50%; margin:auto auto; text-align:center">
+  <img alt="2.1 " style="width:50%;" src="img/checklist/01_usabilidadeconteudo.svg">
+  <p style="font-size:120%; font-weight:bold">O tipo de letra do corpo do documento é adequado e o tamanho da letra é, no mínimo, de 12 pontos</p>
+</div>
 
 De forma a assegurar a boa legibilidade do texto para todos os utilizadores, o tamanho de letra do texto que compõe o corpo do documento deverá ser, no mínimo, de 12 pontos, assegurando sempre que os mesmos são escaláveis para tamanhos superiores, sempre que o utilizador considere necessário. 
 
-☐ A informação secundária (datas, autores) utiliza, no mínimo, um tamanho de letra de 10 pontos 
+<div style="width:50%; margin:auto auto; text-align:center">
+  <img alt="2.2 " style="width:50%;" src="img/checklist/02_usabilidadeconteudo.svg">
+  <p style="font-size:120%; font-weight:bold">A informação secundária (datas, autores) utiliza, no mínimo, um tamanho de letra de 10 pontos</p>
+</div>
 
 A informação secundária, como os autores de textos ou de imagens, as datas de publicação ou outros tipos de meta-informação, podem usar tamanhos de letra mais pequenos, mas, no mínimo, com 10 pontos, assegurando sempre que os mesmos são escaláveis para tamanhos superiores, sempre que o utilizador considere necessário.
 
-**3 · ESTRUTURA DA NAVEGAÇÃO**
+<div style="width:50%; margin:auto auto; text-align:center">
+  <img alt="2.3 " style="width:50%;" src="img/checklist/03_usabilidadeconteudo.svg">
+  <p style="font-size:120%; font-weight:bold">Blocos e linhas de texto com largura não superior a 100 caracteres</p>
+</div>
+
+Para manter o conforto de leitura, os blocos ou linhas de texto não deverão ter mais de 100 caracteres de largura. Os 80 caracteres correspondem à dimensão que se apresenta nos estudos como a mais confortável para os utilizadores. 
+
+<div style="width:50%; margin:auto auto; text-align:center">
+  <img alt="2.4 " style="width:50%;" src="img/checklist/04_usabilidadeconteudo.svg">
+  <p style="font-size:120%; font-weight:bold">O espaçamento entre linhas não é inferior a 1.5x do tamanho da letra </p>
+</div>
+
+Para assegurar a leitura confortável de blocos de texto deve ser usado um espaçamento entre linhas de 1.5x do tamanho da letra. 
+
+#### 3 · ESTRUTURA DA NAVEGAÇÃO
 
 ☐ A navegação principal está sempre visível e sempre no mesmo local 
 
@@ -157,7 +169,7 @@ A navegação principal deve ser equilibrada, nem com demasiadas opções de top
 
 As hiperligações de texto devem apresentar um contraste mínimo de 4,5:1 com o texto envolvente e uma representação visual complementar da cor - idealmente as hiperligações devem apresentar-se sublinhadas. As hiperligações em texto devem apresentar-se da mesma forma em todo o sítio _Web_. 
 
-**4 · ESTRUTURA DA INFORMAÇÃO**
+#### 4 · ESTRUTURA DA INFORMAÇÃO
 
 ☐ Os documentos longos têm um índice no topo com hiperligações internas para o mesmo 
 
@@ -167,7 +179,7 @@ Os documentos com mais de três ecrãs de altura deverão ter a hierarquia de ca
 
 O layout do sítio _Web_ deve ser adaptável aos tamanhos mais comuns de visualização, adaptando-se a várias larguras de ecrã sem que surjam barras de varrimento horizontais. 
 
-**5 · ELEMENTOS INTERATIVOS**
+#### 5 · ELEMENTOS INTERATIVOS
 
 ☐ Não existem elementos interativos acionados apenas com a passagem do rato (<em>hover</em>)
  
