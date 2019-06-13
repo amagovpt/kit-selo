@@ -463,22 +463,22 @@ Para cada nível existem 4 versões do selo. Pode optar por afixar aquela que me
 
 <img height="150" alt="Selo Ouro" src="img/ouro.svg"><br>
 <img height="150" alt="Selo Ouro - vertical" src="img/ouro-vertical.svg"><br>
-<img height="150" alt="Selo Ouro - horizontal" src="img/ouro-horizontal.svg"><br>
-<img height="150" alt="Selo Ouro - horizontal e letra branca" src="img/ouro-horizontal-branco.svg">
+<img height="150" alt="Selo Ouro - horizontal e letra branca" src="img/ouro-horizontal-branco.svg"><br>
+<img height="150" alt="Selo Ouro - horizontal" src="img/ouro-horizontal.svg">
 
 #### Versoões do Selo Prata
 
 <img height="150" alt="Selo Prata" src="img/prata.svg"><br>
 <img height="150" alt="Selo Prata - vertical" src="img/prata-vertical.svg"><br>
-<img height="150" alt="Selo Prata - horizontal" src="img/prata-horizontal.svg"><br>
-<img height="150" alt="Selo Prata - horizontal e letra branca" src="img/prata-horizontal-branco.svg">
+<img height="150" alt="Selo Prata - horizontal e letra branca" src="img/prata-horizontal-branco.svg"><br>
+<img height="150" alt="Selo Prata - horizontal" src="img/prata-horizontal.svg">
 
 #### Versões do Selo Bronze
 
 <img height="150" alt="Selo Bronze" src="img/bronze.svg"><br>
 <img height="150" alt="Selo Bronze - vertical" src="img/bronze-vertical.svg"><br>
-<img height="150" alt="Selo Bronze - horizontal" src="img/bronze-horizontal.svg"><br>
-<img height="150" alt="Selo Bronze - horizontal e letra branca" src="img/bronze-horizontal-branco.svg">
+<img height="150" alt="Selo Bronze - horizontal e letra branca" src="img/bronze-horizontal-branco.svg"><br>
+<img height="150" alt="Selo Bronze - horizontal" src="img/bronze-horizontal.svg">
 
 ### _Checklist_ "10 aspetos funcionais de acessibilidade"
 
