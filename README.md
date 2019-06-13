@@ -98,21 +98,30 @@ Este nível está também alinhado com a recomendação constante na metodologia
 **1 · CLAREZA DO CONTEÚDO**
 
 <div style="width:50%; margin:auto auto; text-align:center">
-  <img alt="" style="width:50%;" src="img/checklist/01_clarezaconteudo.svg">
+  <img alt="1.1 " style="width:50%;" src="img/checklist/01_clarezaconteudo.svg">
   <p style="font-size:120%; font-weight:bold">O sítio <em>Web</em> apresenta um resumo breve do seu propósito, visível sem se fazer <em lang="en">scroll</em></p>
 </div>
 
 Num primeiro vislumbre do sítio _Web_ deve ser visível uma breve definição do seu propósito que dê a indicação ao utilizador de que sítio _Web_ se trata e quais são as tarefas que se podem levar a efeito. 
 
-☐ Cada bloco de conteúdo contém a sua data de atualização 
+<div style="width:50%; margin:auto auto; text-align:center">
+  <img alt="1.2 " style="width:50%;" src="img/checklist/02_clarezaconteudo.svg">
+  <p style="font-size:120%; font-weight:bold">Cada bloco de conteúdo contém a sua data de atualização</p>
+</div>
 
 Cada bloco de conteúdo isolado ou conjunto de blocos de conteúdo relacionado deverá ter a data da sua atualização associada, expressa num tamanho de letra 2pt abaixo ao do corpo do texto, com contraste mais reduzido mas nunca inferior a 4,5:1. 
 
-☐ A informação sobre a entidade responsável pelo conteúdo está em todas as páginas 
+<div style="width:50%; margin:auto auto; text-align:center">
+  <img alt="1.3 " style="width:50%;" src="img/checklist/03_clarezaconteudo.svg">
+  <p style="font-size:120%; font-weight:bold">A informação sobre a entidade responsável pelo conteúdo está em todas as páginas </p>
+</div>
 
 A identificação da entidade responsável pelos conteúdos produzidos, incluindo uma hiperligação para a página de contactos deverá constar do rodapé de todas as páginas. 
 
-☐ Os termos mais complexos têm uma definição agregada 
+<div style="width:50%; margin:auto auto; text-align:center">
+  <img alt="1.4 " style="width:50%;" src="img/checklist/04_clarezaconteudo.svg">
+  <p style="font-size:120%; font-weight:bold">Os termos mais complexos têm uma definição agregada</p>
+</div>
 
 Quando são usados termos complexos ou técnicos que não sejam de uso corrente, estes devem ter agregada uma definição. Todos os termos definidos desta forma devem fazer parte de um glossário disponível no sítio _Web_. 
 
