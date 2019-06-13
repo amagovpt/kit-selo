@@ -440,38 +440,58 @@ Os campos obrigatórios devem ser preferencialmente agrupados na parte inicial d
 
 Os erros identificados no decorrer do preenchimento de um formulário deverão preferencialmente ser listados de forma condensada, direcionando cada elemento da lista ao respetivo campo. Cada campo deverá associar a mensagem de erro a si próprio. As mensagens de erro deverão ser breves e claras.
 
-#### 5 · GRÁFICOS E IMAGENS-_LINK_
+#### 5 · GRÁFICOS E IMAGENS-LINK
 
-☐ A imagem ou gráfico tem um equivalente alternativo em texto curto e correto
+<div style="width:50%; margin:auto auto; text-align:center">
+  <img alt="5.1 " style="width:50%;" src="img/checklist/01_graficosimagenslink.svg">
+  <p style="font-size:120%; font-weight:bold">A imagem ou gráfico tem um equivalente alternativo em texto, curto e correto</p>
+</div>
 
 As imagens não decorativas deverão ter uma descrição breve associada, nomeadamente através do uso do atributo `<ALT>`. Esta legenda deve descrever fielmente o propósito da imagem no contexto em que se encontra.
 
-☐ O gráfico é acompanhado de uma descrição longa 
+<div style="width:50%; margin:auto auto; text-align:center">
+  <img alt="5.2 " style="width:50%;" src="img/checklist/02_graficosimagenslink.svg">
+  <p style="font-size:120%; font-weight:bold">O gráfico é acompanhado de uma descrição longa</p>
+</div> 
 
 Gráficos resultantes de análise de dados deverão ser acompanhados da tabela de dados que lhe deu origem, de forma a preservar o acesso à informação completa.
 
-☐ As imagens-_link_ têm um equivalente alternativo correto 
+<div style="width:50%; margin:auto auto; text-align:center">
+  <img alt="5.2 " style="width:50%;" src="img/checklist/02_graficosimagenslink.svg">
+  <p style="font-size:120%; font-weight:bold">As imagens-link têm um equivalente alternativo correto</p>
+</div> 
 
 As hiperligações compostas apenas por uma imagem obrigam que esta tenha um equivalente alternativo em texto que represente fielmente o destino da hiperligação.
 
 #### 6 · CONTRASTES
 
-☐ No corpo de um documento, o rácio de contraste entre a cor do texto e a cor do fundo é superior a 4,5:1 
+<div style="width:50%; margin:auto auto; text-align:center">
+  <img alt="6.1 " style="width:50%;" src="img/checklist/01_contraste.svg">
+  <p style="font-size:120%; font-weight:bold">No corpo de um documento, o rácio de contraste entre a cor do texto e a cor do fundo é superior a 4,5:1</p>
+</div>
 
 Deve assegurar-se no corpo do documento que o rácio de contraste entre a cor do texto e a cor de fundo é, no mínimo, de 4,5:1, de forma a assegurar a sua legibilidade para utilizadores com deficiências da visão.
 
-
-☐ O rácio de contraste entre a cor do texto de tamanho grande (maior que 18pt) ou texto maior que 14pt Negrito e o fundo é superior a 3:1 
+<div style="width:50%; margin:auto auto; text-align:center">
+  <img alt="6.2 " style="width:50%;" src="img/checklist/02_contraste.svg">
+  <p style="font-size:120%; font-weight:bold">O rácio de contraste entre a cor do texto de tamanho grande (maior que 18pt) ou texto maior que 14pt Negrito e o fundo é superior a 3:1</p>
+</div>
 
 Os textos de tamanho superior a 18 pontos, ou os textos de tamanho superior a 14 pontos mas a negrito, devem assegurar um rácio de contraste mínimo de 3:1 entre a cor do texto e a cor do fundo. 
 
 #### 7 · _PLAYERS_
 
-☐ Deve ser possível ativar os botões de controlo do leitor quer com o rato quer com o teclado 
+<div style="width:50%; margin:auto auto; text-align:center">
+  <img alt="7.1 " style="width:50%;" src="img/checklist/01_players.svg">
+  <p style="font-size:120%; font-weight:bold">Deve ser possível ativar os botões de controlo do leitor quer com o rato quer com o teclado </p>
+</div>
 
 Os leitores de multimédia não devem iniciar automaticamente a reprodução dos elementos e têm de ser operáveis usando apenas um rato ou usando apenas um teclado. 
 
-☐ O vídeo ou o áudio deve conter preferencialmente legendas fechadas sincronizadas. Caso não seja possível, no mínimo, deve-se disponibilizar uma transcrição textual 
+<div style="width:50%; margin:auto auto; text-align:center">
+  <img alt="7.2 " style="width:50%;" src="img/checklist/02_players.svg">
+  <p style="font-size:120%; font-weight:bold">O vídeo ou o áudio deve conter preferencialmente legendas fechadas sincronizadas. Caso não seja possível, no mínimo, deve-se disponibilizar uma transcrição textual</p>
+</div>
 
 O uso de legendas fechadas destina-se essencialmente a pessoas surdas. Recomendam-se para a produção das referidas legendas técnicas de tradaptação conhecidas para o efeito bem como o enriquecimento das legendas de sons cuja mensagem não seja percetível visualmente (p.e. o toque de uma campanha de uma porta).
 
@@ -479,35 +499,56 @@ Para vídeos com mensagens eminentemente visuais (p.e. um vídeo com música de 
 
 #### 8 · ESTRUTURA DA PÁGINA
 
-☐ Quando se retira a CSS, todos os elementos HTML devem alinhar à esquerda 
+<div style="width:50%; margin:auto auto; text-align:center">
+  <img alt="8.1 " style="width:50%;" src="img/checklist/01_estruturapagina.svg">
+  <p style="font-size:120%; font-weight:bold">Quando se retira a CSS, todos os elementos HTML devem alinhar à esquerda</p>
+</div>
 
 Quando se desativam todos os estilos visuais, o conteúdo da página é apresentado alinhado à esquerda e apresenta-se de forma linear.
 
-☐ Quando se retira a CSS, a informação aparece numa ordem lógica 
+<div style="width:50%; margin:auto auto; text-align:center">
+  <img alt="8.2 " style="width:50%;" src="img/checklist/02_estruturapagina.svg">
+  <p style="font-size:120%; font-weight:bold">Quando se retira a CSS, a informação aparece numa ordem lógica </p>
+</div>
 
 Tendo em conta que o posicionamento de elementos no código pode não refletir a ordem visual de leitura, deve ser assegurada a ordem correta do conteúdo quando se desativam os estilos visuais.
 
-☐ Quando se retira a CSS, deve ser possível reconhecer a semântica dos diversos elementos
+<div style="width:50%; margin:auto auto; text-align:center">
+  <img alt="8.3 " style="width:50%;" src="img/checklist/03_estruturapagina.svg">
+  <p style="font-size:120%; font-weight:bold">Quando se retira a CSS, deve ser possível reconhecer a semântica dos diversos elementos</p>
+</div>
 
 Os elementos que estruturam o conteúdo devem estar semanticamente bem estruturados, usando os elementos de HTML apropriados a cada tipo de conteúdo, como título, parágrafos, listas, ... 
 
-☐ Quando se retira a CSS, a informação relevante permanece visível? 
+<div style="width:50%; margin:auto auto; text-align:center">
+  <img alt="8.4 " style="width:50%;" src="img/checklist/04_estruturapagina.svg">
+  <p style="font-size:120%; font-weight:bold">Quando se retira a CSS, a informação relevante permanece visível?</p>
+</div> 
 
 Toda a informação visível deve permanecer na página sob forma textual, quando se desativam os estilos visuais.
 
-☐ A maquetização da página não é feita através do elemento `<table>`
+<div style="width:50%; margin:auto auto; text-align:center">
+  <img alt="8.1 " style="width:50%;" src="img/checklist/01_estruturapagina.svg">
+  <p style="font-size:120%; font-weight:bold">A maquetização da página não é feita através do elemento <code>&lt;table&gt;</code></p>
+</div>
 
 A estrutura de composição gráfica da página não é feita recorrendo a elementos de tabela mas sim a uma maior diversidade de elementos semânticos (p.e. &lt;main&gt;) e genéricos (p.e. &lt;div&gt;), que permitem a recomposição visual para diferentes tipos e dimensões de ecrã.
 
 #### 9 · SINTAXE DE HTML
 
-☐ A página não tem erros de HTML 
+<div style="width:50%; margin:auto auto; text-align:center">
+  <img alt="9.1 " style="width:50%;" src="img/checklist/01_sintaxehtml.svg">
+  <p style="font-size:120%; font-weight:bold">A página não tem erros de HTML</p>
+</div> 
 
 A página não deve apresentar erros de sintaxe de HTML.
 
 #### 10 · FICHEIROS PDF
 
-☐ Nos ficheiros PDF é possível, no mínimo, extrair o conteúdo textual para formato TXT 
+<div style="width:50%; margin:auto auto; text-align:center">
+  <img alt="10.1 " style="width:50%;" src="img/checklist/01_ficheirospdf.svg">
+  <p style="font-size:120%; font-weight:bold">Nos ficheiros PDF é possível, no mínimo, extrair o conteúdo textual para formato TXT</p>
+</div>
 
 Os ficheiros PDF devem ter o seu texto inteiramente extraível para que se possa passar o respetivo conteúdo para um processador de texto sem perda de informação.
 
