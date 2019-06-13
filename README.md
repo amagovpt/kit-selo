@@ -453,7 +453,23 @@ As entidades podem renovar o Selo por igual período de 12 meses remetendo à AM
 
 ## Anexos
 
-### Selos em formato SVG 
+### Formato SVG do Selo Usabilidade e Acessibilidade 
+
+Todos os selos que se encontram abaixo estão em formato <abbr title="Scalable Vector Graphics" lang="en">SVG</abbr>, o formato vetorial gráfico do <abbr title="World Wide Web Consortium" lang="en">W3C</abbr>. Na prática, é possível escalar qualquer um destes gráficos sem perda de resolução - pode ter um pequeno ícone ou um gráfico do tamanho de um múpi. Para os descarregar, basta selecionar a imagem e com o menu contextual (botão direito do rato) selecionar "guardar como".
+
+Para cada nível existem 4 versões. Pode optar por afixar aquela que melhor se adequa ao seu design. 
+
+#### Selo Ouro
+
+<img src="img/ouro.svg" alt="Selo Ouro">
+
+#### Selo Prata
+
+<img src="img/prata.svg" alt="Selo Prata">
+
+#### Selo Bronze
+
+<img src="img/bronze.svg" alt="Selo Bronze">
 
 ### _Checklist_ "10 aspetos funcionais de acessibilidade"
 
