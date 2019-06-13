@@ -362,27 +362,42 @@ A _checklist_ "10 aspetos funcionais" é para ser usada de acordo com a metodolo
 </ol>
 </blockquote>
 
-**1 · MENUS DE NAVEGAÇÃO**
+#### 1 · MENUS DE NAVEGAÇÃO
 
-☐ O menu de navegação deve estar estruturado como uma lista de opções
+<div style="width:50%; margin:auto auto; text-align:center">
+  <img alt="1.1 " style="width:50%;" src="img/checklist/01_menusnavegação.svg">
+  <p style="font-size:120%; font-weight:bold">O menu de navegação deve estar estruturado como uma lista de opções</p>
+</div>
 
 Para que possa ser bem interpretado por tecnologias de apoio, os menus e submenus devem estar estruturados com elementos nativos, do tipo `<ul>`, ou com a semântica e o estado dos elementos identificados com técnicas em ARIA.
 
-☐ É possível selecionar as opções e as subopções do menu quer com rato quer com teclado? 
+<div style="width:50%; margin:auto auto; text-align:center">
+  <img alt="1.2 " style="width:50%;" src="img/checklist/02_menusnavegação.svg">
+  <p style="font-size:120%; font-weight:bold">É possível selecionar as opções e as subopções do menu quer com rato quer com teclado? </p>
+</div>
 
 Deve ser possível percorrer a estrutura de navegação quer com um dispositivo apontador quer com o teclado.
 
-☐ As imagens-_link_, caso existam no menu, devem ter o correspondente equivalente alternativo em texto 
+<div style="width:50%; margin:auto auto; text-align:center">
+  <img alt="1.3 " style="width:50%;" src="img/checklist/03_menusnavegação.svg">
+  <p style="font-size:120%; font-weight:bold">As imagens-_link_, caso existam no menu, devem ter o correspondente equivalente alternativo em texto</p>
+</div>
 
 As imagens corretamente legendadas permitem ser interpretadas como texto, tornando todas as opções de navegação acessíveis.
 
-**2 · TÍTULOS E SUBTÍTULOS**
+#### 2 · TÍTULOS E SUBTÍTULOS
 
-☐ Existe um título `<h1>` marcado na página 
+<div style="width:50%; margin:auto auto; text-align:center">
+  <img alt="2.1 " style="width:50%;" src="img/checklist/01_titulossubtitulos.svg">
+  <p style="font-size:120%; font-weight:bold">Existe um título `<h1>` marcado na página</p>
+</div> 
 
 O título principal de cada página, que sumariza o seu conteúdo, deve ser identificado como o primeiro nível dos títulos (h1). Não deverão ser usados mais do que um elemento deste tipo.
 
-☐ Existe uma marcação hierarquizada de títulos e subtítulos na página (`<h1>`...`<h6>`) 
+<div style="width:50%; margin:auto auto; text-align:center">
+  <img alt="2.2 " style="width:50%;" src="img/checklist/02_titulossubtitulos.svg">
+  <p style="font-size:120%; font-weight:bold">Existe uma marcação hierarquizada de títulos e subtítulos na página (<code>\<h1\></code>...<code>\<h6\></code>)</p>
+</div>  
 
 Os títulos são empregues de forma hierárquica para melhor estruturar os conteúdos, das informações mais gerais às mais particulares. Deverão ser usados de forma consistente por todo o sítio _Web_.
 
