@@ -403,29 +403,44 @@ Os títulos são empregues de forma hierárquica para melhor estruturar os conte
 
 #### 3 · TABELAS DE DADOS
 
-☐ As células que constituem os cabeçalhos da tabela estão marcadas com o elemento `<th>` 
+<div style="width:50%; margin:auto auto; text-align:center">
+  <img alt="3.1 " style="width:50%;" src="img/checklist/01_tabelasdados.svg">
+  <p style="font-size:120%; font-weight:bold">As células que constituem os cabeçalhos da tabela estão marcadas com o elemento <code>&lt;th&gt;</code></p>
+</div>
 
 Identificar os cabeçalhos de uma tabela ajuda a melhor identificar os eixos que caracterizam a informação em cada célula.
 
-☐ A legenda da tabela está marcada com o elemento `<caption>`
+<div style="width:50%; margin:auto auto; text-align:center">
+  <img alt="3.2 " style="width:50%;" src="img/checklist/02_tabelasdados.svg">
+  <p style="font-size:120%; font-weight:bold">A legenda da tabela está marcada com o elemento <code>&lt;caption&gt;</code></p>
+</div>
 
 Todas as tabelas deverão conter uma legenda descritiva do seu conteúdo, incluindo as fontes da informação, se necessário.
 
-**4 · FORMULÁRIOS**
+#### 4 · FORMULÁRIOS
 
-☐ Ao clicar com o rato na etiqueta, o cursor surge no respetivo campo de edição 
+<div style="width:50%; margin:auto auto; text-align:center">
+  <img alt="4.1 " style="width:50%;" src="img/checklist/01_formularios.svg">
+  <p style="font-size:120%; font-weight:bold">Ao clicar com o rato na etiqueta, o cursor surge no respetivo campo de edição</p>
+</div>
 
 De forma a tornar a seleção de campos pequenos mais fácil, a legenda deverá estar associada ao campo respetivo com o elemento `<label>`, pois desta forma aumenta-se a sua área clicável. Para os utilizadores de leitores de ecrã (pessoas cegas) a associação da etiqueta ao campo de edição é também fundamental.
 
-☐ É possível identificar os campos de preenchimento obrigatório quando se usa apenas um leitor de ecrã
+<div style="width:50%; margin:auto auto; text-align:center">
+  <img alt="4.2 " style="width:50%;" src="img/checklist/02_formularios.svg">
+  <p style="font-size:120%; font-weight:bold">É possível identificar os campos de preenchimento obrigatório quando se usa apenas um leitor de ecrã</p>
+</div>
 
 Os campos obrigatórios devem ser preferencialmente agrupados na parte inicial de um formulário e claramente identificados como tal. Se não for possível, cada campo deverá estar identificado textualmente ou como Obrigatório ou como Opcional. Não deverão ser usados apenas símbolos ou cores como elemento identificador.
 
-☐ É possível localizar e ler as mensagens de erro usando apenas um leitor de ecrã 
+<div style="width:50%; margin:auto auto; text-align:center">
+  <img alt="4.3 " style="width:50%;" src="img/checklist/03_formularios.svg">
+  <p style="font-size:120%; font-weight:bold">É possível localizar e ler as mensagens de erro usando apenas um leitor de ecrã</p>
+</div>
 
 Os erros identificados no decorrer do preenchimento de um formulário deverão preferencialmente ser listados de forma condensada, direcionando cada elemento da lista ao respetivo campo. Cada campo deverá associar a mensagem de erro a si próprio. As mensagens de erro deverão ser breves e claras.
 
-**5 · GRÁFICOS E IMAGENS-_LINK_**
+#### 5 · GRÁFICOS E IMAGENS-_LINK_
 
 ☐ A imagem ou gráfico tem um equivalente alternativo em texto curto e correto
 
@@ -439,7 +454,7 @@ Gráficos resultantes de análise de dados deverão ser acompanhados da tabela d
 
 As hiperligações compostas apenas por uma imagem obrigam que esta tenha um equivalente alternativo em texto que represente fielmente o destino da hiperligação.
 
-**6 · CONTRASTES**
+#### 6 · CONTRASTES
 
 ☐ No corpo de um documento, o rácio de contraste entre a cor do texto e a cor do fundo é superior a 4,5:1 
 
@@ -450,7 +465,7 @@ Deve assegurar-se no corpo do documento que o rácio de contraste entre a cor do
 
 Os textos de tamanho superior a 18 pontos, ou os textos de tamanho superior a 14 pontos mas a negrito, devem assegurar um rácio de contraste mínimo de 3:1 entre a cor do texto e a cor do fundo. 
 
-**7 · _PLAYERS_**
+#### 7 · _PLAYERS_
 
 ☐ Deve ser possível ativar os botões de controlo do leitor quer com o rato quer com o teclado 
 
@@ -462,7 +477,7 @@ O uso de legendas fechadas destina-se essencialmente a pessoas surdas. Recomenda
 
 Para vídeos com mensagens eminentemente visuais (p.e. um vídeo com música de fundo que passa um conjunto de mensagens apenas percetíveis à visão, os mesmos devem ter uma versão equivalente alternativa com produção de audiodescrição. A audiodescrição é fundamental para que pessoas cegas ou com baixa visão possam percecionar a mensagem veiculada. 
 
-**8 · ESTRUTURA DA PÁGINA**
+#### 8 · ESTRUTURA DA PÁGINA
 
 ☐ Quando se retira a CSS, todos os elementos HTML devem alinhar à esquerda 
 
@@ -484,13 +499,13 @@ Toda a informação visível deve permanecer na página sob forma textual, quand
 
 A estrutura de composição gráfica da página não é feita recorrendo a elementos de tabela mas sim a uma maior diversidade de elementos semânticos (p.e. &lt;main&gt;) e genéricos (p.e. &lt;div&gt;), que permitem a recomposição visual para diferentes tipos e dimensões de ecrã.
 
-**9 · SINTAXE DE HTML**
+#### 9 · SINTAXE DE HTML
 
 ☐ A página não tem erros de HTML 
 
 A página não deve apresentar erros de sintaxe de HTML.
 
-**10 · FICHEIROS PDF**
+#### 10 · FICHEIROS PDF
 
 ☐ Nos ficheiros PDF é possível, no mínimo, extrair o conteúdo textual para formato TXT 
 
