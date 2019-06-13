@@ -157,15 +157,24 @@ Para assegurar a leitura confortável de blocos de texto deve ser usado um espa�
 
 #### 3 · ESTRUTURA DA NAVEGAÇÃO
 
-☐ A navegação principal está sempre visível e sempre no mesmo local 
-
-As opções de primeiro nível da navegação principal estão sempre visíveis e encontram-se sempre no mesmo local em todas as páginas. A posição atual do utilizador na estrutura de navegação deve ser evidenciada.
-
-☐ Nenhum nível de navegação tem mais de 9 opções 
+<div style="width:50%; margin:auto auto; text-align:center">
+  <img alt="3.1 " style="width:50%;" src="img/checklist/01_estruturanavegacao.svg">
+  <p style="font-size:120%; font-weight:bold">Nenhum nível de navegação tem mais de 9 opções</p>
+</div>
 
 A navegação principal deve ser equilibrada, nem com demasiadas opções de topo sem opções secundárias, nem com poucas opções de topo e muitas opções secundarias. Nenhum nível de navegação deve ter mais de 9 opções. 
 
-☐ As hiperligações de texto não devem ser diferenciadas apenas com base na cor 
+<div style="width:50%; margin:auto auto; text-align:center">
+  <img alt="3.2 " style="width:50%;" src="img/checklist/02_estruturanavegacao.svg">
+  <p style="font-size:120%; font-weight:bold">A navegação principal está sempre visível e sempre no mesmo local</p>
+</div>
+
+As opções de primeiro nível da navegação principal estão sempre visíveis e encontram-se sempre no mesmo local em todas as páginas. A posição atual do utilizador na estrutura de navegação deve ser evidenciada.
+
+<div style="width:50%; margin:auto auto; text-align:center">
+  <img alt="3.3 " style="width:50%;" src="img/checklist/03_estruturanavegacao.svg">
+  <p style="font-size:120%; font-weight:bold">As hiperligações de texto não devem ser diferenciadas apenas com base na cor</p>
+</div>
 
 As hiperligações de texto devem apresentar um contraste mínimo de 4,5:1 com o texto envolvente e uma representação visual complementar da cor - idealmente as hiperligações devem apresentar-se sublinhadas. As hiperligações em texto devem apresentar-se da mesma forma em todo o sítio _Web_. 
 
