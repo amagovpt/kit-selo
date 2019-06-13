@@ -97,7 +97,8 @@ Este nível está também alinhado com a recomendação constante na metodologia
 
 **1 · CLAREZA DO CONTEÚDO**
 
-☐ O sítio _Web_ apresenta um resumo breve do seu propósito, visível sem se fazer _scroll_ 
+<img alt="" style="width:10%; text-align:center" src="img/checklist/01_clarezaconteudo.svg"><br>
+O sítio _Web_ apresenta um resumo breve do seu propósito, visível sem se fazer _scroll_ 
 
 Num primeiro vislumbre do sítio _Web_ deve ser visível uma breve definição do seu propósito que dê a indicação ao utilizador de que sítio _Web_ se trata e quais são as tarefas que se podem levar a efeito. 
 
