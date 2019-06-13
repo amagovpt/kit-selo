@@ -128,28 +128,28 @@ A identificação da entidade responsável pelos conteúdos produzidos, incluind
 #### 2 · USABILIDADE DO CONTEÚDO
 
 <div style="width:50%; margin:auto auto; text-align:center">
-  <img alt="2.1 " style="width:50%;" src="img/checklist/01_usabilidadeconteudo.svg">
+  <img alt="2.1 " style="width:50%;" src="img/checklist/01_usabilidaconteudo.svg">
   <p style="font-size:120%; font-weight:bold">O tipo de letra do corpo do documento é adequado e o tamanho da letra é, no mínimo, de 12 pontos</p>
 </div>
 
 De forma a assegurar a boa legibilidade do texto para todos os utilizadores, o tamanho de letra do texto que compõe o corpo do documento deverá ser, no mínimo, de 12 pontos, assegurando sempre que os mesmos são escaláveis para tamanhos superiores, sempre que o utilizador considere necessário. 
 
 <div style="width:50%; margin:auto auto; text-align:center">
-  <img alt="2.2 " style="width:50%;" src="img/checklist/02_usabilidadeconteudo.svg">
+  <img alt="2.2 " style="width:50%;" src="img/checklist/02_usabilidaconteudo.svg">
   <p style="font-size:120%; font-weight:bold">A informação secundária (datas, autores) utiliza, no mínimo, um tamanho de letra de 10 pontos</p>
 </div>
 
 A informação secundária, como os autores de textos ou de imagens, as datas de publicação ou outros tipos de meta-informação, podem usar tamanhos de letra mais pequenos, mas, no mínimo, com 10 pontos, assegurando sempre que os mesmos são escaláveis para tamanhos superiores, sempre que o utilizador considere necessário.
 
 <div style="width:50%; margin:auto auto; text-align:center">
-  <img alt="2.3 " style="width:50%;" src="img/checklist/03_usabilidadeconteudo.svg">
+  <img alt="2.3 " style="width:50%;" src="img/checklist/03_usabilidaconteudo.svg">
   <p style="font-size:120%; font-weight:bold">Blocos e linhas de texto com largura não superior a 100 caracteres</p>
 </div>
 
 Para manter o conforto de leitura, os blocos ou linhas de texto não deverão ter mais de 100 caracteres de largura. Os 80 caracteres correspondem à dimensão que se apresenta nos estudos como a mais confortável para os utilizadores. 
 
 <div style="width:50%; margin:auto auto; text-align:center">
-  <img alt="2.4 " style="width:50%;" src="img/checklist/04_usabilidadeconteudo.svg">
+  <img alt="2.4 " style="width:50%;" src="img/checklist/04_usabilidaconteudo.svg">
   <p style="font-size:120%; font-weight:bold">O espaçamento entre linhas não é inferior a 1.5x do tamanho da letra </p>
 </div>
 
