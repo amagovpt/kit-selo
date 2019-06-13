@@ -249,63 +249,102 @@ Apresentam-se a seguir algumas das ferramentas de validação automática que po
 
 ### Usabilidade: conformidade para com a _checklist_ "Transação"
 
-**1 · FORMULÁRIOS**
+#### 1 · FORMULÁRIOS
 
-☐ A sequência de tabulação entre campos segue a sequência de preenchimento 
+<div style="width:50%; margin:auto auto; text-align:center">
+  <img alt="1.1 " style="width:50%;" src="img/checklist/01_formularios.svg">
+  <p style="font-size:120%; font-weight:bold">A sequência de tabulação entre campos segue a sequência de preenchimento</p>
+</div>
 
 A ordem de tabulação por entre os campos deve corresponder à sequência normal de preenchimento do formulário. 
 
-☐ Os formulários com mais de 2 ecrãs de altura devem ser distribuídos por várias páginas 
+<div style="width:50%; margin:auto auto; text-align:center">
+  <img alt="1.2 " style="width:50%;" src="img/checklist/02_formularios.svg">
+  <p style="font-size:120%; font-weight:bold">Os formulários com mais de 2 ecrãs de altura devem ser distribuídos por várias páginas</p>
+</div>
 
 Os formulários não devem ser apresentados de forma excessivamente longa. Os formulários que ocupem mais de 2 ecrãs de altura devem ser distribuídos por tantos ecrãs quantos os necessários, para cumprir com esta regra. Os formulários longos podem também ter vários momentos de interação diferidos, solicitando ao utilizador a informação absolutamente necessária em cada etapa, em oposição à solicitação de toda a informação necessária logo num primeiro momento de interação.
 
-☐ Os formulários com mais de uma página têm a sequência de passos ilustrada 
+<div style="width:50%; margin:auto auto; text-align:center">
+  <img alt="1.3 " style="width:50%;" src="img/checklist/03_formularios.svg">
+  <p style="font-size:120%; font-weight:bold">Os formulários com mais de uma página têm a sequência de passos ilustrada</p>
+</div>
 
 Os formulários distribuídos por várias páginas devem indicar no topo da página a sequência de passos necessária para os concluir, juntamente com a designação de cada passo. O utilizador deve ser capaz de selecionar os passos anteriores para retornar aos ecrãs respetivos e, se necessário, corrigir informação. 
 
-**2 · CAMPOS**
+#### 2 · CAMPOS
 
-☐ O tamanho dos campos deve refletir o tamanho previsível dos dados 
+<div style="width:50%; margin:auto auto; text-align:center">
+  <img alt="2.1 " style="width:50%;" src="img/checklist/01_campos.svg">
+  <p style="font-size:120%; font-weight:bold">O tamanho dos campos deve refletir o tamanho previsível dos dados</p>
+</div>
 
 O tamanho dos campos deve refletir o tamanho previsível para a entrada dos dados. Por exemplo, um campo para telefone deve ter a largura estritamente necessária para conter todos os dígitos. Nem mais nem menos. 
 
-☐ É usada revelação progressiva em vez de campos inativos 
+<div style="width:50%; margin:auto auto; text-align:center">
+  <img alt="2.2 " style="width:50%;" src="img/checklist/02_campos.svg">
+  <p style="font-size:120%; font-weight:bold">É usada revelação progressiva em vez de campos inativos</p>
+</div>
 
 Em vez de mostrar campos inativos, o formulário deve esconder os campos dependentes do campo-chave sempre que este não tenha sido ativado. Ao ativar o campo-chave são exibidos os campos que dependem da condição nele definida. 
 
-☐ As legendas dos campos são breves e claras 
+<div style="width:50%; margin:auto auto; text-align:center">
+  <img alt="2.3 " style="width:50%;" src="img/checklist/03_campos.svg">
+  <p style="font-size:120%; font-weight:bold">As legendas dos campos são breves e claras</p>
+</div>
 
 As legendas associadas aos campos devem ser claras e o mais breves possível, sem recorrer a grandes explicações. Se essas explicações forem necessárias, devem ser apresentadas num bloco de texto paralelo. 
 
-☐ Campos obrigatórios devem ser claramente indicados como tal 
+<div style="width:50%; margin:auto auto; text-align:center">
+  <img alt="2.4 " style="width:50%;" src="img/checklist/04_campos.svg">
+  <p style="font-size:120%; font-weight:bold">Campos obrigatórios devem ser claramente indicados como tal</p>
+</div>
 
 A identificação não deve basear-se apenas na cor. A sinalética visual de identificação deve ser notória. Deve ser disponibilizado um equivalente alternativo compatível com as tecnologias de apoio usadas por utilizadores com necessidades especiais. 
 
-**3 · RESPOSTA**
+#### 3 · RESPOSTA
 
-☐ Em ações longas, o sistema deve indicar o que está a acontecer 
+<div style="width:50%; margin:auto auto; text-align:center">
+  <img alt="3.1 " style="width:50%;" src="img/checklist/01_resposta.svg">
+  <p style="font-size:120%; font-weight:bold">Em ações longas, o sistema deve indicar o que está a acontecer</p>
+</div>
 
 O sistema deve indicar o que está a processar ou qual o tempo de espera expectável quando o utilizador desencadeia ações que levem a este comportamento. 
 
-☐ Deve ser confirmado o sucesso da transação/envio de informação 
+<div style="width:50%; margin:auto auto; text-align:center">
+  <img alt="3.2 " style="width:50%;" src="img/checklist/02_resposta.svg">
+  <p style="font-size:120%; font-weight:bold">Deve ser confirmado o sucesso da transação/envio de informação</p>
+</div>
 
 O sucesso de uma transação deve ser claramente comunicado ao utilizador através de uma mensagem de confirmação. 
 
-**4 · ERROS**
+#### 4 · ERROS
 
-☐ A informação já introduzida deve poder ser corrigida a qualquer momento 
+<div style="width:50%; margin:auto auto; text-align:center">
+  <img alt="4.1 " style="width:50%;" src="img/checklist/01_erros.svg">
+  <p style="font-size:120%; font-weight:bold">A informação já introduzida deve poder ser corrigida a qualquer momento</p>
+</div>
 
 Toda a informação já transmitida pelo utilizador numa sessão pode ser corrigida, em qualquer momento, antes da transação ser finalizada. 
 
-☐ As ações destrutivas nunca devem ser permanentes; deve ser sempre possível desfazer a operação 
+<div style="width:50%; margin:auto auto; text-align:center">
+  <img alt="4.2 " style="width:50%;" src="img/checklist/02_erros.svg">
+  <p style="font-size:120%; font-weight:bold">As ações destrutivas nunca devem ser permanentes; deve ser sempre possível desfazer a operação </p>
+</div>
 
 O utilizador deve poder recuperar de qualquer ação que tenha tomado durante a sessão. 
 
-☐ As mensagens de erro são claramente identificadas junto aos campos de origem 
+<div style="width:50%; margin:auto auto; text-align:center">
+  <img alt="4.3 " style="width:50%;" src="img/checklist/03_erros.svg">
+  <p style="font-size:120%; font-weight:bold">As mensagens de erro são claramente identificadas junto aos campos de origem</p>
+</div>
 
 As mensagens de erro devem ser apresentadas claramente associadas aos campos a que dizem respeito. Isto não invalida a necessidade de as apresentar numa lista sumário. Esta última técnica é particularmente útil em páginas longas. 
 
-☐ As mensagens de erro devem mostrar os passos concretos para a resolução dos mesmos
+<div style="width:50%; margin:auto auto; text-align:center">
+  <img alt="4.4 " style="width:50%;" src="img/checklist/04_erros.svg">
+  <p style="font-size:120%; font-weight:bold">As mensagens de erro devem mostrar os passos concretos para a resolução dos mesmos</p>
+</div>
 
 As mensagens de erro devem ser claras e sucintas, não expondo desnecessariamente o utilizador a mecanismos internos do sistema, explicando claramente os passos necessários para que o utilizador resolva o problema. 
 
