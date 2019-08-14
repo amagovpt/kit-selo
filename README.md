@@ -457,7 +457,7 @@ As imagens não decorativas deverão ter uma descrição breve associada, nomead
 Gráficos resultantes de análise de dados deverão ser acompanhados da tabela de dados que lhe deu origem, de forma a preservar o acesso à informação completa.
 
 <div style="width:50%; margin:auto auto; text-align:center">
-  <img alt="5.3 " style="width:50%;" src="img/checklist/02_graficosimagenslink.svg">
+  <img alt="5.3 " style="width:50%;" src="img/checklist/03_graficosimagenslink.svg">
   <p style="font-size:120%; font-weight:bold">5.3 As imagens-link têm um equivalente alternativo correto</p>
 </div> 
 
@@ -528,7 +528,7 @@ Os elementos que estruturam o conteúdo devem estar semanticamente bem estrutura
 Toda a informação visível deve permanecer na página sob forma textual, quando se desativam os estilos visuais.
 
 <div style="width:50%; margin:auto auto; text-align:center">
-  <img alt="8.5 " style="width:50%;" src="img/checklist/01_estruturapagina.svg">
+  <img alt="8.5 " style="width:50%;" src="img/checklist/05_estruturapagina.svg">
   <p style="font-size:120%; font-weight:bold">8.5 A maquetização da página é feita sem recorrer ao elemento <code>&lt;table&gt;</code></p>
 </div>
 
