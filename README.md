@@ -87,7 +87,7 @@ O nível de cumprimento desses parâmetros durante o primeiro ano deverá ser de
 
 ### Nível 3 - Selo Ouro
 
-Para a atribuição do Selo Ouro, cumulativamente ao que é exigido para o nível 2, a entidade tem de efetuar testes com utilizadores ao sítio _Web_. Os testes deverão ser realizados por uma entidade externa à administração pública.
+Para a atribuição do Selo Ouro, cumulativamente ao que é exigido para o nível 2, a entidade tem de efetuar testes com utilizadores ao sítio _Web_. Os testes deverão ser realizados por uma entidade entidade devidamente credenciada.
 
 Este nível está também alinhado com a recomendação constante na metodologia sugerida pelo DL n.º 83/2018 no artigo 9.º, n.º 1, alínea c).
 
@@ -99,28 +99,28 @@ Este nível está também alinhado com a recomendação constante na metodologia
 
 <div style="width:50%; margin:auto auto; text-align:center">
   <img alt="1.1 " style="width:50%;" src="img/checklist/01_clarezaconteudo.svg">
-  <p style="font-size:120%; font-weight:bold">O sítio <em>Web</em> apresenta um resumo breve do seu propósito, visível sem se fazer <em lang="en">scroll</em></p>
+  <p style="font-size:120%; font-weight:bold">1.1 O sítio <em>Web</em> apresenta um resumo breve do seu propósito, visível sem se fazer <em lang="en">scroll</em></p>
 </div>
 
 Num primeiro vislumbre do sítio _Web_ deve ser visível uma breve definição do seu propósito que dê a indicação ao utilizador de que sítio _Web_ se trata e quais são as tarefas que se podem levar a efeito. 
 
 <div style="width:50%; margin:auto auto; text-align:center">
   <img alt="1.2 " style="width:50%;" src="img/checklist/02_clarezaconteudo.svg">
-  <p style="font-size:120%; font-weight:bold">Os termos mais complexos têm uma definição agregada</p>
+  <p style="font-size:120%; font-weight:bold">1.2 Os termos mais complexos têm uma definição agregada</p>
 </div>
 
 Quando são usados termos complexos ou técnicos que não sejam de uso corrente, estes devem ter agregada uma definição. Todos os termos definidos desta forma devem fazer parte de um glossário disponível no sítio _Web_. 
 
 <div style="width:50%; margin:auto auto; text-align:center">
   <img alt="1.3 " style="width:50%;" src="img/checklist/03_clarezaconteudo.svg">
-  <p style="font-size:120%; font-weight:bold">Cada bloco de conteúdo contém a sua data de atualização</p>
+  <p style="font-size:120%; font-weight:bold">1.3 Cada bloco de conteúdo contém a sua data de atualização</p>
 </div>
 
 Cada bloco de conteúdo isolado ou conjunto de blocos de conteúdo relacionado deverá ter a data da sua atualização associada, expressa num tamanho de letra 2pt abaixo ao do corpo do texto, com contraste mais reduzido mas nunca inferior a 4,5:1. 
 
 <div style="width:50%; margin:auto auto; text-align:center">
   <img alt="1.4 " style="width:50%;" src="img/checklist/04_clarezaconteudo.svg">
-  <p style="font-size:120%; font-weight:bold">A informação sobre a entidade responsável pelo conteúdo está em todas as páginas </p>
+  <p style="font-size:120%; font-weight:bold">1.4 A informação sobre a entidade responsável pelo conteúdo está em todas as páginas </p>
 </div>
 
 A identificação da entidade responsável pelos conteúdos produzidos, incluindo uma hiperligação para a página de contactos deverá constar do rodapé de todas as páginas. 
@@ -129,28 +129,28 @@ A identificação da entidade responsável pelos conteúdos produzidos, incluind
 
 <div style="width:50%; margin:auto auto; text-align:center">
   <img alt="2.1 " style="width:50%;" src="img/checklist/01_usabilidaconteudo.svg">
-  <p style="font-size:120%; font-weight:bold">O tipo de letra do corpo do documento é adequado e o tamanho da letra é, no mínimo, de 12 pontos</p>
+  <p style="font-size:120%; font-weight:bold">2.1 O tipo de letra do corpo do documento é adequado e o tamanho da letra é, no mínimo, de 12 pontos</p>
 </div>
 
 De forma a assegurar a boa legibilidade do texto para todos os utilizadores, o tamanho de letra do texto que compõe o corpo do documento deverá ser, no mínimo, de 12 pontos, assegurando sempre que os mesmos são escaláveis para tamanhos superiores, sempre que o utilizador considere necessário. 
 
 <div style="width:50%; margin:auto auto; text-align:center">
   <img alt="2.2 " style="width:50%;" src="img/checklist/02_usabilidaconteudo.svg">
-  <p style="font-size:120%; font-weight:bold">A informação secundária (datas, autores) utiliza, no mínimo, um tamanho de letra de 10 pontos</p>
+  <p style="font-size:120%; font-weight:bold">2.2 A informação secundária (datas, autores) utiliza, no mínimo, um tamanho de letra de 10 pontos</p>
 </div>
 
 A informação secundária, como os autores de textos ou de imagens, as datas de publicação ou outros tipos de meta-informação, podem usar tamanhos de letra mais pequenos, mas, no mínimo, com 10 pontos, assegurando sempre que os mesmos são escaláveis para tamanhos superiores, sempre que o utilizador considere necessário.
 
 <div style="width:50%; margin:auto auto; text-align:center">
   <img alt="2.3 " style="width:50%;" src="img/checklist/03_usabilidaconteudo.svg">
-  <p style="font-size:120%; font-weight:bold">Blocos e linhas de texto com largura não superior a 100 caracteres</p>
+  <p style="font-size:120%; font-weight:bold">2.3 Blocos e linhas de texto com largura não superior a 100 caracteres</p>
 </div>
 
 Para manter o conforto de leitura, os blocos ou linhas de texto não deverão ter mais de 100 caracteres de largura. Os 80 caracteres correspondem à dimensão que se apresenta nos estudos como a mais confortável para os utilizadores. 
 
 <div style="width:50%; margin:auto auto; text-align:center">
   <img alt="2.4 " style="width:50%;" src="img/checklist/04_usabilidaconteudo.svg">
-  <p style="font-size:120%; font-weight:bold">O espaçamento entre linhas não é inferior a 1.5x do tamanho da letra </p>
+  <p style="font-size:120%; font-weight:bold">2.4 O espaçamento entre linhas não é inferior a 1.5x do tamanho da letra </p>
 </div>
 
 Para assegurar a leitura confortável de blocos de texto deve ser usado um espaçamento entre linhas de 1.5x do tamanho da letra. 
@@ -159,21 +159,21 @@ Para assegurar a leitura confortável de blocos de texto deve ser usado um espa�
 
 <div style="width:50%; margin:auto auto; text-align:center">
   <img alt="3.1 " style="width:50%;" src="img/checklist/01_estruturanavegacao.svg">
-  <p style="font-size:120%; font-weight:bold">Nenhum nível de navegação tem mais de 9 opções</p>
+  <p style="font-size:120%; font-weight:bold">3.1 Nenhum nível de navegação tem mais de 9 opções</p>
 </div>
 
 A navegação principal deve ser equilibrada, nem com demasiadas opções de topo sem opções secundárias, nem com poucas opções de topo e muitas opções secundarias. Nenhum nível de navegação deve ter mais de 9 opções. 
 
 <div style="width:50%; margin:auto auto; text-align:center">
   <img alt="3.2 " style="width:50%;" src="img/checklist/02_estruturanavegacao.svg">
-  <p style="font-size:120%; font-weight:bold">A navegação principal está sempre visível e sempre no mesmo local</p>
+  <p style="font-size:120%; font-weight:bold">3.2 A navegação principal está sempre visível e sempre no mesmo local</p>
 </div>
 
 As opções de primeiro nível da navegação principal estão sempre visíveis e encontram-se sempre no mesmo local em todas as páginas. A posição atual do utilizador na estrutura de navegação deve ser evidenciada.
 
 <div style="width:50%; margin:auto auto; text-align:center">
   <img alt="3.3 " style="width:50%;" src="img/checklist/03_estruturanavegacao.svg">
-  <p style="font-size:120%; font-weight:bold">As hiperligações de texto não devem ser diferenciadas apenas com base na cor</p>
+  <p style="font-size:120%; font-weight:bold">3.3 As hiperligações de texto não devem ser diferenciadas apenas com base na cor</p>
 </div>
 
 As hiperligações de texto devem apresentar um contraste mínimo de 4,5:1 com o texto envolvente e uma representação visual complementar da cor - idealmente as hiperligações devem apresentar-se sublinhadas. As hiperligações em texto devem apresentar-se da mesma forma em todo o sítio _Web_. 
@@ -182,14 +182,14 @@ As hiperligações de texto devem apresentar um contraste mínimo de 4,5:1 com o
 
 <div style="width:50%; margin:auto auto; text-align:center">
   <img alt="4.1 " style="width:50%;" src="img/checklist/01_estruturainformacao.svg">
-  <p style="font-size:120%; font-weight:bold">Os documentos longos têm um índice no topo com hiperligações internas para o mesmo</p>
+  <p style="font-size:120%; font-weight:bold">4.1 Os documentos longos têm um índice no topo com hiperligações internas para o mesmo</p>
 </div>
 
 Os documentos com mais de três ecrãs de altura deverão ter a hierarquia de cabeçalhos espelhada num índice no topo da página com hiperligações internas para as respetivas secções e subsecções. 
 
 <div style="width:50%; margin:auto auto; text-align:center">
   <img alt="4.2 " style="width:50%;" src="img/checklist/02_estruturainformacao.svg">
-  <p style="font-size:120%; font-weight:bold">O layout do sítio _Web_ é adaptável a plataformas móveis sem necessidade de efetuar varrimento horizontal</p>
+  <p style="font-size:120%; font-weight:bold">4.2 O layout do sítio _Web_ é adaptável a plataformas móveis sem necessidade de efetuar varrimento horizontal</p>
 </div>
 
 O layout do sítio _Web_ deve ser adaptável aos tamanhos mais comuns de visualização, adaptando-se a várias larguras de ecrã sem que surjam barras de varrimento horizontais. 
@@ -198,28 +198,28 @@ O layout do sítio _Web_ deve ser adaptável aos tamanhos mais comuns de visuali
 
 <div style="width:50%; margin:auto auto; text-align:center">
   <img alt="5.1 " style="width:50%;" src="img/checklist/01_elementosinterativos.svg">
-  <p style="font-size:120%; font-weight:bold">Não existem elementos interativos acionados apenas com a passagem do rato (<em lang="en">hover</em>)</p>
+  <p style="font-size:120%; font-weight:bold">5.1 Não existem elementos interativos acionados apenas com a passagem do rato (<em lang="en">hover</em>)</p>
 </div>
 
 Não devem existir elementos de interação, como hiperligações ou botões, que aparecem apenas quando se passa por cima com um dispositivo apontador. Este método de interação não está disponível em aparelhos com interação por toque. 
 
 <div style="width:50%; margin:auto auto; text-align:center">
   <img alt="5.2 " style="width:50%;" src="img/checklist/02_elementosinterativos.svg">
-  <p style="font-size:120%; font-weight:bold">Os elementos interativos têm uma dimensão mínima de 44px CSS (44pt) (vertical e horizontal) </p>
+  <p style="font-size:120%; font-weight:bold">5.2 Os elementos interativos têm uma dimensão mínima de 44px CSS (44pt) (vertical e horizontal) </p>
 </div>
 
 De forma a assegurar que todos os elementos interativos são facilmente acionáveis por qualquer tipo de dispositivo apontador ou toque, estes devem ter a dimensão mínima de 44px CSS de altura e de largura. 
 
 <div style="width:50%; margin:auto auto; text-align:center">
   <img alt="5.3 " style="width:50%;" src="img/checklist/03_elementosinterativos.svg">
-  <p style="font-size:120%; font-weight:bold">Há apenas um botão de ação principal por página e o mesmo encontra-se destacado </p>
+  <p style="font-size:120%; font-weight:bold">5.3 Há apenas um botão de ação principal por página e o mesmo encontra-se destacado </p>
 </div>
 
 Deve existir apenas um botão de ação principal por página e o mesmo deve apresentar-se numa cor contrastante. Todos os outros botões devem ser considerados como secundários. 
 
 <div style="width:50%; margin:auto auto; text-align:center">
   <img alt="5.4 " style="width:50%;" src="img/checklist/04_elementosinterativos.svg">
-  <p style="font-size:120%; font-weight:bold">Elementos gráficos interativos têm de aparentar ser clicáveis</p>
+  <p style="font-size:120%; font-weight:bold">5.4 Elementos gráficos interativos têm de aparentar ser clicáveis</p>
 </div>
 
 Os elementos gráficos clicáveis devem ser percecionáveis como tal, através da forma, da cor ou do aparente volume.
@@ -253,21 +253,21 @@ Apresentam-se a seguir algumas das ferramentas de validação automática que po
 
 <div style="width:50%; margin:auto auto; text-align:center">
   <img alt="1.1 " style="width:50%;" src="img/checklist/01_usabiliformularios.svg">
-  <p style="font-size:120%; font-weight:bold">A sequência de tabulação entre campos segue a sequência de preenchimento</p>
+  <p style="font-size:120%; font-weight:bold">1.1 A sequência de tabulação entre campos segue a sequência de preenchimento</p>
 </div>
 
 A ordem de tabulação por entre os campos deve corresponder à sequência normal de preenchimento do formulário. 
 
 <div style="width:50%; margin:auto auto; text-align:center">
   <img alt="1.2 " style="width:50%;" src="img/checklist/02_usabiliformularios.svg">
-  <p style="font-size:120%; font-weight:bold">Os formulários com mais de 2 ecrãs de altura devem ser distribuídos por várias páginas</p>
+  <p style="font-size:120%; font-weight:bold">1.2 Os formulários com mais de 2 ecrãs de altura devem ser distribuídos por várias páginas</p>
 </div>
 
 Os formulários não devem ser apresentados de forma excessivamente longa. Os formulários que ocupem mais de 2 ecrãs de altura devem ser distribuídos por tantos ecrãs quantos os necessários, para cumprir com esta regra. Os formulários longos podem também ter vários momentos de interação diferidos, solicitando ao utilizador a informação absolutamente necessária em cada etapa, em oposição à solicitação de toda a informação necessária logo num primeiro momento de interação.
 
 <div style="width:50%; margin:auto auto; text-align:center">
   <img alt="1.3 " style="width:50%;" src="img/checklist/03_usabiliformularios.svg">
-  <p style="font-size:120%; font-weight:bold">Os formulários com mais de uma página têm a sequência de passos ilustrada</p>
+  <p style="font-size:120%; font-weight:bold">1.3 Os formulários com mais de uma página têm a sequência de passos ilustrada</p>
 </div>
 
 Os formulários distribuídos por várias páginas devem indicar no topo da página a sequência de passos necessária para os concluir, juntamente com a designação de cada passo. O utilizador deve ser capaz de selecionar os passos anteriores para retornar aos ecrãs respetivos e, se necessário, corrigir informação. 
@@ -276,28 +276,28 @@ Os formulários distribuídos por várias páginas devem indicar no topo da pág
 
 <div style="width:50%; margin:auto auto; text-align:center">
   <img alt="2.1 " style="width:50%;" src="img/checklist/01_campos.svg">
-  <p style="font-size:120%; font-weight:bold">O tamanho dos campos deve refletir o tamanho previsível dos dados</p>
+  <p style="font-size:120%; font-weight:bold">2.1 O tamanho dos campos deve refletir o tamanho previsível dos dados</p>
 </div>
 
 O tamanho dos campos deve refletir o tamanho previsível para a entrada dos dados. Por exemplo, um campo para telefone deve ter a largura estritamente necessária para conter todos os dígitos. Nem mais nem menos. 
 
 <div style="width:50%; margin:auto auto; text-align:center">
   <img alt="2.2 " style="width:50%;" src="img/checklist/02_campos.svg">
-  <p style="font-size:120%; font-weight:bold">É usada revelação progressiva em vez de campos inativos</p>
+  <p style="font-size:120%; font-weight:bold">2.2 É usada revelação progressiva em vez de campos inativos</p>
 </div>
 
 Em vez de mostrar campos inativos, o formulário deve esconder os campos dependentes do campo-chave sempre que este não tenha sido ativado. Ao ativar o campo-chave são exibidos os campos que dependem da condição nele definida. 
 
 <div style="width:50%; margin:auto auto; text-align:center">
   <img alt="2.3 " style="width:50%;" src="img/checklist/03_campos.svg">
-  <p style="font-size:120%; font-weight:bold">As legendas dos campos são breves e claras</p>
+  <p style="font-size:120%; font-weight:bold">2.3 As legendas dos campos são breves e claras</p>
 </div>
 
 As legendas associadas aos campos devem ser claras e o mais breves possível, sem recorrer a grandes explicações. Se essas explicações forem necessárias, devem ser apresentadas num bloco de texto paralelo. 
 
 <div style="width:50%; margin:auto auto; text-align:center">
   <img alt="2.4 " style="width:50%;" src="img/checklist/04_campos.svg">
-  <p style="font-size:120%; font-weight:bold">Campos obrigatórios devem ser claramente indicados como tal</p>
+  <p style="font-size:120%; font-weight:bold">2.4 Campos obrigatórios devem ser claramente indicados como tal</p>
 </div>
 
 A identificação não deve basear-se apenas na cor. A sinalética visual de identificação deve ser notória. Deve ser disponibilizado um equivalente alternativo compatível com as tecnologias de apoio usadas por utilizadores com necessidades especiais. 
@@ -306,14 +306,14 @@ A identificação não deve basear-se apenas na cor. A sinalética visual de ide
 
 <div style="width:50%; margin:auto auto; text-align:center">
   <img alt="3.1 " style="width:50%;" src="img/checklist/01_resposta.svg">
-  <p style="font-size:120%; font-weight:bold">Em ações longas, o sistema deve indicar o que está a acontecer</p>
+  <p style="font-size:120%; font-weight:bold">3.1 Em ações longas, o sistema deve indicar o que está a acontecer</p>
 </div>
 
 O sistema deve indicar o que está a processar ou qual o tempo de espera expectável quando o utilizador desencadeia ações que levem a este comportamento. 
 
 <div style="width:50%; margin:auto auto; text-align:center">
   <img alt="3.2 " style="width:50%;" src="img/checklist/02_resposta.svg">
-  <p style="font-size:120%; font-weight:bold">Deve ser confirmado o sucesso da transação/envio de informação</p>
+  <p style="font-size:120%; font-weight:bold">3.2 Deve ser confirmado o sucesso da transação/envio de informação</p>
 </div>
 
 O sucesso de uma transação deve ser claramente comunicado ao utilizador através de uma mensagem de confirmação. 
@@ -322,28 +322,28 @@ O sucesso de uma transação deve ser claramente comunicado ao utilizador atrav�
 
 <div style="width:50%; margin:auto auto; text-align:center">
   <img alt="4.1 " style="width:50%;" src="img/checklist/01_erros.svg">
-  <p style="font-size:120%; font-weight:bold">A informação já introduzida deve poder ser corrigida a qualquer momento</p>
+  <p style="font-size:120%; font-weight:bold">4.1 A informação já introduzida deve poder ser corrigida a qualquer momento</p>
 </div>
 
 Toda a informação já transmitida pelo utilizador numa sessão pode ser corrigida, em qualquer momento, antes da transação ser finalizada. 
 
 <div style="width:50%; margin:auto auto; text-align:center">
   <img alt="4.2 " style="width:50%;" src="img/checklist/02_erros.svg">
-  <p style="font-size:120%; font-weight:bold">As ações destrutivas nunca devem ser permanentes; deve ser sempre possível desfazer a operação </p>
+  <p style="font-size:120%; font-weight:bold">4.2 As ações destrutivas nunca devem ser permanentes; deve ser sempre possível desfazer a operação </p>
 </div>
 
 O utilizador deve poder recuperar de qualquer ação que tenha tomado durante a sessão. 
 
 <div style="width:50%; margin:auto auto; text-align:center">
   <img alt="4.3 " style="width:50%;" src="img/checklist/03_erros.svg">
-  <p style="font-size:120%; font-weight:bold">As mensagens de erro são claramente identificadas junto aos campos de origem</p>
+  <p style="font-size:120%; font-weight:bold">4.3 As mensagens de erro são claramente identificadas junto aos campos de origem</p>
 </div>
 
 As mensagens de erro devem ser apresentadas claramente associadas aos campos a que dizem respeito. Isto não invalida a necessidade de as apresentar numa lista sumário. Esta última técnica é particularmente útil em páginas longas. 
 
 <div style="width:50%; margin:auto auto; text-align:center">
   <img alt="4.4 " style="width:50%;" src="img/checklist/04_erros.svg">
-  <p style="font-size:120%; font-weight:bold">As mensagens de erro devem mostrar os passos concretos para a resolução dos mesmos</p>
+  <p style="font-size:120%; font-weight:bold">4.4 As mensagens de erro devem mostrar os passos concretos para a resolução dos mesmos</p>
 </div>
 
 As mensagens de erro devem ser claras e sucintas, não expondo desnecessariamente o utilizador a mecanismos internos do sistema, explicando claramente os passos necessários para que o utilizador resolva o problema. 
@@ -366,21 +366,21 @@ A _checklist_ "10 aspetos funcionais" é para ser usada de acordo com a metodolo
 
 <div style="width:50%; margin:auto auto; text-align:center">
   <img alt="1.1 " style="width:50%;" src="img/checklist/01_menusnavegação.svg">
-  <p style="font-size:120%; font-weight:bold">O menu de navegação deve estar estruturado como uma lista de opções</p>
+  <p style="font-size:120%; font-weight:bold">1.1 O menu de navegação deve estar estruturado como uma lista de opções</p>
 </div>
 
 Para que possa ser bem interpretado por tecnologias de apoio, os menus e submenus devem estar estruturados com elementos nativos, do tipo `<ul>`, ou com a semântica e o estado dos elementos identificados com técnicas em ARIA.
 
 <div style="width:50%; margin:auto auto; text-align:center">
   <img alt="1.2 " style="width:50%;" src="img/checklist/02_menusnavegação.svg">
-  <p style="font-size:120%; font-weight:bold">É possível selecionar as opções e as subopções do menu quer com rato quer com teclado?</p>
+  <p style="font-size:120%; font-weight:bold">1.2 É possível selecionar as opções e as subopções do menu quer com rato quer com teclado?</p>
 </div>
 
 Deve ser possível percorrer a estrutura de navegação quer com um dispositivo apontador quer com o teclado.
 
 <div style="width:50%; margin:auto auto; text-align:center">
   <img alt="1.3 " style="width:50%;" src="img/checklist/03_menusnavegação.svg">
-  <p style="font-size:120%; font-weight:bold">As imagens-link, caso existam no menu, devem ter o correspondente equivalente alternativo em texto</p>
+  <p style="font-size:120%; font-weight:bold">1.3 As imagens-link, caso existam no menu, devem ter o correspondente equivalente alternativo em texto</p>
 </div>
 
 As imagens corretamente legendadas permitem ser interpretadas como texto, tornando todas as opções de navegação acessíveis.
@@ -389,14 +389,14 @@ As imagens corretamente legendadas permitem ser interpretadas como texto, tornan
 
 <div style="width:50%; margin:auto auto; text-align:center">
   <img alt="2.1 " style="width:50%;" src="img/checklist/01_titulossubtitulos.svg">
-  <p style="font-size:120%; font-weight:bold">Existe um título <code>&lt;h1&gt;</code> marcado na página</p>
+  <p style="font-size:120%; font-weight:bold">2.1 Existe um título <code>&lt;h1&gt;</code> marcado na página</p>
 </div> 
 
 O título principal de cada página, que sumariza o seu conteúdo, deve ser identificado como o primeiro nível dos títulos (h1). Não deverão ser usados mais do que um elemento deste tipo.
 
 <div style="width:50%; margin:auto auto; text-align:center">
   <img alt="2.2 " style="width:50%;" src="img/checklist/02_titulossubtitulos.svg">
-  <p style="font-size:120%; font-weight:bold">Existe uma marcação hierarquizada de títulos e subtítulos na página (<code>&lt;h1&gt;</code>...<code>&lt;h6&gt;</code>)</p>
+  <p style="font-size:120%; font-weight:bold">2.2 Existe uma marcação hierarquizada de títulos e subtítulos na página (<code>&lt;h1&gt;</code>...<code>&lt;h6&gt;</code>)</p>
 </div>  
 
 Os títulos são empregues de forma hierárquica para melhor estruturar os conteúdos, das informações mais gerais às mais particulares. Deverão ser usados de forma consistente por todo o sítio _Web_.
@@ -405,14 +405,14 @@ Os títulos são empregues de forma hierárquica para melhor estruturar os conte
 
 <div style="width:50%; margin:auto auto; text-align:center">
   <img alt="3.1 " style="width:50%;" src="img/checklist/01_tabelasdados.svg">
-  <p style="font-size:120%; font-weight:bold">As células que constituem os cabeçalhos da tabela estão marcadas com o elemento <code>&lt;th&gt;</code></p>
+  <p style="font-size:120%; font-weight:bold">3.1 As células que constituem os cabeçalhos da tabela estão marcadas com o elemento <code>&lt;th&gt;</code></p>
 </div>
 
 Identificar os cabeçalhos de uma tabela ajuda a melhor identificar os eixos que caracterizam a informação em cada célula.
 
 <div style="width:50%; margin:auto auto; text-align:center">
   <img alt="3.2 " style="width:50%;" src="img/checklist/02_tabelasdados.svg">
-  <p style="font-size:120%; font-weight:bold">A legenda da tabela está marcada com o elemento <code>&lt;caption&gt;</code></p>
+  <p style="font-size:120%; font-weight:bold">3.2 A legenda da tabela está marcada com o elemento <code>&lt;caption&gt;</code></p>
 </div>
 
 Todas as tabelas deverão conter uma legenda descritiva do seu conteúdo, incluindo as fontes da informação, se necessário.
@@ -421,21 +421,21 @@ Todas as tabelas deverão conter uma legenda descritiva do seu conteúdo, inclui
 
 <div style="width:50%; margin:auto auto; text-align:center">
   <img alt="4.1 " style="width:50%;" src="img/checklist/01_formularios.svg">
-  <p style="font-size:120%; font-weight:bold">Ao clicar com o rato na etiqueta, o cursor surge no respetivo campo de edição</p>
+  <p style="font-size:120%; font-weight:bold">4.1 Ao clicar com o rato na etiqueta, o cursor surge no respetivo campo de edição</p>
 </div>
 
 De forma a tornar a seleção de campos pequenos mais fácil, a legenda deverá estar associada ao campo respetivo com o elemento `<label>`, pois desta forma aumenta-se a sua área clicável. Para os utilizadores de leitores de ecrã (pessoas cegas) a associação da etiqueta ao campo de edição é também fundamental.
 
 <div style="width:50%; margin:auto auto; text-align:center">
   <img alt="4.2 " style="width:50%;" src="img/checklist/02_formularios.svg">
-  <p style="font-size:120%; font-weight:bold">É possível identificar os campos de preenchimento obrigatório quando se usa apenas um leitor de ecrã</p>
+  <p style="font-size:120%; font-weight:bold">4.2 É possível identificar os campos de preenchimento obrigatório quando se usa apenas um leitor de ecrã</p>
 </div>
 
 Os campos obrigatórios devem ser preferencialmente agrupados na parte inicial de um formulário e claramente identificados como tal. Se não for possível, cada campo deverá estar identificado textualmente ou como Obrigatório ou como Opcional. Não deverão ser usados apenas símbolos ou cores como elemento identificador.
 
 <div style="width:50%; margin:auto auto; text-align:center">
   <img alt="4.3 " style="width:50%;" src="img/checklist/03_formularios.svg">
-  <p style="font-size:120%; font-weight:bold">É possível localizar e ler as mensagens de erro usando apenas um leitor de ecrã</p>
+  <p style="font-size:120%; font-weight:bold">4.3 É possível localizar e ler as mensagens de erro usando apenas um leitor de ecrã</p>
 </div>
 
 Os erros identificados no decorrer do preenchimento de um formulário deverão preferencialmente ser listados de forma condensada, direcionando cada elemento da lista ao respetivo campo. Cada campo deverá associar a mensagem de erro a si próprio. As mensagens de erro deverão ser breves e claras.
@@ -444,21 +444,21 @@ Os erros identificados no decorrer do preenchimento de um formulário deverão p
 
 <div style="width:50%; margin:auto auto; text-align:center">
   <img alt="5.1 " style="width:50%;" src="img/checklist/01_graficosimagenslink.svg">
-  <p style="font-size:120%; font-weight:bold">A imagem ou gráfico tem um equivalente alternativo em texto, curto e correto</p>
+  <p style="font-size:120%; font-weight:bold">5.1 A imagem ou gráfico tem um equivalente alternativo em texto, curto e correto</p>
 </div>
 
 As imagens não decorativas deverão ter uma descrição breve associada, nomeadamente através do uso do atributo `<ALT>`. Esta legenda deve descrever fielmente o propósito da imagem no contexto em que se encontra.
 
 <div style="width:50%; margin:auto auto; text-align:center">
   <img alt="5.2 " style="width:50%;" src="img/checklist/02_graficosimagenslink.svg">
-  <p style="font-size:120%; font-weight:bold">O gráfico é acompanhado de uma descrição longa</p>
+  <p style="font-size:120%; font-weight:bold">5.2 O gráfico é acompanhado de uma descrição longa</p>
 </div> 
 
 Gráficos resultantes de análise de dados deverão ser acompanhados da tabela de dados que lhe deu origem, de forma a preservar o acesso à informação completa.
 
 <div style="width:50%; margin:auto auto; text-align:center">
-  <img alt="5.2 " style="width:50%;" src="img/checklist/02_graficosimagenslink.svg">
-  <p style="font-size:120%; font-weight:bold">As imagens-link têm um equivalente alternativo correto</p>
+  <img alt="5.3 " style="width:50%;" src="img/checklist/03_graficosimagenslink.svg">
+  <p style="font-size:120%; font-weight:bold">5.3 As imagens-link têm um equivalente alternativo correto</p>
 </div> 
 
 As hiperligações compostas apenas por uma imagem obrigam que esta tenha um equivalente alternativo em texto que represente fielmente o destino da hiperligação.
@@ -467,14 +467,14 @@ As hiperligações compostas apenas por uma imagem obrigam que esta tenha um equ
 
 <div style="width:50%; margin:auto auto; text-align:center">
   <img alt="6.1 " style="width:50%;" src="img/checklist/01_contraste.svg">
-  <p style="font-size:120%; font-weight:bold">No corpo de um documento, o rácio de contraste entre a cor do texto e a cor do fundo é superior a 4,5:1</p>
+  <p style="font-size:120%; font-weight:bold">6.1 No corpo de um documento, o rácio de contraste entre a cor do texto normal (menor que 18 pontos ou menor que 14 pontos negrito) e a cor do fundo é superior a 4,5:1</p>
 </div>
 
 Deve assegurar-se no corpo do documento que o rácio de contraste entre a cor do texto e a cor de fundo é, no mínimo, de 4,5:1, de forma a assegurar a sua legibilidade para utilizadores com deficiências da visão.
 
 <div style="width:50%; margin:auto auto; text-align:center">
   <img alt="6.2 " style="width:50%;" src="img/checklist/02_contraste.svg">
-  <p style="font-size:120%; font-weight:bold">O rácio de contraste entre a cor do texto de tamanho grande (maior que 18pt) ou texto maior que 14pt Negrito e o fundo é superior a 3:1</p>
+  <p style="font-size:120%; font-weight:bold">6.2 O rácio de contraste entre a cor do texto de tamanho grande (maior ou igual que 18 pontos ou maior ou igual que 14 pontos negrito) e a cor do fundo é superior a 3:1</p>
 </div>
 
 Os textos de tamanho superior a 18 pontos, ou os textos de tamanho superior a 14 pontos mas a negrito, devem assegurar um rácio de contraste mínimo de 3:1 entre a cor do texto e a cor do fundo. 
@@ -483,14 +483,14 @@ Os textos de tamanho superior a 18 pontos, ou os textos de tamanho superior a 14
 
 <div style="width:50%; margin:auto auto; text-align:center">
   <img alt="7.1 " style="width:50%;" src="img/checklist/01_players.svg">
-  <p style="font-size:120%; font-weight:bold">Deve ser possível ativar os botões de controlo do leitor quer com o rato quer com o teclado </p>
+  <p style="font-size:120%; font-weight:bold">7.1 Deve ser possível ativar os botões de controlo do leitor quer com o rato quer com o teclado </p>
 </div>
 
 Os leitores de multimédia não devem iniciar automaticamente a reprodução dos elementos e têm de ser operáveis usando apenas um rato ou usando apenas um teclado. 
 
 <div style="width:50%; margin:auto auto; text-align:center">
   <img alt="7.2 " style="width:50%;" src="img/checklist/02_players.svg">
-  <p style="font-size:120%; font-weight:bold">O vídeo ou o áudio deve conter preferencialmente legendas fechadas sincronizadas. Caso não seja possível, no mínimo, deve-se disponibilizar uma transcrição textual</p>
+  <p style="font-size:120%; font-weight:bold">7.2 O vídeo ou o áudio deve conter preferencialmente legendas fechadas sincronizadas. Caso não seja possível, no mínimo, deve-se disponibilizar uma transcrição textual</p>
 </div>
 
 O uso de legendas fechadas destina-se essencialmente a pessoas surdas. Recomendam-se para a produção das referidas legendas técnicas de tradaptação conhecidas para o efeito bem como o enriquecimento das legendas de sons cuja mensagem não seja percetível visualmente (p.e. o toque de uma campanha de uma porta).
@@ -501,35 +501,35 @@ Para vídeos com mensagens eminentemente visuais (p.e. um vídeo com música de 
 
 <div style="width:50%; margin:auto auto; text-align:center">
   <img alt="8.1 " style="width:50%;" src="img/checklist/01_estruturapagina.svg">
-  <p style="font-size:120%; font-weight:bold">Quando se retira a CSS, todos os elementos HTML devem alinhar à esquerda</p>
+  <p style="font-size:120%; font-weight:bold">8.1 Quando se retira a CSS, todos os elementos HTML devem alinhar à esquerda</p>
 </div>
 
 Quando se desativam todos os estilos visuais, o conteúdo da página é apresentado alinhado à esquerda e apresenta-se de forma linear.
 
 <div style="width:50%; margin:auto auto; text-align:center">
   <img alt="8.2 " style="width:50%;" src="img/checklist/02_estruturapagina.svg">
-  <p style="font-size:120%; font-weight:bold">Quando se retira a CSS, a informação aparece numa ordem lógica </p>
+  <p style="font-size:120%; font-weight:bold">8.2 Quando se retira a CSS, a informação aparece numa ordem lógica </p>
 </div>
 
 Tendo em conta que o posicionamento de elementos no código pode não refletir a ordem visual de leitura, deve ser assegurada a ordem correta do conteúdo quando se desativam os estilos visuais.
 
 <div style="width:50%; margin:auto auto; text-align:center">
   <img alt="8.3 " style="width:50%;" src="img/checklist/03_estruturapagina.svg">
-  <p style="font-size:120%; font-weight:bold">Quando se retira a CSS, deve ser possível reconhecer a semântica dos diversos elementos</p>
+  <p style="font-size:120%; font-weight:bold">8.3 Quando se retira a CSS, deve ser possível reconhecer a semântica dos diversos elementos</p>
 </div>
 
 Os elementos que estruturam o conteúdo devem estar semanticamente bem estruturados, usando os elementos de HTML apropriados a cada tipo de conteúdo, como título, parágrafos, listas, ... 
 
 <div style="width:50%; margin:auto auto; text-align:center">
   <img alt="8.4 " style="width:50%;" src="img/checklist/04_estruturapagina.svg">
-  <p style="font-size:120%; font-weight:bold">Quando se retira a CSS, a informação relevante permanece visível?</p>
+  <p style="font-size:120%; font-weight:bold">8.4 Quando se retira a CSS, a informação relevante permanece visível?</p>
 </div> 
 
 Toda a informação visível deve permanecer na página sob forma textual, quando se desativam os estilos visuais.
 
 <div style="width:50%; margin:auto auto; text-align:center">
-  <img alt="8.1 " style="width:50%;" src="img/checklist/01_estruturapagina.svg">
-  <p style="font-size:120%; font-weight:bold">A maquetização da página não é feita através do elemento <code>&lt;table&gt;</code></p>
+  <img alt="8.5 " style="width:50%;" src="img/checklist/05_estruturapagina.svg">
+  <p style="font-size:120%; font-weight:bold">8.5 A maquetização da página é feita sem recorrer ao elemento <code>&lt;table&gt;</code></p>
 </div>
 
 A estrutura de composição gráfica da página não é feita recorrendo a elementos de tabela mas sim a uma maior diversidade de elementos semânticos (p.e. &lt;main&gt;) e genéricos (p.e. &lt;div&gt;), que permitem a recomposição visual para diferentes tipos e dimensões de ecrã.
@@ -538,10 +538,10 @@ A estrutura de composição gráfica da página não é feita recorrendo a eleme
 
 <div style="width:50%; margin:auto auto; text-align:center">
   <img alt="9.1 " style="width:50%;" src="img/checklist/01_sintaxehtml.svg">
-  <p style="font-size:120%; font-weight:bold">A página não tem erros de HTML</p>
+  <p style="font-size:120%; font-weight:bold">9.1 A página apresenta-se sem erros de (x)HTML</p>
 </div> 
 
-A página não deve apresentar erros de sintaxe de HTML.
+A página não deve apresentar erros de sintaxe de (x)HTML.
 
 #### 10 · FICHEIROS PDF
 
@@ -654,13 +654,13 @@ Nota: a entidade deve preencher esta _Checklist_, publicá-la no sítio _Web_, e
   <th><abbr title="Não aplicável">n.a.</abbr></th>
  </tr>
  <tr>
-  <td>O menu de navegação está estruturado como uma lista de opções (com elementos nativos, do tipo <code>&lt;ul&gt;</code>, ou com a semântica e o estado dos elementos identificados com técnicas em ARIA)?</td>
+  <td>1.1 O menu de navegação está estruturado como uma lista de opções (com elementos nativos, do tipo <code>&lt;ul&gt;</code>, ou com a semântica e o estado dos elementos identificados com técnicas em ARIA)?</td>
   <td></td>
   <td></td>
   <td></td>
  </tr>
  <tr>
-  <td>É possível selecionar as opções e as subopções do menu quer com rato quer com teclado?</td>
+  <td>1.2 É possível selecionar as opções e as subopções do menu quer com rato quer com teclado?</td>
   <td></td>
   <td></td>
   <td></td>
@@ -678,13 +678,13 @@ Nota: a entidade deve preencher esta _Checklist_, publicá-la no sítio _Web_, e
   <th><abbr title="Não aplicável">n.a.</abbr></th>
  </tr>
  <tr>
-  <td>Existe um título <code>&lt;h1&gt;</code> marcado na página?</td>
+  <td>2.1 Existe um título <code>&lt;h1&gt;</code> marcado na página?</td>
   <td></td>
   <td></td>
   <td></td>
  </tr>
  <tr>
-  <td>Existe uma marcação hierarquizada de títulos e subtítulos na página (<code>&lt;h1&gt;...&lt;h6&gt;</code>)?</td>
+  <td>2.2 Existe uma marcação hierarquizada de títulos e subtítulos na página (<code>&lt;h1&gt;...&lt;h6&gt;</code>)?</td>
   <td></td>
   <td></td>
   <td></td>
@@ -696,13 +696,13 @@ Nota: a entidade deve preencher esta _Checklist_, publicá-la no sítio _Web_, e
   <th><abbr title="Não aplicável">n.a.</abbr></th>
  </tr>
  <tr>
-  <td>As células que constituem os cabeçalhos da tabela estão marcadas com o elemento <code>&lt;th&gt;</code>?</td>
+  <td>3.1 As células que constituem os cabeçalhos da tabela estão marcadas com o elemento <code>&lt;th&gt;</code>?</td>
   <td></td>
   <td></td>
   <td></td>
  </tr>
  <tr>
-  <td>A legenda da tabela está marcada com o elemento <code>&lt;caption&gt;</code>?</td>
+  <td>3.2 A legenda da tabela está marcada com o elemento <code>&lt;caption&gt;</code>?</td>
   <td></td>
   <td></td>
   <td></td>
@@ -714,13 +714,13 @@ Nota: a entidade deve preencher esta _Checklist_, publicá-la no sítio _Web_, e
   <th><abbr title="Não aplicável">n.a.</abbr></th>
  </tr>
  <tr>
-  <td>Ao clicar com o rato na etiqueta, o cursor surge no respetivo campo de edição?</td>
+  <td>4.1 Ao clicar com o rato na etiqueta, o cursor surge no respetivo campo de edição?</td>
   <td></td>
   <td></td>
   <td></td>
  </tr>
  <tr>
-  <td>É possível identificar os campos de preenchimento obrigatório quando usa apenas um leitor de ecrã?</td>
+  <td>4.2 É possível identificar os campos de preenchimento obrigatório quando usa apenas um leitor de ecrã?</td>
   <td></td>
   <td></td>
   <td></td>
@@ -744,13 +744,13 @@ Nota: a entidade deve preencher esta _Checklist_, publicá-la no sítio _Web_, e
   <td></td>
  </tr>
  <tr>
-  <td>O gráfico é acompanhado de uma descrição longa (p.e. tabela de dados que deu origem ao gráfico)?</td>
+  <td>5.1 O gráfico é acompanhado de uma descrição longa (p.e. tabela de dados que deu origem ao gráfico)?</td>
   <td></td>
   <td></td>
   <td></td>
  </tr>
  <tr>
-  <td>As imagens-<em>link</em> têm equivalentes alternativos em texto corretos?</td>
+  <td>5.2 As imagens-<em>link</em> têm equivalentes alternativos em texto corretos?</td>
   <td></td>
   <td></td>
   <td></td>
@@ -762,13 +762,13 @@ Nota: a entidade deve preencher esta _Checklist_, publicá-la no sítio _Web_, e
   <th><abbr title="Não aplicável">n.a.</abbr></th>
  </tr>
  <tr>
-  <td>Para texto de tamanho normal (maior que 18pt) ou maior que 14pt negrito, o rácio de contraste entre a cor do texto e a cor de fundo é superior a 4,5:1?</td>
+  <td>6.1 Para texto de tamanho normal (menor que 18pt ou menor que 14pt negrito), o rácio de contraste entre a cor do texto e a cor do fundo é superior a 4,5:1?</td>
   <td></td>
   <td></td>
   <td></td>
  </tr>
  <tr>
-  <td>Para texto de tamanho grande (maior que 18pt) ou maior que 14pt negrito, o rácio de contraste entre a cor do texto e a cor de fundo é superior a 3:1?</td>
+  <td>6.2 Para texto de tamanho grande (maior ou igual que 18pt ou maior ou igual que 14pt negrito), o rácio de contraste entre a cor do texto e a cor do fundo é superior a 3:1?</td>
   <td></td>
   <td></td>
   <td></td>
@@ -780,13 +780,13 @@ Nota: a entidade deve preencher esta _Checklist_, publicá-la no sítio _Web_, e
   <th><abbr title="Não aplicável">n.a.</abbr></th>
  </tr>
  <tr>
-  <td>É possível ativar os botões de controlo do leitor quer com o rato quer com o teclado?</td>
+  <td>7.1 É possível ativar os botões de controlo do leitor quer com o rato quer com o teclado?</td>
   <td></td>
   <td></td>
   <td></td>
  </tr>
  <tr>
-  <td>O vídeo ou o áudio têm legendas fechadas sincronizadas e/ou, no mínimo, está disponível uma transcrição textual?</td>
+  <td>7.2 O vídeo ou o áudio têm legendas fechadas sincronizadas e/ou, no mínimo, está disponível uma transcrição textual?</td>
   <td></td>
   <td></td>
   <td></td>
@@ -798,31 +798,31 @@ Nota: a entidade deve preencher esta _Checklist_, publicá-la no sítio _Web_, e
   <th><abbr title="Não aplicável">n.a.</abbr></th>
  </tr>
  <tr>
-  <td>Quando se retira a CSS, todos os elementos (x)HTML alinham à esquerda?</td>
+  <td>8.1 Quando se retira a CSS, todos os elementos (x)HTML alinham à esquerda?</td>
   <td></td>
   <td></td>
   <td></td>
  </tr>
  <tr>
-  <td>Quando se retira a CSS, a informação aparece numa ordem lógica?</td>
+  <td>8.2 Quando se retira a CSS, a informação aparece numa ordem lógica?</td>
   <td></td>
   <td></td>
   <td></td>
  </tr>
  <tr>
-  <td>Quando se retira a CSS, é possível reconhecer a semântica dos diversos elementos (títulos, subtítulos, parágrafos, listas, ...)?</td>
+  <td>8.3 Quando se retira a CSS, é possível reconhecer a semântica dos diversos elementos (títulos, subtítulos, parágrafos, listas, ...)?</td>
   <td></td>
   <td></td>
   <td></td>
  </tr>
  <tr>
-  <td>Quando se retira a CSS, a informação relevante permanece visível?</td>
+  <td>8.4 Quando se retira a CSS, a informação relevante permanece visível?</td>
   <td></td>
   <td></td>
   <td></td>
  </tr>
  <tr>
-  <td>A maquetização da página não é feita através do elemento <code>&lt;table&gt;</code> (tabelas <em lang="en">layout</em>)?</td>
+  <td>8.5 A maquetização da página é feita sem recorrer ao elemento <code>&lt;table&gt;</code> (tabelas <em lang="en">layout</em>)?</td>
   <td></td>
   <td></td>
   <td></td>
@@ -834,7 +834,7 @@ Nota: a entidade deve preencher esta _Checklist_, publicá-la no sítio _Web_, e
   <th><abbr title="Não aplicável">n.a.</abbr></th>
  </tr>
  <tr>
-  <td>A página não tem erros de (x)HTML?</td>
+  <td>9.1 A página apresenta-se sem erros de (x)HTML?</td>
   <td></td>
   <td></td>
   <td></td>
@@ -846,7 +846,7 @@ Nota: a entidade deve preencher esta _Checklist_, publicá-la no sítio _Web_, e
   <th><abbr title="Não aplicável">n.a.</abbr></th>
  </tr>
  <tr>
-  <td>Usando a aplicação <em lang="en">Adobe Reader</em>, é possível, no mínimo, efetuar uma cópia do texto do documento PDF e passar o respetivo conteúdo para um processador de texto sem perda de informação?</td>
+  <td>10.1 Usando a aplicação <em lang="en">Adobe Reader</em>, é possível, no mínimo, efetuar uma cópia do texto do documento PDF e passar o respetivo conteúdo para um processador de texto sem perda de informação?</td>
   <td></td>
   <td></td>
   <td></td>
@@ -864,25 +864,25 @@ Nota: a entidade deve preencher esta _Checklist_, publicá-la no sítio _Web_, e
   <th><abbr title="Não aplicável">n.a.</abbr></th>
  </tr>
 <tr>
-<td>O sítio _Web_ apresenta um resumo breve do seu propósito, visível sem se fazer <em>scroll</em></td>
+<td>1.1 O sítio _Web_ apresenta um resumo breve do seu propósito, visível sem se fazer <em>scroll</em></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>Os termos mais complexos têm uma definição agregada</td>
+<td>1.2 Os termos mais complexos têm uma definição agregada</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>Cada bloco de conteúdo contém a sua data de atualização</td>
+<td>1.3 Cada bloco de conteúdo contém a sua data de atualização</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>A informação sobre a entidade responsável pelo conteúdo está em todas as páginas</td>
+<td>1.4 A informação sobre a entidade responsável pelo conteúdo está em todas as páginas</td>
 <td></td>
 <td></td>
 <td></td>
@@ -894,25 +894,25 @@ Nota: a entidade deve preencher esta _Checklist_, publicá-la no sítio _Web_, e
   <th><abbr title="Não aplicável">n.a.</abbr></th>
  </tr>
 <tr>
-<td>O tipo de letra do corpo do documento é adequado e o tamanho da letra é, no mínimo, de 12 pontos</td>
+<td>2.1 O tipo de letra do corpo do documento é adequado e o tamanho da letra é, no mínimo, de 12 pontos</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>A informação secundária (datas, autores) utiliza, no mínimo, um tamanho de letra de 10 pontos</td>
+<td>2.2 A informação secundária (datas, autores) utiliza, no mínimo, um tamanho de letra de 10 pontos</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>Blocos e linhas de texto com largura não superior a 100 caracteres</td>
+<td>2.3 Blocos e linhas de texto com largura não superior a 100 caracteres</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>O espaçamento entre linhas não é inferior a 1.5x do tamanho da letra</td>
+<td>2.4 O espaçamento entre linhas não é inferior a 1.5x do tamanho da letra</td>
 <td></td>
 <td></td>
 <td></td>
@@ -924,19 +924,19 @@ Nota: a entidade deve preencher esta _Checklist_, publicá-la no sítio _Web_, e
   <th><abbr title="Não aplicável">n.a.</abbr></th>
  </tr>
 <tr>
-<td>Nenhum nível de navegação tem mais de 9 opções</td>
+<td>3.1 Nenhum nível de navegação tem mais de 9 opções</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>A navegação principal está sempre visível e sempre no mesmo local</td>
+<td>3.2 A navegação principal está sempre visível e sempre no mesmo local</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>As hiperligações de texto não devem ser diferenciados apenas com base na cor</td>
+<td>3.3 As hiperligações de texto não devem ser diferenciados apenas com base na cor</td>
 <td></td>
 <td></td>
 <td></td>
@@ -948,13 +948,13 @@ Nota: a entidade deve preencher esta _Checklist_, publicá-la no sítio _Web_, e
   <th><abbr title="Não aplicável">n.a.</abbr></th>
  </tr>
 <tr>
-<td>Os documentos longos têm um índice no topo com hiperligações internas para o mesmo</td>
+<td>4.1 Os documentos longos têm um índice no topo com hiperligações internas para o mesmo</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>O <em>layout</em> do sítio <em>Web</em> é adaptável a plataformas móveis sem necessidade de efetuar varrimento horizontal</td>
+<td>4.2 O <em>layout</em> do sítio <em>Web</em> é adaptável a plataformas móveis sem necessidade de efetuar varrimento horizontal</td>
 <td></td>
 <td></td>
 <td></td>
@@ -966,25 +966,25 @@ Nota: a entidade deve preencher esta _Checklist_, publicá-la no sítio _Web_, e
   <th><abbr title="Não aplicável">n.a.</abbr></th>
  </tr>
 <tr>
-<td>Não existem elementos interativos acionados apenas com a passagem do rato (<em>hover</em>)</td>
+<td>5.1 Não existem elementos interativos acionados apenas com a passagem do rato (<em>hover</em>)</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>Os elementos interativos têm uma dimensão mínima de 44px CSS (44pt) (vertical e horizontal)</td>
+<td>5.2 Os elementos interativos têm uma dimensão mínima de 44px CSS (44pt) (vertical e horizontal)</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>Há apenas um botão de ação principal por página e o mesmo encontra-se destacado</td>
+<td>5.3 Há apenas um botão de ação principal por página e o mesmo encontra-se destacado</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>Elementos gráficos interativos têm de aparentar ser clicáveis</td>
+<td>5.4 Elementos gráficos interativos têm de aparentar ser clicáveis</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1002,19 +1002,19 @@ Nota: a entidade deve preencher esta _Checklist_, publicá-la no sítio _Web_, e
   <th><abbr title="Não aplicável">n.a.</abbr></th>
  </tr>
  <tr>
-<td>A sequência de tabulação entre campos segue a sequência de preenchimento</td>
+<td>1.1 A sequência de tabulação entre campos segue a sequência de preenchimento</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>Os formulários com mais de 2 ecrãs de altura devem ser distribuídos por várias páginas</td>
+<td>1.2 Os formulários com mais de 2 ecrãs de altura devem ser distribuídos por várias páginas</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>Os formulários com mais de uma página têm a sequência de passos ilustrada</td>
+<td>1.3 Os formulários com mais de uma página têm a sequência de passos ilustrada</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1026,25 +1026,25 @@ Nota: a entidade deve preencher esta _Checklist_, publicá-la no sítio _Web_, e
   <th><abbr title="Não aplicável">n.a.</abbr></th>
  </tr>
  <tr>
-<td>O tamanho dos campos deve refletir o tamanho previsível dos dados</td>
+<td>2.1 O tamanho dos campos deve refletir o tamanho previsível dos dados</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>É usada revelação progressiva em vez de campos inativos</td>
+<td>2.2 É usada revelação progressiva em vez de campos inativos</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>As legendas dos campos são breves e claras</td>
+<td>2.3 As legendas dos campos são breves e claras</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>Campos obrigatórios devem ser claramente indicados como tal</td>
+<td>2.4 Campos obrigatórios devem ser claramente indicados como tal</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1056,13 +1056,13 @@ Nota: a entidade deve preencher esta _Checklist_, publicá-la no sítio _Web_, e
   <th><abbr title="Não aplicável">n.a.</abbr></th>
  </tr>
  <tr>
-<td>Em ações longas, o sistema deve indicar o que está a acontecer</td>
+<td>3.1 Em ações longas, o sistema deve indicar o que está a acontecer</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>Deve ser confirmado o sucesso da transação/envio de informação</td>
+<td>3.2 Deve ser confirmado o sucesso da transação/envio de informação</td>
 <td></td>
 <td></td>
 <td></td>
@@ -1074,25 +1074,25 @@ Nota: a entidade deve preencher esta _Checklist_, publicá-la no sítio _Web_, e
   <th><abbr title="Não aplicável">n.a.</abbr></th>
  </tr>
  <tr>
-<td>A informação já introduzida deve poder ser corrigida a qualquer momento</td>
+<td>4.1 A informação já introduzida deve poder ser corrigida a qualquer momento</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>As ações destrutivas nunca devem ser permanentes; deve ser sempre possível desfazer a operação</td>
+<td>4.2 As ações destrutivas nunca devem ser permanentes; deve ser sempre possível desfazer a operação</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>As mensagens de erro são claramente identificadas junto aos campos de origem</td>
+<td>4.3 As mensagens de erro são claramente identificadas junto aos campos de origem</td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>As mensagens de erro devem mostrar os passos concretos para a resolução dos mesmos</td>
+<td>4.4 As mensagens de erro devem mostrar os passos concretos para a resolução dos mesmos</td>
 <td></td>
 <td></td>
 <td></td>
