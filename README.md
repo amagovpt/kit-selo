@@ -87,7 +87,7 @@ O nível de cumprimento desses parâmetros durante o primeiro ano deverá ser de
 
 ### Nível 3 - Selo Ouro
 
-Para a atribuição do Selo Ouro, cumulativamente ao que é exigido para o nível 2, a entidade tem de efetuar testes com utilizadores ao sítio _Web_. Os testes deverão ser realizados por uma entidade externa à administração pública.
+Para a atribuição do Selo Ouro, cumulativamente ao que é exigido para o nível 2, a entidade tem de efetuar testes com utilizadores ao sítio _Web_. Os testes deverão ser realizados por uma entidade entidade devidamente credenciada.
 
 Este nível está também alinhado com a recomendação constante na metodologia sugerida pelo DL n.º 83/2018 no artigo 9.º, n.º 1, alínea c).
 
