@@ -16,9 +16,14 @@
 - [Condições de atribuição e afixação do Selo](#condições-de-atribuição-e-afixação-do-Selo)
 - Anexos
   - [Selos em formato SVG](#formato-svg-do-selo-usabilidade-e-acessibilidade)
-  - [_Checklist_ "10 aspectos funcionais"](#checklist-10-aspetos-funcionais-de-acessibilidade)
-  - [_Checklist_ "Conteúdo"](#checklist-conteúdo)
-  - [_Checklist_ "Transação"](#checklist-transação)
+  - Checklists:
+    - [_Checklist_ "10 aspectos funcionais"](#checklist-10-aspetos-funcionais-de-acessibilidade)
+    - [_Checklist_ "Conteúdo"](#checklist-conteúdo)
+    - [_Checklist_ "Transação"](#checklist-transação)
+  - Documentos de recolha de evidências das checklists:
+    - [Recolha de evidências da Checklist 10 aspetos funcionais (xlsx, 125KB)](checklists/checklist-10aspetos.html)
+    - [Recolha de evidências da Checklist "Conteúdo" (xlsx, 103KB)](checklists/checklist-conteudo.html)
+    - [Recolha de evidências da Checklist "Transação" (xlsx, 87KB)](checklists/checklist-transacao.html)
 
 # Introdução 
 
