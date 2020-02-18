@@ -6,7 +6,7 @@
 - [Processo de Candidatura](#processo-de-candidatura)
 - [Níveis de Classificação](#níveis-de-classificação)
 - Requisitos para obter o Selo Bronze 
-  - [Usabilidade: conformidade para com a _checklist_ "Conteúdo"](checklists/checklist-conteudo)
+  - [Usabilidade: conformidade para com a _checklist_ "Conteúdo"](#usabilidade-conformidade-para-com-a-checklist-conteúdo)
   - [Acessibilidade: conformidade 'AA' das WCAG 2.1 de acordo com uma ferramenta automática](#acessibilidade-conformidade-aa-das-wcag-21-de-acordo-com-uma-ferramenta-automática)
 - Requisitos para obter o Selo Prata 
   - [Usabilidade: conformidade para com a _checklist_ "Transação"](checklists/checklist-transacao)
