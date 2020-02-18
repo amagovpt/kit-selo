@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 152 179" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+<svg width="100%" height="100%" viewBox="0 0 152 179" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
     <g transform="matrix(1,0,0,1,-1056.87,-378)">
         <g id="Página-8" serif:id="Página 8" transform="matrix(2.66667,0,0,2.66667,1056.87,378)">
             <rect x="0" y="0" width="57" height="67" style="fill:none;"/>
@@ -32,7 +32,21 @@
                 <g transform="matrix(1,0,0,1,52.0547,11.501)">
                     <path d="M0,-7.002L-4.166,-2.742L-6.109,-4.592L-7.48,-3.221L-4.156,0L1.382,-5.642L0,-7.002Z" style="fill-rule:nonzero;"/>
                 </g>
-                <text x="10.125px" y="59.938px" style="font-family:'MyriadPro-Regular', 'Myriad Pro', sans-serif;font-size:11px;fill:white;">P<tspan x="16.086px 22.169px 28.164px 32.917px " y="59.938px 59.938px 59.938px 59.938px ">RATA</tspan></text>
+                <g transform="matrix(1,0,0,1,11.918,56.2185)">
+                    <path d="M0,-0.032C0.209,0.023 0.473,0.045 0.792,0.045C1.947,0.045 2.651,-0.527 2.651,-1.528C2.651,-2.518 1.947,-2.992 0.902,-2.992C0.484,-2.992 0.165,-2.959 0,-2.914L0,-0.032ZM-0.957,-3.607C-0.495,-3.685 0.109,-3.751 0.88,-3.751C1.826,-3.751 2.52,-3.531 2.959,-3.135C3.355,-2.783 3.608,-2.244 3.608,-1.584C3.608,-0.912 3.41,-0.385 3.036,0C2.52,0.539 1.705,0.815 0.77,0.815C0.484,0.815 0.22,0.804 0,0.749L0,3.719L-0.957,3.719L-0.957,-3.607Z" style="fill:white;fill-rule:nonzero;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,17.8799,56.406)">
+                    <path d="M0,-0.406L0.979,-0.406C2.002,-0.406 2.651,-0.968 2.651,-1.814C2.651,-2.771 1.958,-3.19 0.946,-3.19C0.483,-3.19 0.165,-3.157 0,-3.113L0,-0.406ZM-0.958,-3.784C-0.474,-3.873 0.231,-3.938 0.88,-3.938C1.903,-3.938 2.574,-3.74 3.025,-3.333C3.388,-3.004 3.608,-2.497 3.608,-1.914C3.608,-0.945 2.992,-0.297 2.222,-0.033L2.222,0C2.783,0.198 3.124,0.727 3.3,1.496C3.542,2.532 3.718,3.246 3.872,3.532L2.882,3.532C2.761,3.312 2.597,2.685 2.397,1.76C2.179,0.738 1.771,0.352 0.901,0.32L0,0.32L0,3.532L-0.958,3.532L-0.958,-3.784Z" style="fill:white;fill-rule:nonzero;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,26.6465,55.6034)">
+                    <path d="M0,1.254L-0.736,-0.881C-0.901,-1.364 -1.012,-1.805 -1.121,-2.233L-1.144,-2.233C-1.254,-1.805 -1.363,-1.342 -1.518,-0.891L-2.244,1.254L0,1.254ZM-2.441,2.002L-3.212,4.334L-4.202,4.334L-1.672,-3.08L-0.527,-3.08L2.003,4.334L0.979,4.334L0.187,2.002L-2.441,2.002Z" style="fill:white;fill-rule:nonzero;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,30.4082,59.1249)">
+                    <path d="M0,-5.788L-2.255,-5.788L-2.255,-6.601L3.235,-6.601L3.235,-5.788L0.969,-5.788L0.969,0.813L0,0.813L0,-5.788Z" style="fill:white;fill-rule:nonzero;"/>
+                </g>
+                <g transform="matrix(1,0,0,1,37.3945,55.6034)">
+                    <path d="M0,1.254L-0.737,-0.881C-0.902,-1.364 -1.013,-1.805 -1.123,-2.233L-1.145,-2.233C-1.254,-1.805 -1.365,-1.342 -1.519,-0.891L-2.244,1.254L0,1.254ZM-2.443,2.002L-3.213,4.334L-4.203,4.334L-1.673,-3.08L-0.528,-3.08L2.002,4.334L0.979,4.334L0.187,2.002L-2.443,2.002Z" style="fill:white;fill-rule:nonzero;"/>
+                </g>
             </g>
         </g>
     </g>
