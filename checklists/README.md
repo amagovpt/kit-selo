@@ -1,8 +1,8 @@
 # Checklists do Selo de Usabilidade e Acessibilidade
 
-Checklists:
+<em lang="en">Checklists</em>:
 
-- [10 aspetos funcionais](checklist-10aspetos.html)
+- [Checklist "10 aspetos funcionais"](checklist-10aspetos.html)
 - [Checklist "Conteúdo"](checklist-conteudo.html)
 - [Checklist "Transação"](checklist-transacao.html)
 
