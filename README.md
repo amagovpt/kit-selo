@@ -24,6 +24,8 @@
     - [Recolha de evidências da Checklist 10 aspetos funcionais (xlsx, 125KB)](checklists/sintese-10aspetos.xlsx)
     - [Recolha de evidências da Checklist "Conteúdo" (xlsx, 103KB)](checklists/sintese-conteudo.xlsx)
     - [Recolha de evidências da Checklist "Transação" (xlsx, 87KB)](checklists/sintese-transacao.xlsx)
+  - Declaração de Acessibilidade e Usabilidade
+    - [Gerador da Declaração de Acessibilidade e Usabilidade](https://amagovpt.github.io/gerador/#create)
 
 # Introdução 
 
@@ -64,7 +66,7 @@ A AMA elaborou os requisitos a observar para a obtenção de cada um dos Selos -
 
 Uma vez que todas as entidades abrangidas pelo DL n.º 83/2018 estão obrigadas a disponibilizar para cada sítio _Web_ uma página com a Declaração de Acessibilidade e Usabilidade onde se faça referência a todos os esforços levados a efeito para tornar o seu sítio _Web_ mais acessível e mais usável, é nesta página que devem ser sintetizadas todas as evidências e todas as hiperligações para relatórios e estudos que sustentam as mesmas. Para elaborar a página da Declaração de Acessibilidade e Usabilidade, a AMA criou uma ferramenta que permite gerar a Declaração de acordo com os requisitos definidos na legislação. Esta Declaração deve ficar na pasta /acessibilidade do sítio _Web_ (i.e. www.dominio_do_site.pt/acessibilidade).
 
-A Declaração de Acessibilidade e Usabilidade é tudo aquilo que precisa para se candidatar ao Selo. Preenchida a Declaração de Acessibilidade e Usabilidade e publicada no respetivo sítio _Web_, a entidade pode candidatar-se a um dos Selos, enviando à AMA um pedido de candidatura. Do pedido deve apenas fazer parte o endereço público da Declaração de Acessibilidade e Usabilidade e qual é o Selo a que se candidata: Bronze, Prata ou Ouro. O pedido pode ser feito para o endereço de correio eletrónico: [Selo@ama.pt](mailto:Selo@ama.pt).
+A Declaração de Acessibilidade e Usabilidade é tudo aquilo que precisa para se candidatar ao Selo. [Preenchida a Declaração de Acessibilidade e Usabilidade](https://amagovpt.github.io/gerador/#create) e publicada no respetivo sítio _Web_, a entidade pode candidatar-se a um dos Selos, enviando à AMA um pedido de candidatura. Do pedido deve apenas fazer parte o endereço onde publicou a Declaração de Acessibilidade e Usabilidade e qual é o Selo a que se candidata: Bronze, Prata ou Ouro. O pedido pode ser feito para o endereço de correio eletrónico: [selo@ama.pt](mailto:selo@ama.pt).
 
 Após confirmar a veracidade das análises apresentadas, a AMA entrará em contacto com a entidade e, em caso afirmativo, disponibilizará o código necessário para a afixação do Selo no respetivo sítio _Web_.
 
