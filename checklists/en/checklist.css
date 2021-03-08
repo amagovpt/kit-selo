@@ -1,0 +1,39 @@
+
+
+		body {
+			line-height: 1.5rem;
+		}
+
+		img {
+			width:100px;
+		}
+		h3 {
+			font-size: 125%;			
+			padding:0.5rem 0;
+		}
+		h2 {
+			font-size: 150%;			
+			margin: 1rem 0;
+			font-weight: bold;
+			text-transform: uppercase;			
+		}
+		body.conteudo h2 {
+			color: #a56140;
+			border-bottom: 1px solid #a56140;
+		}
+		body.transacao h2, body.funcional h2 {
+			color: #515151;
+			border-bottom: 1px solid #515151;
+		}
+		h1 {
+			font-size:250%;
+			margin: 1rem 0 0 0;			
+		}
+		div.row {
+			margin:1rem 0;
+		}
+
+		blockquote ul {
+			list-style: none;
+			font-style: italic;
+		}

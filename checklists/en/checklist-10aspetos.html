@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="pt-PT">
+<head>
+	<meta charset="UTF-8">
+	<title>Lista de verificação 10 aspetos críticos de acessibilidade funcional</title>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+	<link rel="stylesheet" href="checklist.css">
+</head>
+<body class="container funcional">
+
+<!-- Layout template
+	<div class="row">
+		<div class="col-sm">		
+			(...)
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm-2">
+			(...)
+		</div>
+		<div class="col-sm">
+			(...)
+		</div>
+	</div>
+-->
+
+	<div class="row">
+		<div class="col-sm">		
+			<h1>Lista de verificação "10 aspetos críticos de acessibilidade funcional"</h1>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm">
+			<p><strong>Nota</strong>: Para recolha de evidências relativa a esta lista de verificação utilize o ficheiro excel: <a href="/kit-selo/checklists/sintese-10aspetos.xlsx">Recolha de evidências da Lista de verificação “10 aspetos críticos de acessibilidade funcional” (xlsx, 125KB)</a></p>
+			<p>A <em lang="en">checklist</em> "10 aspetos críticos de acessibilidade funcional" é a lista de verificação a que se faz alusão no artigo 9.º, n.º 1, alínea b) do Decreto-Lei n.º 83/2018 e deve ser usada de acordo com a metodologia referenciada no diploma:</p>
+			<blockquote>
+				<ul>
+					<li>"1. Para os sítios <em>Web</em>, as entidades referidas no artigo 2.º devem adotar os seguintes procedimentos de monitorização:
+						<ul class="list-none">
+							<li>(...)</li>
+							<li>b) Procedimento simplificado manual, correspondente a uma avaliação manual pericial a uma amostra de páginas que permita responder à diversidade de elementos constantes da lista de verificação para sítios <em>Web</em> publicada no sítio <em>Web</em> <a href="http://www.acessibilidade.gov.pt" target="_blank">www.acessibilidade.gov.pt</a>;"</li>
+						</ul>
+					</li>
+				</ul>
+			</blockquote>
+			<p>Nesta lista estão os <strong>10 aspetos críticos de acessibilidade funcional</strong> encontrados nos diversos estudos aos sítios Web da Administração Pública Portuguesa elaborados pela equipa da Unidade ACESSO - que integra atualmente a Equipa de Experiência Digital da AMA - durante os últimos 20 anos. Esta lista baseia-se também na lista de verificação do W3C <a href="https://www.w3.org/WAI/test-evaluate/preliminary/"><em lang="en">Easy Checks - A First Review of Web Accessibility</em></a>.</p>
+			<p>Requisitos a cumprir:</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm">		
+			<h2 id="n1">1 - Menus de Navegação</h2>
+		</div>
+	</div>	
+	<div class="row">
+		<div class="col-sm-2">
+			<img alt="" src="https://selo.usabilidade.gov.pt/img/selos/prata/Prata_acessibilidade_1_Menus_Navegacao/01_menusnavegacao.svg">
+		</div>
+		<div class="col-sm">
+			<h3 id="n11">1.1 O menu de navegação deve estar estruturado como uma lista de opções</h3>
+			<p>Para que possa ser bem interpretado por tecnologias de apoio, os menus e submenus devem estar estruturados com elementos nativos, do tipo &lt;ul&gt;, ou com a semântica e o estado dos elementos identificados com técnicas em ARIA.</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm-2">
+			<img alt="" src="https://selo.usabilidade.gov.pt/img/selos/prata/Prata_acessibilidade_1_Menus_Navegacao/02_menusnavegacao.svg">
+		</div>
+		<div class="col-sm">
+			<h3 id="n12">1.2 É possível selecionar as opções e as subopções do menu quer com rato quer com teclado</h3>
+			<p>Deve ser possível percorrer a estrutura de navegação quer com um dispositivo apontador quer com o teclado.</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm-2">
+			<img alt="" src="https://selo.usabilidade.gov.pt/img/selos/prata/Prata_acessibilidade_1_Menus_Navegacao/03_menusnavegacao.svg">
+		</div>
+		<div class="col-sm">
+			<h3 id="n13">1.3 As imagens-<em>link</em>, caso existam no menu, devem ter o correspondente equivalente alternativo em texto</h3>
+			<p>As imagens corretamente legendadas permitem ser interpretadas como texto, tornando todas as opções de navegação acessíveis.</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm">		
+			<h2 id="n2">2 - Títulos e Subtítulos</h2>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm-2">
+			<img alt="" src="https://selo.usabilidade.gov.pt/img/selos/prata/Prata_acessibilidade_2_Titulos_Subtitulos/01_titulossubtitulos.svg">
+		</div>
+		<div class="col-sm">
+			<h3 id="n21">2.1 Existe um título &lt;h1&gt; marcado na página</h3>
+			<p>O título principal de cada página, que sumariza o seu conteúdo, deve ser identificado como o primeiro nível dos títulos (h1). Não deverá ser utilizado mais do que um &lt;h1&gt; por página.</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm-2">
+			<img alt="" src="https://selo.usabilidade.gov.pt/img/selos/prata/Prata_acessibilidade_2_Titulos_Subtitulos/02_titulossubtitulos.svg">
+		</div>
+		<div class="col-sm">
+			<h3 id="n22">2.2 Existe uma marcação hierarquizada de títulos e subtítulos na página (&lt;h1&gt;...&lt;h6&gt;)</h3>
+			<p>Os títulos são empregues de forma hierárquica para melhor estruturar os conteúdos, das informações mais gerais às mais particulares. Deverão ser usados de forma consistente por todo o sítio <em>Web</em>.</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm">		
+			<h2 id="n3">3 - Tabelas de Dados</h2>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm-2">
+			<img alt="" src="https://selo.usabilidade.gov.pt/img/selos/prata/Prata_acessibilidade_3_Tabelas_Dados/01_tabelasdados.svg">
+		</div>
+		<div class="col-sm">
+			<h3 id="n31">3.1 As células que constituem os cabeçalhos da tabela estão marcadas com o elemento &lt;th&gt;</h3>
+			<p>Identificar os cabeçalhos de uma tabela ajuda a melhor identificar os eixos que caracterizam a informação em cada célula.</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm-2">
+			<img alt="" src="https://selo.usabilidade.gov.pt/img/selos/prata/Prata_acessibilidade_3_Tabelas_Dados/02_tabelasdados.svg">
+		</div>
+		<div class="col-sm">
+			<h3 id="n32">3.2 A legenda da tabela está marcada com o elemento &lt;caption&gt;</h3>
+			<p>Todas as tabelas deverão conter uma legenda descritiva do seu conteúdo, incluindo as fontes da informação, se necessário.</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm">		
+			<h2 id="n4">4 - Formulários</h2>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm-2">
+			<img alt="" src="https://selo.usabilidade.gov.pt/img/selos/prata/Prata_acessibilidade_4_Formularios/01_formularios.svg">
+		</div>
+		<div class="col-sm">
+			<h3 id="n41">4.1 Ao clicar com o rato na etiqueta, o cursor surge no respetivo campo de edição</h3>
+			<p>De forma a tornar a seleção de campos pequenos mais fácil, a legenda deverá estar associada ao campo respetivo com o elemento &lt;label&gt;, pois desta forma aumenta-se a sua área clicável. Para os utilizadores de leitores de ecrã (pessoas cegas) a associação da etiqueta ao campo de edição é também fundamental.</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm-2">
+			<img alt="" src="https://selo.usabilidade.gov.pt/img/selos/prata/Prata_acessibilidade_4_Formularios/02_formularios.svg">
+		</div>
+		<div class="col-sm">
+			<h3 id="n42">4.2 É possível identificar os campos de preenchimento obrigatório quando se usa apenas um leitor de ecrã</h3>
+			<p>Os campos obrigatórios devem ser preferencialmente agrupados na parte inicial de um formulário e claramente identificados como tal. Se não for possível, cada campo deverá estar identificado textualmente ou como Obrigatório ou como Opcional. Não deverão ser usados apenas símbolos ou cores como elemento identificador.</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm-2">
+			<img alt="" src="https://selo.usabilidade.gov.pt/img/selos/prata/Prata_acessibilidade_4_Formularios/03_formularios.svg">
+		</div>
+		<div class="col-sm">
+			<h3 id="n43">4.3 É possível localizar e ler as mensagens de erro usando apenas um leitor de ecrã</h3>
+			<p>Os erros identificados no decorrer do preenchimento de um formulário deverão preferencialmente ser listados de forma condensada, direcionando cada elemento da lista ao respetivo campo. Cada campo deverá associar a mensagem de erro a si próprio. As mensagens de erro deverão ser breves e claras.</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm">		
+			<h2 id="n5">5 - Gráficos e Imagens-<em>Link</em></h2>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm-2">
+			<img alt="" src="https://selo.usabilidade.gov.pt/img/selos/prata/Prata_acessibilidade_5_Graficos_Imagenslink/01_graficosimagenslink.svg">
+		</div>
+		<div class="col-sm">
+			<h3 id="n51">5.1 A imagem ou gráfico tem um equivalente alternativo em texto curto e correto</h3>
+			<p>As imagens não decorativas deverão ter uma descrição breve associada, nomeadamente através do uso do atributo &lt;ALT&gt;. Esta legenda deve descrever fielmente o propósito da imagem no contexto em que se encontra.</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm-2">
+			<img alt="" src="https://selo.usabilidade.gov.pt/img/selos/prata/Prata_acessibilidade_5_Graficos_Imagenslink/02_graficosimagenslink.svg">
+		</div>
+		<div class="col-sm">
+			<h3 id="n52">5.2 O gráfico é acompanhado de uma descrição longa</h3>
+			<p>Gráficos resultantes de análise de dados deverão ser acompanhados da tabela de dados que lhe deu origem, de forma a preservar o acesso à informação completa.</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm-2">
+			<img alt="" src="https://selo.usabilidade.gov.pt/img/selos/prata/Prata_acessibilidade_5_Graficos_Imagenslink/03_graficosimagenslink.svg">
+		</div>
+		<div class="col-sm">
+			<h3 id="n53">5.3 As imagens-<em>link</em> têm um equivalente alternativo correto</h3>
+			<p>As hiperligações compostas apenas por uma imagem obrigam que esta tenha um equivalente alternativo em texto que represente fielmente o destino da hiperligação.</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm">
+			<h2 id="n6">6 - Contraste</h2>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm-2">
+			<img alt="" src="https://selo.usabilidade.gov.pt/img/selos/prata/Prata_acessibilidade_6_Contrastes/01_contraste.svg">
+		</div>
+		<div class="col-sm">
+			<h3 id="61">6.1 No corpo de um documento, o rácio de contraste entre a cor do texto normal (menor que 18 pontos ou menor que 14 pontos negrito) e a cor do fundo é superior a 4,5:1</h3>
+			<p>Deve assegurar-se no corpo do documento que o rácio de contraste entre a cor do texto e a cor de fundo é, no mínimo, de 4,5:1, de forma a assegurar a sua legibilidade para utilizadores com deficiências da visão.</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm-2">
+			<img alt="" src="https://selo.usabilidade.gov.pt/img/selos/prata/Prata_acessibilidade_6_Contrastes/02_contraste.svg">
+		</div>
+		<div class="col-sm">
+			<h3 id="n62">6.2 O rácio de contraste entre a cor do texto de tamanho grande (maior ou igual que 18 pontos ou maior ou igual que 14 pontos negrito) e a cor do fundo é superior a 3:1</h3>
+			<p>Os textos de tamanho superior a 18 pontos, ou os textos de tamanho superior a 14 pontos mas a negrito, devem assegurar um rácio de contraste mínimo de 3:1 entre a cor do texto e a cor do fundo.</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm">		
+			<h2 id="n7">7 - <em lang="en">Players</em></h2>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm-2">
+			<img alt="" src="https://selo.usabilidade.gov.pt/img/selos/prata/Prata_acessibilidade_7_Players/01_players.svg">
+		</div>
+		<div class="col-sm">
+			<h3 id="n71">7.1 Deve ser possível ativar os botões de controlo do leitor quer com o rato quer com o teclado</h3>
+			<p>Os leitores de multimédia não devem iniciar automaticamente a reprodução dos elementos e têm de ser operáveis usando apenas um rato ou usando apenas um teclado.</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm-2">
+			<img alt="" src="https://selo.usabilidade.gov.pt/img/selos/prata/Prata_acessibilidade_7_Players/02_players.svg">
+		</div>
+		<div class="col-sm">
+			<h3 id="n72">7.2 O vídeo ou o áudio deve conter preferencialmente legendas fechadas sincronizadas. Caso não seja possível, no mínimo, deve disponibilizar-se uma transcrição textual</h3>
+			<p>O uso de legendas fechadas destina-se essencialmente a pessoas surdas. Recomendam-se para a produção das referidas legendas técnicas de tradaptação conhecidas para o efeito bem como o enriquecimento das legendas de sons cuja mensagem não seja percetível visualmente (por ex., o toque de uma campaínha de uma porta).</p>
+			<p>Para vídeos com mensagens eminentemente visuais (por ex., um vídeo com música de fundo que passa um conjunto de mensagens apenas percetíveis à visão), os mesmos devem ter uma versão equivalente alternativa com produção de audiodescrição. A audiodescrição é fundamental para que pessoas cegas ou com baixa visão possam percecionar a mensagem veiculada.</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm">		
+			<h2 id="n8">8 - Estrutura da Página</h3>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm-2">
+			<img alt="" src="https://selo.usabilidade.gov.pt/img/selos/prata/Prata_acessibilidade_8_Estrutura_Pagina/01_estruturapagina.svg">
+		</div>
+		<div class="col-sm">
+			<h3 id="n81">8.1 Quando se retira a CSS, todos os elementos HTML devem alinhar à esquerda</h3>
+			<p>Quando se desativam todos os estilos visuais, o conteúdo da página é apresentado alinhado à esquerda e apresenta-se de forma linear.</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm-2">
+			<img alt="" src="https://selo.usabilidade.gov.pt/img/selos/prata/Prata_acessibilidade_8_Estrutura_Pagina/02_estruturapagina.svg">
+		</div>
+		<div class="col-sm">
+			<h3 id="n82">8.2 Quando se retira a CSS, a informação aparece numa ordem lógica</h3>
+			<p>Tendo em conta que o posicionamento de elementos no código pode não refletir a ordem visual de leitura, deve ser assegurada a ordem correta do conteúdo quando se desativam os estilos visuais.</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm-2">
+			<img alt="" src="https://selo.usabilidade.gov.pt/img/selos/prata/Prata_acessibilidade_8_Estrutura_Pagina/03_estruturapagina.svg">
+		</div>
+		<div class="col-sm">
+			<h3 id="n83">8.3 Quando se retira a CSS, deve ser possível reconhecer a semântica dos diversos elementos</h3>
+			<p>Os elementos que estruturam o conteúdo devem estar semanticamente bem estruturados, usando os elementos de HTML apropriados a cada tipo de conteúdo, como títulos, parágrafos, listas, ...</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm-2">
+			<img alt="" src="https://selo.usabilidade.gov.pt/img/selos/prata/Prata_acessibilidade_8_Estrutura_Pagina/04_estruturapagina.svg">
+		</div>
+		<div class="col-sm">
+			<h3 id="n84">8.4 Quando se retira a CSS, a informação relevante permanece visível</h3>
+			<p>Toda a informação visível deve permanecer na página sob forma textual, quando se desativam os estilos visuais.</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm-2">
+			<img alt="" src="https://selo.usabilidade.gov.pt/img/selos/prata/Prata_acessibilidade_8_Estrutura_Pagina/05_estruturapagina.svg">
+		</div>
+		<div class="col-sm">
+			<h3 id="n85">8.5 A maquetização da página é feita sem recorrer ao elemento &lt;table&gt;</h3>
+			<p>A estrutura de composição gráfica da página não é feita recorrendo a elementos de tabela mas sim a uma maior diversidade de elementos semânticos (por ex., &lt;main&gt;) e genéricos (por ex., &lt;div&gt;), que permitem a recomposição visual para diferentes tipos e dimensões de ecrã.</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm">		
+			<h2 id="n9">9 - Sintaxe de HTML</h2>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm-2">
+			<img alt="" src="https://selo.usabilidade.gov.pt/img/selos/prata/Prata_acessibilidade_9_Sintaxe_HTML/01_sintaxehtml.svg">
+		</div>
+		<div class="col-sm">
+			<h3 id="n91">9.1 A página apresenta-se sem erros de (x)HTML</h3>
+			<p>A página não deve apresentar erros de sintaxe de (x)HTML.</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm">		
+			<h2 id="n10">10 - Ficheiros PDF</h2>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-sm-2">
+			<img alt="" src="https://selo.usabilidade.gov.pt/img/selos/prata/Prata_acessibilidade_10_Ficheiros_PDF/01_ficheirospdf.svg">
+		</div>
+		<div class="col-sm">
+			<h3 id="n101">10.1 Nos ficheiros PDF é possível, no mínimo, extrair o conteúdo textual para formato TXT</h3>
+			<p>Os ficheiros PDF devem ter o seu texto inteiramente extraível para que se possa passar o respetivo conteúdo para um processador de texto sem perda de informação.</p>
+		</div>
+	</div>
+</body>
+</html>
