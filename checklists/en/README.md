@@ -3,8 +3,8 @@
 <em lang="en">Checklists</em>:
 
 - [Checklist "10 critical aspects of functional accessibility"](checklist-10aspects.html)
-- [Lista de verificação "Conteúdo"](checklist-conteudo.html)
-- [Lista de verificação "Transação"](checklist-transacao.html)
+- [Checklist "Content"](checklist-content.html)
+- [Checklist "Transaction"](checklist-transaction.html)
 
 Documentos de recolha de evidências das <em lang="en">checklists</em>:
 
