@@ -2,7 +2,7 @@
 
 <em lang="en">Checklists</em>:
 
-- [Lista de verificação "10 aspetos críticos de acessibilidade funcional"](checklist-10aspetos.html)
+- [Checklist "10 critical aspects of functional accessibility"](checklist-10aspects.html)
 - [Lista de verificação "Conteúdo"](checklist-conteudo.html)
 - [Lista de verificação "Transação"](checklist-transacao.html)
 
