@@ -6,7 +6,7 @@
 - [Checklist "Content"](checklist-content.html)
 - [Checklist "Transaction"](checklist-transaction.html)
 
-Checklist evidence collection documents::
+Checklist evidence collection documents:
 
 - [Gathering evidence from the “10 Critical Aspects of Functional Accessibility” Checklist (xlsx, 125KB)](sintese-10aspetos.xlsx)
 - [Gathering evidence from the “Content” Checklist (xlsx, 103KB)](sintese-conteudo.xlsx)
