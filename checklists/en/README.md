@@ -6,8 +6,8 @@
 - [Checklist "Content"](checklist-content.html)
 - [Checklist "Transaction"](checklist-transaction.html)
 
-Documentos de recolha de evidências das <em lang="en">checklists</em>:
+Checklist evidence collection documents::
 
-- [Recolha de evidências da Lista de verificação "10 aspetos críticos de acessibilidade funcional" (xlsx, 125KB)](sintese-10aspetos.xlsx)
-- [Recolha de evidências da Lista de verificação "Conteúdo" (xlsx, 103KB)](sintese-conteudo.xlsx)
-- [Recolha de evidências da Lista de verificação "Transação" (xlsx, 87KB)](sintese-transacao.xlsx)
+- [Gathering evidence from the “10 Critical Aspects of Functional Accessibility” Checklist (xlsx, 125KB)](sintese-10aspetos.xlsx)
+- [Gathering evidence from the “Content” Checklist (xlsx, 103KB)](sintese-conteudo.xlsx)
+- [Gathering Evidence from the “Transaction” Checklist (xlsx, 87KB)](sintese-transacao.xlsx)
