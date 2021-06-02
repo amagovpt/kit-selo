@@ -1,6 +1,6 @@
-# Listas de verificação do Selo de Usabilidade e Acessibilidade
+# Usability and Accessibility Seal Checklists
 
-<em lang="en">Checklists</em>:
+Checklists:
 
 - [Checklist "10 critical aspects of functional accessibility"](checklist-10aspects.html)
 - [Checklist "Content"](checklist-content.html)
