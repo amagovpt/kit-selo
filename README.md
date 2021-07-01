@@ -18,8 +18,8 @@
   - [Selos em formato SVG](#formato-svg-do-selo-usabilidade-e-acessibilidade)
   - Checklists:
     - [_Checklist_ "10 aspectos funcionais"](#checklist-10-aspetos-funcionais-de-acessibilidade)
-    - [_Checklist_ "Conteúdo"](checklists/checklist-conteudo)
-    - [_Checklist_ "Transação"](checklists/checklist-transacao)
+    - [_Checklist_ "Conteúdo"](#checklist-conteúdo)
+    - [_Checklist_ "Transação"](#checklist-transação)
   - Documentos de recolha de evidências das checklists:
     - [Recolha de evidências da Checklist 10 aspetos funcionais (xlsx, 125KB)](checklists/sintese-10aspetos.xlsx)
     - [Recolha de evidências da Checklist "Conteúdo" (xlsx, 103KB)](checklists/sintese-conteudo.xlsx)
