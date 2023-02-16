@@ -33,13 +33,13 @@
 
 # Introdução 
 
-O Selo de Usabilidade e Acessibilidade destina-se principalmente às entidades que estão obrigadas ao cumprimento da Lei n.º 36/2011, de 21 de junho, que estabelece a adoção de normas abertas nos sistemas informáticos do Estado, na sequência da qual surgiu o Regulamento Nacional de Interoperabilidade Digital (RNID). O último diploma que alterou a legislação que estabelece o RNID (Lei n.º 36/2011, de 21 de junho e Resolução do Conselho de Ministros n.º 2/2018, de 5 de janeiro) foi o Decreto-Lei n.º 83/2018, de 19 de outubro. Neste diploma, onde se estabelecem os requisitos de acessibilidade dos sítios <em>Web</em> e das aplicações móveis de organismos públicos, o grupo-alvo do RNID ficou assim definido:
+O Selo de Usabilidade e Acessibilidade destina-se principalmente às entidades que estão obrigadas ao cumprimento da Lei n.º 36/2011, de 21 de junho, que estabelece a adoção de normas abertas nos sistemas informáticos do Estado, na sequência da qual surgiu o Regulamento Nacional de Interoperabilidade Digital (RNID). O último diploma que alterou a legislação que estabelece o RNID (Lei n.º 36/2011, de 21 de junho e Resolução do Conselho de Ministros n.º 2/2018, de 5 de janeiro) foi o Decreto-Lei n.º 83/2018, de 19 de outubro. Neste diploma, onde se estabelecem os requisitos de acessibilidade dos sítios <em lang="en">Web</em> e das aplicações móveis de organismos públicos, o grupo-alvo do RNID ficou assim definido:
 
 <blockquote>
 <p>«Artigo 2.º<br> Âmbito de aplicação</p>
 <ol>
 <li>A presente lei aplica-se às seguintes entidades:
-<ul type="none">
+<ol type="none">
 <li>a) Estado;</li>
 <li>b) Regiões Autónomas;</li>
 <li>c) Institutos públicos;</li>
@@ -47,13 +47,13 @@ O Selo de Usabilidade e Acessibilidade destina-se principalmente às entidades q
 <li>e) Fundações públicas;</li>
 <li>f) Associações públicas;</li>
 <li>g) Entidades do setor público empresarial.</li>
-</ul>
-</li><li>No que se refere à acessibilidade dos sítios <em>Web</em> e das aplicações móveis, a presente lei aplica-se igualmente às seguintes entidades:
-<ul type="none">
+</ol>
+</li><li>No que se refere à acessibilidade dos sítios <em lang="en">Web</em> e das aplicações móveis, a presente lei aplica-se igualmente às seguintes entidades:
+<ol type="none">
 <li>a) Autarquias locais;</li>
 <li>b) Organizações Não Governamentais que prestam serviços essenciais ao público ou que prestam serviços que visam especificamente responder às necessidades das pessoas com deficiência ou que lhes são diretamente dirigidos;</li>
 <li>c) Instituições de ensino superior, estabelecimentos de educação pré-escolar e de educação escolar, públicos e privados com financiamento público, no que se refere ao conteúdo relativo a funções administrativas essenciais por via eletrónica.»</li>
-</ul>
+</ol>
 </li></ol>
 <cite>Redação introduzida na Lei n.º 36/2011 pelo DL n.º 83/2018, de 19 de outubro</cite>
 </blockquote>
