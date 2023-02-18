@@ -16,18 +16,18 @@
 - [Condições de atribuição e afixação do Selo](#condições-de-atribuição-e-afixação-do-Selo)
 - Anexos
   - [Selos em formato SVG](#formato-svg-do-selo-usabilidade-e-acessibilidade)
-  - Checklists:
+  - _Checklists_:
     - [_Checklist_ "10 aspectos funcionais"](checklists/checklist-10aspetos.html)
     - [_Checklist_ "Conteúdo"](checklists/checklist-conteudo.html)
     - [_Checklist_ "Transação"](checklists/checklist-transacao.html)
-  - Documentos de recolha de evidências das checklists:
-    - [Recolha de evidências da Checklist 10 aspetos funcionais (xlsx, 125KB)](checklists/sintese-10aspetos.xlsx)
-    - [Recolha de evidências da Checklist "Conteúdo" (xlsx, 103KB)](checklists/sintese-conteudo.xlsx)
-    - [Recolha de evidências da Checklist "Transação" (xlsx, 87KB)](checklists/sintese-transacao.xlsx)
+  - Documentos de recolha de evidências das _checklists_:
+    - [Recolha de evidências da _Checklist_ 10 aspetos funcionais (xlsx, 125KB)](checklists/sintese-10aspetos.xlsx)
+    - [Recolha de evidências da _Checklist_ "Conteúdo" (xlsx, 103KB)](checklists/sintese-conteudo.xlsx)
+    - [Recolha de evidências da _Checklist_ "Transação" (xlsx, 87KB)](checklists/sintese-transacao.xlsx)
   - Documentos de recolha de evidências das checklists em formato código aberto:
-    - [Recolha de evidências da Checklist 10 aspetos funcionais (ods, 56KB)](checklists/sintese-10aspetos.ods)
-    - [Recolha de evidências da Checklist "Conteúdo" (ods, 53KB)](checklists/sintese-conteudo.ods)
-    - [Recolha de evidências da Checklist "Transação" (ods, 50KB)](checklists/sintese-transacao.ods)
+    - [Recolha de evidências da _Checklist_ 10 aspetos funcionais (ods, 56KB)](checklists/sintese-10aspetos.ods)
+    - [Recolha de evidências da _Checklist_ "Conteúdo" (ods, 53KB)](checklists/sintese-conteudo.ods)
+    - [Recolha de evidências da _Checklist_ "Transação" (ods, 50KB)](checklists/sintese-transacao.ods)
   - Declaração de Acessibilidade e Usabilidade
     - [Gerador da Declaração de Acessibilidade e Usabilidade](https://amagovpt.github.io/gerador/#create)
 
@@ -106,7 +106,7 @@ Este nível está também alinhado com a recomendação constante na metodologia
 
 ### Usabilidade: conformidade para com a <em lang="en">Checklist</em> "Conteúdo"
 
-- [Consulte a Checklist Conteúdo](checklists/checklist-conteudo).
+- [Consulte a _Checklist_ Conteúdo](checklists/checklist-conteudo).
 
 ### Acessibilidade: conformidade 'AA' das <abbr title="Web Content Accessibility Guidelines, version 2.1" lang="en">WCAG 2.1</abbr> de acordo com uma ferramenta automática
 
@@ -133,7 +133,7 @@ Apresentam-se a seguir algumas das ferramentas de validação automática que po
 
 ### Usabilidade: conformidade para com a _checklist_ "Transação"
 
-- [Consulte a Checklist "Transação"](checklists/checklist-transacao).
+- [Consulte a _Checklist_ "Transação"](checklists/checklist-transacao).
 
 ### Acessibilidade: conformidade para com a _checklist_ "10 aspetos funcionais"
 
@@ -149,7 +149,7 @@ A _checklist_ "10 aspetos funcionais" é para ser usada de acordo com a metodolo
 </ol>
 </blockquote>
 
-[Consulte a Checklist "10 aspetos funcionais"](checklists/checklist-10aspetos)
+[Consulte a _Checklist_ "10 aspetos funcionais"](checklists/checklist-10aspetos)
 
 ## Requisitos para obter o Selo Ouro
 
