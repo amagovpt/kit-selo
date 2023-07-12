@@ -206,7 +206,10 @@ Após a atribuição do Selo, pode afixar o mesmo usando o seguinte código HTML
 Se o seu selo é Ouro pode usar o seguinte código:
 
 ```html
-   <a href="https://selo.usabilidade.gov.pt"><img alt="Selo Ouro de Usabilidade e Acessibilidade" src="/caminho-para-a-imagem/ouro.svg"></a>
+  <a href="https://selo.usabilidade.gov.pt">
+    <img alt="Selo Ouro de Usabilidade e Acessibilidade" 
+         src="/caminho-para-a-imagem/ouro.svg">
+  </a>
 ```
 
 A entidade tem completa liberdade para afixar o Selo de Usabilidade e Acessibilidade em qualquer página ou páginas do sítio _Web_ e nestas selecionar a posição que considerar mais apropriada. A única obrigatoriedade é que o Selo surja, pelo menos, na página de entrada do sítio Web.
