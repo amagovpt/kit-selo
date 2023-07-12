@@ -201,11 +201,15 @@ A atribuição do Selo é válida por um período de 12 meses. Contudo, se se ve
 
 ### Método de Aplicação 
 
-Após a atribuição do Selo, é disponibilizado à entidade um código que permite afixar no sítio _Web_ o Selo que lhe foi atribuído. A entidade poderá selecionar um de quatro estilos de exibição disponíveis (ver anexo: Selos em formato svg), de forma a que se enquadre melhor na estrutura do seu sítio _Web_. 
+Após a atribuição do Selo, pode afixar o mesmo usando o seguinte código HTML:
 
-Qualquer utilizador que acione a hiperligação existente no Selo será direcionado para o sítio _Web_ do Selo (https://selo.usabilidade.gov.pt) onde poderá comprovar a autenticidade do mesmo. 
+Se o seu selo é Ouro pode usar o seguinte código:
 
-A entidade tem completa liberdade para afixar o Selo de Usabilidade e Acessibilidade em qualquer página ou páginas do sítio _Web_ e nestas selecionar a posição que considerar mais apropriada.
+```html
+   <a href="https://selo.usabilidade.gov.pt"><img alt="Selo Ouro de Usabilidade e Acessibilidade" src="/caminho-para-a-imagem/ouro.svg"></a>
+```
+
+A entidade tem completa liberdade para afixar o Selo de Usabilidade e Acessibilidade em qualquer página ou páginas do sítio _Web_ e nestas selecionar a posição que considerar mais apropriada. A única obrigatoriedade é que o Selo surja, pelo menos, na página de entrada do sítio Web.
 
 ### Caducidade do Selo 
 
