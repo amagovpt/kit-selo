@@ -107,7 +107,7 @@ Para a atribuição do Selo Ouro, a Declaração de Acessibilidade e Usabilidade
 1. Responder ao esquema de conformidade do Selo Prata, e;
 2. A existência de um relatório dos testes levados a efeito com utilizadores - testes de usabilidade.
 
-Os testes de usabilidade devem contemplar uma amostra de 6 participantes, com um grupo composto por 3 pessoas com deficiência - da tipologia constante da EN301549 - e um grupo composto por 3 pessoas sem deficiência, que sirva de grupo de controlo da amostra.
+Os testes de usabilidade devem contemplar uma amostra de 6 participantes, com um grupo composto por 2 pessoas com deficiência, de uma das tipologias constante da EN301549, e 4 pessoas sem deficiência.
 
 ### Algumas notas a observar na realização dos testes de usabilidade
 
