@@ -80,7 +80,7 @@ O Selo de Usabilidade e Acessibilidade está estruturado em 3 níveis de classif
 - O nível 2, o intermédio,  corresponde ao Selo Prata;
 - O nível 3, o mais exigente em termos de esforço, corresponde ao Selo Ouro.
 
-### Requisitos Selo Bronze
+## Requisitos Selo Bronze
 
 Para a atribuição do Selo Bronze, a Declaração de Acessibilidade e Usabilidade deve declarar que o sítio web está "plenamente conforme" para com os requisitos de acessibilidade constantes do DL n.º 83/2018 e anexar evidências que comprovem, no mínimo:
 
@@ -93,7 +93,7 @@ Aviso: para o primeiro ano de operação do Selo de Usabilidade e Acessibilidade
 - a avaliação automática recolhida no AccessMonitor obtiver nota 9 em todas as páginas da amostra;
 - o grau de satisfação em cada uma das duas _checklists_ for de 75%.
 
-### Requisitos Selo Prata
+## Requisitos Selo Prata
 
 Para a atribuição do Selo Prata, a Declaração de Acessibilidade e Usabilidade deve declarar que o sítio web está "plenamente conforme" para com os requisitos de acessibilidade constantes do DL n.º 83/2018 e anexar evidências que comprovem, no mínimo:
 
@@ -105,7 +105,7 @@ Aviso: para o primeiro ano de operação do Selo de Usabilidade e Acessibilidade
 - a avaliação automática recolhida no AccessMonitor obtiver nota 9 em todas as páginas da amostra;
 - o grau de satisfação em cada uma das três _checklists_ for de 75%.
 
-### Requisitos Selo Ouro
+## Requisitos Selo Ouro
 
 Para a atribuição do Selo Ouro, a Declaração de Acessibilidade e Usabilidade deve declarar que o sítio web está "plenamente conforme" para com os requisitos de acessibilidade constantes do DL n.º 83/2018 e anexar evidências que comprovem, no mínimo:
 
@@ -114,28 +114,38 @@ Para a atribuição do Selo Ouro, a Declaração de Acessibilidade e Usabilidade
 
 Os testes de usabilidade devem contemplar uma amostra de 6 participantes, com um grupo composto por 3 pessoas com deficiência - da tipologia constante da EN301549 - e um grupo composto por 3 pessoas sem deficiência, que sirva de grupo de controlo da amostra.
 
-#### Algumas instruções para a realização dos testes de usabilidade
+### Algumas notas a observar na realização dos testes de usabilidade
 
-**1. PROTOCOLO ADEQUADO** 
+**1. Protocolo de testes adequado** 
 
-O teste deve focar-se nas principais funções do sítio _Web_ e ser comum a todos os utilizadores. No caso de utilizadores com necessidades especiais, o protocolo deve ser aplicado no seu local de trabalho/consulta habitual usando as tecnologias de apoio habituais e com as configurações personalizadas pelo próprio participante. 
+O teste deve focar-se nas principais funções do sítio web e ser comum a todos os utilizadores. No caso de utilizadores com deficiência ou incapacidades, o protocolo deve ser aplicado no seu local habitual de utilização, usando as suas tecnologias de apoio com as configurações personalizadas pelo próprio participante. 
 
-**2. PROTOCOLO DE TESTES SEM VIÉS**
+**2. Protocolo de testes sem viés**
 
-O teste procurará não influenciar as opções do utilizador e não deverá fornecer pistas sobre a realização das tarefas, incluindo termos usados. Sempre que apropriado deve ser solicitado aos participantes que verbalizem o que estão a pensar enquanto desempenham a sua tarefa no sítio _Web_.
+O teste procurará não influenciar as opções do utilizador e não deverá fornecer pistas sobre a realização das tarefas. Sempre que apropriado deve ser solicitado aos participantes que verbalizem o que estão a pensar enquanto desempenham a sua tarefa no sítio web.
+
+Sugere-se a criação de um número reduzido de tarefas, na ordem das 3 a 4 tarefas, que permita a realização expectável da sessão não superior a 1 hora. 
 
 **3. Autorizações e registos das sessões**
 
 A entidade deve solicitar autorização por escrito aos participantes e, sempre que apropriado, deve efetuar registos vídeo ou áudio das sessões.
 
-**4. RELATÓRIO FINAL COM OBSERVAÇÕES E RECOMENDAÇÕES**
+**4. Relatório final com observações e recomendações**
 
-O relatório final deve incluir uma lista de observações e recomendações para cada uma das tarefas. 
+O relatório final a incluir na Declaração de Acessibilidade deve conter:
 
-**5. INCORPORAÇÃO DE RECOMENDAÇÕES**
-
-As entidades deverão evidenciar que as recomendações foram incorporadas no sítio _Web_. 
-
+- Caracterização dos participantes, incluindo as pessoas com deficiência (experiência de uso, faixas etárias, tipologias de incapacidades, tecnologias de apoio utilizadas, ...).
+- Metodologia e material de registo utilizado.
+- Guião das tarefas realizadas.
+- Resultados obtidos:
+  - taxas de sucesso na execução das tarefas;
+  - tempos de execução das tarefas (eficiência);
+  - barreiras encontradas;
+  - estratégias de navegação;
+  - grau de satisfação dos utilizadores para com o sítio web;
+- Principais recomendações e lições aprendidas.
+- Correções efetuadas à luz das recomendações e lições aprendidas.
+  
 ## Condições de atribuição e afixação do Selo
 
 ### Período de Atribuição 
@@ -169,21 +179,21 @@ Para cada nível existem 4 versões do selo. Pode optar por afixar aquela que me
 
 #### Versões do Selo Ouro
 
-<img height="150" alt="Selo Ouro" src="img/ouro.svg"><br>
-<img height="150" alt="Selo Ouro - vertical" src="img/ouro-vertical.svg"><br>
-<img height="150" alt="Selo Ouro - horizontal e letra branca" src="img/ouro-horizontal-branco.svg"><br>
-<img height="150" alt="Selo Ouro - horizontal" src="img/ouro-horizontal.svg">
+<img height="150" alt="selo vertical com fundo dourado e letra a branco com a expressão Selo Ouro" src="img/ouro.svg"><br>
+<img height="150" alt="selo vertical com fundo dourado e letra a branco com a expressão Selo Ouro, Usabilidade & Acessibilidade" src="img/ouro-vertical.svg"><br>
+<img height="150" alt="selo horizontal com fundo dourado e letra a branco com a expressão Selo Ouro e, com fundo branco e letra cinzenta a expressão Selo de Usabilidade & Acessibilidade" src="img/ouro-horizontal-branco.svg"><br>
+<img height="150" alt="selo horizontal com fundo dourado e letra a branco com a expressão Selo Ouro, Selo de Usabilidade & Acessibilidade" src="img/ouro-horizontal.svg">
 
 #### Versoões do Selo Prata
 
-<img height="150" alt="Selo Prata" src="img/prata.svg"><br>
-<img height="150" alt="Selo Prata - vertical" src="img/prata-vertical.svg"><br>
-<img height="150" alt="Selo Prata - horizontal e letra branca" src="img/prata-horizontal-branco.svg"><br>
-<img height="150" alt="Selo Prata - horizontal" src="img/prata-horizontal.svg">
+<img height="150" alt="selo vertical com fundo prata e letra a branco com a expressão Selo Prata, Usabilidade & Acessibilidade" src="img/prata.svg"><br>
+<img height="150" alt="selo vertical com fundo prata e letra a branco com a expressão Selo Prata" src="img/prata-vertical.svg"><br>
+<img height="150" alt="selo horizontal com fundo dourado e letra a branco com a expressão Selo Prata e, com fundo branco e letra cinzenta a expressão Selo de Usabilidade & Acessibilidade" src="img/prata-horizontal-branco.svg"><br>
+<img height="150" alt="selo horizontal com fundo prata e letra a branco com a expressão Selo Prata, Selo de Usabilidade & Acessibilidade" src="img/prata-horizontal.svg">
 
 #### Versões do Selo Bronze
 
-<img height="150" alt="Selo Bronze" src="img/bronze.svg"><br>
-<img height="150" alt="Selo Bronze - vertical" src="img/bronze-vertical.svg"><br>
-<img height="150" alt="Selo Bronze - horizontal e letra branca" src="img/bronze-horizontal-branco.svg"><br>
-<img height="150" alt="Selo Bronze - horizontal" src="img/bronze-horizontal.svg">
+<img height="150" alt="selo vertical com fundo bronze e letra a branco com a expressão Selo Bronze, Usabilidade & Acessibilidade" src="img/bronze.svg"><br>
+<img height="150" alt="selo vertical com fundo bronze e letra a branco com a expressão Selo Bronze" src="img/bronze-vertical.svg"><br>
+<img height="150" alt="selo horizontal com fundo bronze e letra a branco com a expressão Selo bronze e, com fundo branco e letra cinzenta a expressão Selo de Usabilidade & Acessibilidade" src="img/bronze-horizontal-branco.svg"><br>
+<img height="150" alt="selo horizontal com fundo bronze e letra a branco com a expressão Selo Bronze, Selo de Usabilidade & Acessibilidade" src="img/bronze-horizontal.svg">
