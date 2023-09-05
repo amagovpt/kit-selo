@@ -33,7 +33,7 @@
 
 # Introdução 
 
-O Selo de Usabilidade e Acessibilidade destina-se principalmente às entidades que estão obrigadas ao cumprimento da Lei n.º 36/2011, de 21 de junho, que estabelece a adoção de normas abertas nos sistemas informáticos do Estado, na sequência da qual surgiu o Regulamento Nacional de Interoperabilidade Digital (RNID). O último diploma que alterou a legislação que estabelece o RNID (Lei n.º 36/2011, de 21 de junho e Resolução do Conselho de Ministros n.º 2/2018, de 5 de janeiro) foi o Decreto-Lei n.º 83/2018, de 19 de outubro. Neste diploma, onde se estabelecem os requisitos de acessibilidade dos sítios <em lang="en">Web</em> e das aplicações móveis de organismos públicos, o grupo-alvo do RNID ficou assim definido:
+O Selo de Usabilidade e Acessibilidade destina-se principalmente às entidades que estão obrigadas ao cumprimento da Lei n.º 36/2011, de 21 de junho, que estabelece a adoção de normas abertas nos sistemas informáticos do Estado, na sequência da qual surgiu o [Regulamento Nacional de Interoperabilidade Digital (RNID)](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/2-2018-114457664 title="RCM n.º 5/2018, de 5 de janeiro"). O último diploma que alterou a legislação que estabelece o RNID (Lei n.º 36/2011, de 21 de junho e Resolução do Conselho de Ministros n.º 2/2018, de 5 de janeiro) foi o Decreto-Lei n.º 83/2018, de 19 de outubro. Neste diploma, onde se estabelecem os requisitos de acessibilidade dos sítios <em lang="en">Web</em> e das aplicações móveis de organismos públicos, o grupo-alvo do RNID ficou assim definido:
 
 <blockquote>
 <p>«Artigo 2.º<br> Âmbito de aplicação</p>
