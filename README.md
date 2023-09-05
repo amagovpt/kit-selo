@@ -5,14 +5,9 @@
 - [Introdução](#introdução)
 - [Processo de Candidatura](#processo-de-candidatura)
 - [Níveis de Classificação](#níveis-de-classificação)
-- Requisitos para obter o Selo Bronze 
-  - [Usabilidade: conformidade para com a _checklist_ "Conteúdo"](#usabilidade-conformidade-para-com-a-checklist-conteúdo)
-  - [Acessibilidade: conformidade 'AA' das WCAG 2.1 de acordo com uma ferramenta automática](#acessibilidade-conformidade-aa-das-wcag-21-de-acordo-com-uma-ferramenta-automática)
-- Requisitos para obter o Selo Prata 
-  - [Usabilidade: conformidade para com a _checklist_ "Transação"](#usabilidade-conformidade-para-com-a-checklist-transação)
-  - [Acessibilidade: conformidade para com a _checklist_ "10 aspetos funcionais"](#acessibilidade-conformidade-para-com-a-checklist-10-aspetos-funcionais)
-- Requisitos para obter o Selo Ouro
-  - [Testes de Usabilidade](#testes-de-usabilidade)
+- [Requisitos Selo Bronze](#requisitos-selo-bronze)
+- [Requisitos Selo Prata](#requisitos-selo-prata)
+- [Requisitos Selo Ouro](#requisitos-selo-ouro)
 - [Condições de atribuição e afixação do Selo](#condições-de-atribuição-e-afixação-do-Selo)
 - Anexos
   - [Selos em formato SVG](#formato-svg-do-selo-usabilidade-e-acessibilidade)
@@ -33,7 +28,7 @@
 
 # Introdução 
 
-O Selo de Usabilidade e Acessibilidade destina-se principalmente às entidades que estão obrigadas ao cumprimento da Lei n.º 36/2011, de 21 de junho, que estabelece a adoção de normas abertas nos sistemas informáticos do Estado, na sequência da qual surgiu o Regulamento Nacional de Interoperabilidade Digital (RNID). O último diploma que alterou a legislação que estabelece o RNID (Lei n.º 36/2011, de 21 de junho e Resolução do Conselho de Ministros n.º 2/2018, de 5 de janeiro) foi o Decreto-Lei n.º 83/2018, de 19 de outubro. Neste diploma, onde se estabelecem os requisitos de acessibilidade dos sítios <em lang="en">Web</em> e das aplicações móveis de organismos públicos, o grupo-alvo do RNID ficou assim definido:
+O Selo de Usabilidade e Acessibilidade destina-se principalmente às entidades que estão obrigadas ao cumprimento da Lei n.º 36/2011, de 21 de junho, a qual estabelece a adoção de normas abertas nos sistemas informáticos do Estado. Na sequência desta legislação surgiu o [Regulamento Nacional de Interoperabilidade Digital (RNID)](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/2-2018-114457664 "Última versão: RCM n.º 5/2018, de 5 de janeiro"). O último diploma que alterou a legislação que estabelece o RNID (Lei n.º 36/2011, de 21 de junho e Resolução do Conselho de Ministros n.º 2/2018, de 5 de janeiro) foi o Decreto-Lei n.º 83/2018, de 19 de outubro. Neste diploma estabelecem-se os requisitos de acessibilidade dos sítios web e das aplicações móveis de organismos públicos de todos os Estados-Membros da União Europeia. Os requisitos de acessibilidade encontram-se na [Norma Europeia EN301549](https://www.etsi.org/human-factors-accessibility/en-301-549-v3-the-harmonized-european-standard-for-ict-accessibility). O grupo-alvo do RNID está definido como:
 
 <blockquote>
 <p>«Artigo 2.º<br> Âmbito de aplicação</p>
@@ -48,7 +43,7 @@ O Selo de Usabilidade e Acessibilidade destina-se principalmente às entidades q
 <li>f) Associações públicas;</li>
 <li>g) Entidades do setor público empresarial.</li>
 </ol>
-</li><li>No que se refere à acessibilidade dos sítios <em lang="en">Web</em> e das aplicações móveis, a presente lei aplica-se igualmente às seguintes entidades:
+</li><li>No que se refere à acessibilidade dos sítios web e das aplicações móveis, a presente lei aplica-se igualmente às seguintes entidades:
 <ol type="none">
 <li>a) Autarquias locais;</li>
 <li>b) Organizações Não Governamentais que prestam serviços essenciais ao público ou que prestam serviços que visam especificamente responder às necessidades das pessoas com deficiência ou que lhes são diretamente dirigidos;</li>
@@ -58,165 +53,116 @@ O Selo de Usabilidade e Acessibilidade destina-se principalmente às entidades q
 <cite>Redação introduzida na Lei n.º 36/2011 pelo DL n.º 83/2018, de 19 de outubro</cite>
 </blockquote>
 
-Como se observa da enumeração anterior, para além do setor público, há um alargamento a alguns setores privados. O cumprimento dos requisitos prescritos pelo Selo de Usabilidade e Acessibilidade é fator de qualidade dos conteúdos e dos serviços disponibilizados em linha pelo que todos os setores estão convidados à sua adoção.
+Como se observa da enumeração anterior, para além do setor público, há um alargamento a alguns setores privados. O cumprimento dos requisitos prescritos pelo Selo de Usabilidade e Acessibilidade é fator de qualidade dos conteúdos e dos serviços disponibilizados em linha, pelo que todos os setores estão convidados à sua adoção.
 
-O Selo está estruturado em três níveis, correspondendo a 3 etapas de esforço diferenciadas. Cada uma destas etapas é chancelada por um Selo. O Selo Bronze chancela a conformidade para com os requisitos de nível 1. Ao nível intermédio corresponde o Selo Prata e ao nível mais elevado corresponde o Selo Ouro. Para obter o Selo Ouro, é necessário adicionar aos testes com utilizadores, os requisitos definidos para o Selo Bronze e para o Selo Prata.
+O Selo está estruturado em três níveis, correspondendo a 3 etapas de esforço diferenciadas. Cada uma destas etapas é chancelada por um Selo. O Selo Bronze chancela a conformidade para com os requisitos de nível básico. Ao nível intermédio corresponde o Selo Prata e ao nível mais elevado corresponde o Selo Ouro. Os requisitos aplicáveis a cada nível são cumulativos com os requisitos dos níveis que o antecedem - por exemplo, para obter o Selo Ouro, é necessário adicionar ao relatório com os testes com utilizadores, os requisitos definidos para o Selo Bronze e para o Selo Prata.
 
-O Selo de Usabilidade e Acessibilidade é também ele um instrumento pedagógico. A lista de requisitos não é exaustiva e dela fazem parte aspetos básicos que respondem a preocupações funcionais práticas dos utilizadores. Para o caso das pessoas com deficiências ou incapacidades a seleção dos requisitos levou em conta o princípio básico de "antes de usar é preciso aceder", significando isto que é importante eliminar todo o tipo de barreiras que impedem estes utilizadores - utilizadores de tecnologias de apoio - de aceder aos serviços e à informação disponibilizada na Internet. Só depois de aceder podemos falar de usabilidade.
+O Selo de Usabilidade e Acessibilidade é também ele um instrumento pedagógico. A lista de requisitos não é exaustiva e dela fazem parte aspetos que os estudos têm relevado serem críticos e que respondem a preocupações funcionais práticas dos utilizadores. Para o caso das pessoas com deficiências ou incapacidades a seleção dos requisitos levou em conta o princípio básico de "antes de usar é preciso aceder", significando isto que é importante eliminar todo o tipo de barreiras que impedem estes utilizadores - utilizadores de tecnologias de apoio - de aceder aos serviços e à informação disponibilizada na Internet. Só depois de aceder podemos falar de usabilidade.
 
 ## Processo de Candidatura
 
-A AMA elaborou os requisitos a observar para a obtenção de cada um dos Selos - Bronze, Prata, Ouro - numa lógica de prática corrente, diária, a usar pelas equipas de desenvolvimento e de edição de conteúdos. As _checklists_ não são para serem usadas apenas no momento da candidatura ao Selo. As listas de requisitos e todo o trabalho efetuado para a sua verificação - ferramentas utilizadas, estudos efetuados, etc. -, à medida que for sendo produzido, deve ser publicado no sítio _Web_ da entidade. 
+A AMA elaborou os requisitos a observar para a obtenção de cada um dos Selos - Bronze, Prata, Ouro - numa lógica de prática corrente, diária, a usar pelas equipas de desenvolvimento e de edição de conteúdos. As _checklists_ não são para serem usadas apenas no momento da candidatura ao Selo. As listas de requisitos e todo o trabalho efetuado para a sua verificação - ferramentas utilizadas, estudos efetuados, etc. -, devem ir engrossando a compilação de evidências anexas à Declaração de Acessibilidade. São as evidências que sustentam a declaração - conforme, parcialmente conforme, não conforme - tornada pública na Declaração de Acessibilidade.
 
-Uma vez que todas as entidades abrangidas pelo DL n.º 83/2018 estão obrigadas a disponibilizar para cada sítio _Web_ uma página com a Declaração de Acessibilidade e Usabilidade onde se faça referência a todos os esforços levados a efeito para tornar o seu sítio _Web_ mais acessível e mais usável, é nesta página que devem ser sintetizadas todas as evidências e todas as hiperligações para relatórios e estudos que sustentam as mesmas. Para elaborar a página da Declaração de Acessibilidade e Usabilidade, a AMA criou uma ferramenta que permite gerar a Declaração de acordo com os requisitos definidos na legislação. Esta Declaração deve ficar na pasta /acessibilidade do sítio _Web_ (i.e. www.dominio_do_site.pt/acessibilidade).
+Para preencher a Declaração de Acessibilidade, a AMA criou uma ferramenta que permite gerar a Declaração de acordo com o modelo definido na legislação - [use o gerador da Declaração de Acessibilidade e Usabilidade](https://www.acessibilidade.gov.pt/gerador/). A Declaração deve ficar publicada na pasta /acessibilidade do sítio web (i.e. www.dominio_do_site.pt/acessibilidade).
 
-A Declaração de Acessibilidade e Usabilidade é tudo aquilo que precisa para se candidatar ao Selo. [Preenchida a Declaração de Acessibilidade e Usabilidade](https://amagovpt.github.io/gerador/#create) e publicada no respetivo sítio _Web_, a entidade pode candidatar-se a um dos Selos, enviando à AMA um pedido de candidatura. Do pedido deve apenas fazer parte o endereço onde publicou a Declaração de Acessibilidade e Usabilidade e qual é o Selo a que se candidata: Bronze, Prata ou Ouro. O pedido pode ser feito para o endereço de correio eletrónico: [selo@ama.pt](mailto:selo@ama.pt).
-
-Após confirmar a veracidade das análises apresentadas, a AMA entrará em contacto com a entidade e, em caso afirmativo, disponibilizará o código necessário para a afixação do Selo no respetivo sítio _Web_.
+A Declaração de Acessibilidade e Usabilidade é, ela própria, o formulário de candidatura. Ela é tudo o que precisa para se candidatar ao Selo. Basta ir à [página de Candidatura do sitio web do Selo](https://selo.usabilidade.gov.pt/candidatura.html#scroll-error) e dizer-nos em que endereço se encontra a Declaração e qual é o Selo a que pretende candidatar-se: bronze. prata ou ouro. A equipa da AMA dará início á validação da informação constante da Declaração e dar-lhe-á retorno via correio eletrónico.
 
 ## Níveis de Classificação 
 
 O Selo de Usabilidade e Acessibilidade está estruturado em 3 níveis de classificação, correspondendo a 3 níveis de esforço distintos:
 
 - O nível 1, o mais básico, corresponde ao Selo Bronze; 
-- O nível 2  corresponde ao Selo Prata;
+- O nível 2, o intermédio,  corresponde ao Selo Prata;
 - O nível 3, o mais exigente em termos de esforço, corresponde ao Selo Ouro.
 
-### Nível 1 - Selo Bronze
+## Requisitos Selo Bronze
 
-Para a atribuição do Selo Bronze, o sítio _Web_ tem de cumprir com os requisitos constantes da _checklist_ "Conteúdo" e ainda passar a bateria de testes de um validador de acessibilidade _Web_ para o ‘AA’ das WCAG 2.1, de acordo com a metodologia constante no artigo 9.º, n.º 1, alínea a) do DL nº 83/2018, de 19 de outubro.
+Para a atribuição do Selo Bronze, a Declaração de Acessibilidade e Usabilidade deve declarar que o sítio web está "plenamente conforme" para com os requisitos de acessibilidade constantes do DL n.º 83/2018 e anexar evidências que comprovem, no mínimo:
 
-O nível de cumprimento desses parâmetros durante o primeiro ano deverá ser de 75%. 
+1. A existência de uma avaliação automática às práticas de acessibilidade de uma amostra de páginas feita por um validador de acessibilidade que comprove a inexistência de violações de conformidade nível 'AA' das WCAG 2.1 do W3C. A amostra deve, no mínimo, contemplar a primeira página e todas as páginas, pertencentes ao domínio, diretamente hiperligadas a esta, e;
+2. A existência da [_checklist_ "10 aspetos críticos de acessibilidade funcional"]((checklists/checklist-10aspetos), com evidências compiladas que demonstrem a satisfação dos requisitos constantes da _checklist_, e;
+3. A existência da [_checklist_ "Conteúdo"]((checklists/checklist-conteudo), com evidências compiladas que demonstrem a satisfação dos requisitos constantes da _checklist_.
 
-### Nível 2 - Selo Prata
+Aviso: para o primeiro ano de operação do Selo de Usabilidade e Acessibilidade considera-se "plenamente conforme" se, no mínimo:
 
-Para a atribuição do Selo Prata, cumulativamente ao que é exigido para o nível 1, o sítio _Web_ tem de estar em conformidade para com a _checklist_ "Transação" e da _checklist_ "10 aspetos funcionais".
+- a avaliação automática recolhida no AccessMonitor obtiver nota 9 em todas as páginas da amostra;
+- o grau de satisfação em cada uma das duas _checklists_ for de 75%.
 
-A _checklist_ "10 aspetos funcionais" é para ser usada de acordo com a metodologia referida no artigo 9.º, n.º 1, alínea b) do DL n.º 83/2018, de 19 de outubro.
+## Requisitos Selo Prata
 
-O nível de cumprimento desses parâmetros durante o primeiro ano deverá ser de 75%. 
+Para a atribuição do Selo Prata, a Declaração de Acessibilidade e Usabilidade deve declarar que o sítio web está "plenamente conforme" para com os requisitos de acessibilidade constantes do DL n.º 83/2018 e anexar evidências que comprovem, no mínimo:
 
-### Nível 3 - Selo Ouro
+1. Responder ao esquema de conformidade do Selo Bronze, e;
+2. A existência da [_checklist_ "Transação"]((checklists/checklist-transacao), com evidências compiladas que demonstrem a satisfação dos requisitos constantes da _checklist_.
 
-Para a atribuição do Selo Ouro, cumulativamente ao que é exigido para o nível 2, a entidade tem de efetuar testes com utilizadores ao sítio _Web_. Os testes deverão ser realizados por uma entidade entidade devidamente credenciada.
+Aviso: para o primeiro ano de operação do Selo de Usabilidade e Acessibilidade considera-se "plenamente conforme" se, no mínimo:
 
-Este nível está também alinhado com a recomendação constante na metodologia sugerida pelo DL n.º 83/2018 no artigo 9.º, n.º 1, alínea c).
+- a avaliação automática recolhida no AccessMonitor obtiver nota 9 em todas as páginas da amostra;
+- o grau de satisfação em cada uma das três _checklists_ for de 75%.
 
-## Requisitos para obter o Selo Bronze
+## Requisitos Selo Ouro
 
-### Usabilidade: conformidade para com a <em lang="en">Checklist</em> "Conteúdo"
+Para a atribuição do Selo Ouro, a Declaração de Acessibilidade e Usabilidade deve declarar que o sítio web está "plenamente conforme" para com os requisitos de acessibilidade constantes do DL n.º 83/2018 e anexar evidências que comprovem, no mínimo:
 
-- [Consulte a Checklist Conteúdo](checklists/checklist-conteudo).
+1. Responder ao esquema de conformidade do Selo Prata, e;
+2. A existência de um relatório dos testes levados a efeito com utilizadores - testes de usabilidade.
 
-### Acessibilidade: conformidade 'AA' das <abbr title="Web Content Accessibility Guidelines, version 2.1" lang="en">WCAG 2.1</abbr> de acordo com uma ferramenta automática
+Os testes de usabilidade devem contemplar uma amostra de 6 participantes, com um grupo composto por 3 pessoas com deficiência - da tipologia constante da EN301549 - e um grupo composto por 3 pessoas sem deficiência, que sirva de grupo de controlo da amostra.
 
-O sítio _Web_ tem de passar a bateria de testes de um validador automático de acessibilidade _Web_ para a conformidade ‘AA’ das Diretrizes de Acessibilidade para Conteúdo _Web_ (WCAG 2.1), de acordo com a metodologia constante no artigo 9.º, n.º 1, alínea a) do DL nº 83/2018, de 19 de outubro:
+### Algumas notas a observar na realização dos testes de usabilidade
 
-<blockquote>
-<ol>
-<li>Para os sítios <em>Web</em>, as entidades referidas no artigo 2.º devem adotar os seguintes procedimentos de monitorização:
-<ul type="none">
-<li>a) Procedimento simplificado automático ou semiautomático, correspondente a uma avaliação automática a uma amostra de páginas do sítio <em>Web</em> composta, no mínimo, pela página de entrada e por todas as páginas hiperligadas à página de entrada e contemplando, sempre que possível, os vários tipos de <em>templates</em> utilizados, recorrendo a um validador automático ou semiautomático de acessibilidade <em>Web</em> comummente utilizado no mercado;</li>
-</ul></li>
-</ol>
-</blockquote>
+**1. Protocolo de testes adequado** 
 
-Apresentam-se a seguir algumas das ferramentas de validação automática que podem ser usadas para proceder à análise da conformidade 'AA' das WCAG 2.1. Fazemos notar que a grande maioria das ferramentas atualmente existentes no mercado têm como referência a versão 2.0 das WCAG, o que é aceitável para a determinação da conformidade.
+O teste deve focar-se nas principais funções do sítio web e ser comum a todos os utilizadores. No caso de utilizadores com deficiência ou incapacidades, o protocolo deve ser aplicado no seu local habitual de utilização, usando as suas tecnologias de apoio com as configurações personalizadas pelo próprio participante. 
 
-- AccessMonitor / Observatório Português da Acessibilidade _Web_ (em português)<br>http://accessmonitor.acessibilidade.gov.pt 
-- WAVE - _Web_ Accessibility Evaluation Tool<br>http://wave.webaim.org
-- Rocket Validator<br>https://rocketvalidator.com
-- SiteImprove<br>https://siteimprove.com
-- Deque / aXe<br>https://www.deque.com/axe/
+**2. Protocolo de testes sem viés**
 
-##  Requisitos para obter o Selo Prata 
+O teste procurará não influenciar as opções do utilizador e não deverá fornecer pistas sobre a realização das tarefas. Sempre que apropriado deve ser solicitado aos participantes que verbalizem o que estão a pensar enquanto desempenham a sua tarefa no sítio web.
 
-### Usabilidade: conformidade para com a _checklist_ "Transação"
+Sugere-se a criação de um número reduzido de tarefas, na ordem das 3 a 4 tarefas, que permita a realização expectável da sessão não superior a 1 hora. 
 
-- [Consulte a Checklist "Transação"](checklists/checklist-transacao).
-
-### Acessibilidade: conformidade para com a _checklist_ "10 aspetos funcionais"
-
-A _checklist_ "10 aspetos funcionais" é para ser usada de acordo com a metodologia referida no artigo 9.º, n.º 1, alínea b) do DL n.º 83/2018:
-
-<blockquote>
-<ol>
-<li>Para os sítios <em>Web</em>, as entidades referidas no artigo 2.º devem adotar os seguintes procedimentos de monitorização:<br>
-(...)
-<ul type="none">
-<li>b) Procedimento simplificado manual, correspondente a uma avaliação manual pericial a uma amostra de páginas que permita responder à diversidade de elementos constantes da lista de verificação para sítios <em>Web</em> publicada no sítio <em>Web</em> www.acessibilidade.gov.pt;</li>
-</ul></li>
-</ol>
-</blockquote>
-
-[Consulte a Checklist "10 aspetos funcionais"](checklists/checklist-10aspetos)
-
-## Requisitos para obter o Selo Ouro
-
-### Testes de Usabilidade
-
-Para obter o Selo Ouro, além dos procedimentos descritos para o Selo Bronze e para o Selo Prata, as entidades deverão apresentar prova da realização de testes com utilizadores.
-
-Este nível está também alinhado com a recomendação constante na metodologia sugerida pelo DL n.º 83/2018 no artigo 9.º, n.º 1, alínea c):
-
-<blockquote>
-<ol>
-<li>Para os sítios <em>Web</em>, as entidades referidas no artigo 2.º devem adotar os seguintes procedimentos de monitorização:<br>
-(...)
-<ul type="none">
-<li>c) Testes de usabilidade com pessoas com deficiência, dos quais devem fazer parte como objeto de análise, pelo menos, uma tarefa e uma tipologia de utilizadores.</li>
-</ul></li>
-</ol>
-</blockquote>
-
-**1 · NÚMERO DE UTILIZADORES**
-
-Nos testes com utilizadores devem participar, no mínimo, um bloco de 4 utilizadores + 2 utilizadores com necessidades especiais pertencentes a uma das seguintes tipologias: visão, audição, motora, intelectual. : No mínimo 2 participantes com necessidades especiais por tipologia. Deve ser realizado um bloco de testes por cada 5 ações principais do sítio _Web_ em causa. 
-
-**2 · PROTOCOLO ADEQUADO** 
-
-O teste deve focar-se nas principais funções do sítio _Web_ e ser comum a todos os utilizadores. No caso de utilizadores com necessidades especiais, o protocolo deve ser aplicado no seu local de trabalho/consulta habitual usando as tecnologias de apoio habituais e com as configurações personalizadas pelo próprio participante. 
-
-**3 · PROTOCOLO DE TESTES SEM VIÉS**
-
-O teste procurará não influenciar as opções do utilizador e não deverá fornecer pistas sobre a realização das tarefas, incluindo termos usados. Sempre que apropriado deve ser solicitado aos participantes que verbalizem o que estão a pensar enquanto desempenham a sua tarefa no sítio _Web_.
-
-**4 . Autorizações e registos das sessões**
+**3. Autorizações e registos das sessões**
 
 A entidade deve solicitar autorização por escrito aos participantes e, sempre que apropriado, deve efetuar registos vídeo ou áudio das sessões.
 
-**5 · RELATÓRIO FINAL COM OBSERVAÇÕES E RECOMENDAÇÕES**
+**4. Relatório final com observações e recomendações**
 
-O relatório final deve incluir uma lista de observações e recomendações para cada uma das tarefas. 
+O relatório final a incluir na Declaração de Acessibilidade deve conter:
 
-**6 · INCORPORAÇÃO DE RECOMENDAÇÕES**
-
-As entidades deverão evidenciar que as recomendações foram incorporadas no sítio _Web_. 
-
+- Caracterização dos participantes, incluindo as pessoas com deficiência (experiência de uso, faixas etárias, tipologias de incapacidades, tecnologias de apoio utilizadas, ...).
+- Metodologia e material de registo utilizado.
+- Guião das tarefas realizadas.
+- Resultados obtidos:
+  - taxas de sucesso na execução das tarefas;
+  - tempos de execução das tarefas (eficiência);
+  - barreiras encontradas;
+  - estratégias de navegação;
+  - grau de satisfação dos utilizadores para com o sítio web;
+- Principais recomendações e lições aprendidas.
+- Correções efetuadas à luz das recomendações e lições aprendidas.
+  
 ## Condições de atribuição e afixação do Selo
 
 ### Período de Atribuição 
 
-A atribuição do Selo é válida por um período de 12 meses. Contudo, se se verificar que o sítio _Web_ sofreu uma alteração profunda o Selo será revogado. 
+A atribuição do Selo é válida por um período de 12 meses. Contudo, se se verificar que o sítio web sofreu uma alteração profunda o Selo será revogado. 
 
 ### Método de Aplicação 
 
 Após a atribuição do Selo, pode afixar o mesmo usando o seguinte código HTML:
 
-Se o seu selo é Ouro pode usar o seguinte código:
-
-```html
-  <a href="https://selo.usabilidade.gov.pt">
+´´´html
+<a href="https://selo.usabilidade.gov.pt">
     <img alt="Selo Ouro de Usabilidade e Acessibilidade" 
          src="/caminho-para-a-imagem/ouro.svg">
   </a>
-```
+´´´
 
-A entidade tem completa liberdade para afixar o Selo de Usabilidade e Acessibilidade em qualquer página ou páginas do sítio _Web_ e nestas selecionar a posição que considerar mais apropriada. A única obrigatoriedade é que o Selo surja, pelo menos, na página de entrada do sítio Web.
+A entidade tem completa liberdade para afixar o Selo de Usabilidade e Acessibilidade em qualquer página ou páginas do sítio Web e nestas selecionar a posição que considerar mais apropriada. A única obrigatoriedade é que o Selo surja, pelo menos, na página de entrada do sítio Web.
 
 ### Caducidade do Selo 
 
-As entidades podem renovar o Selo por igual período de 12 meses remetendo à AMA um processo composto de evidências atualizadas à data da renovação. Caso a entidade opte por não renovar o Selo, o mesmo caduca e será solicitado à entidade que retire o código que o afixa no respetivo sítio _Web_.
+As entidades podem renovar o Selo por igual período de 12 meses remetendo à AMA um processo composto de evidências atualizadas à data da renovação. Caso a entidade opte por não renovar o Selo, o mesmo caduca e será solicitado à entidade que retire o código que o afixa no respetivo sítio web.
 
 ## Anexos
 
@@ -228,21 +174,21 @@ Para cada nível existem 4 versões do selo. Pode optar por afixar aquela que me
 
 #### Versões do Selo Ouro
 
-<img height="150" alt="Selo Ouro" src="img/ouro.svg"><br>
-<img height="150" alt="Selo Ouro - vertical" src="img/ouro-vertical.svg"><br>
-<img height="150" alt="Selo Ouro - horizontal e letra branca" src="img/ouro-horizontal-branco.svg"><br>
-<img height="150" alt="Selo Ouro - horizontal" src="img/ouro-horizontal.svg">
+<img height="150" alt="selo vertical com fundo dourado e letra a branco com a expressão Selo Ouro" src="img/ouro.svg"><br>
+<img height="150" alt="selo vertical com fundo dourado e letra a branco com a expressão Selo Ouro, Usabilidade & Acessibilidade" src="img/ouro-vertical.svg"><br>
+<img height="150" alt="selo horizontal com fundo dourado e letra a branco com a expressão Selo Ouro e, com fundo branco e letra cinzenta a expressão Selo de Usabilidade & Acessibilidade" src="img/ouro-horizontal-branco.svg"><br>
+<img height="150" alt="selo horizontal com fundo dourado e letra a branco com a expressão Selo Ouro, Selo de Usabilidade & Acessibilidade" src="img/ouro-horizontal.svg">
 
 #### Versoões do Selo Prata
 
-<img height="150" alt="Selo Prata" src="img/prata.svg"><br>
-<img height="150" alt="Selo Prata - vertical" src="img/prata-vertical.svg"><br>
-<img height="150" alt="Selo Prata - horizontal e letra branca" src="img/prata-horizontal-branco.svg"><br>
-<img height="150" alt="Selo Prata - horizontal" src="img/prata-horizontal.svg">
+<img height="150" alt="selo vertical com fundo prata e letra a branco com a expressão Selo Prata, Usabilidade & Acessibilidade" src="img/prata.svg"><br>
+<img height="150" alt="selo vertical com fundo prata e letra a branco com a expressão Selo Prata" src="img/prata-vertical.svg"><br>
+<img height="150" alt="selo horizontal com fundo dourado e letra a branco com a expressão Selo Prata e, com fundo branco e letra cinzenta a expressão Selo de Usabilidade & Acessibilidade" src="img/prata-horizontal-branco.svg"><br>
+<img height="150" alt="selo horizontal com fundo prata e letra a branco com a expressão Selo Prata, Selo de Usabilidade & Acessibilidade" src="img/prata-horizontal.svg">
 
 #### Versões do Selo Bronze
 
-<img height="150" alt="Selo Bronze" src="img/bronze.svg"><br>
-<img height="150" alt="Selo Bronze - vertical" src="img/bronze-vertical.svg"><br>
-<img height="150" alt="Selo Bronze - horizontal e letra branca" src="img/bronze-horizontal-branco.svg"><br>
-<img height="150" alt="Selo Bronze - horizontal" src="img/bronze-horizontal.svg">
+<img height="150" alt="selo vertical com fundo bronze e letra a branco com a expressão Selo Bronze, Usabilidade & Acessibilidade" src="img/bronze.svg"><br>
+<img height="150" alt="selo vertical com fundo bronze e letra a branco com a expressão Selo Bronze" src="img/bronze-vertical.svg"><br>
+<img height="150" alt="selo horizontal com fundo bronze e letra a branco com a expressão Selo bronze e, com fundo branco e letra cinzenta a expressão Selo de Usabilidade & Acessibilidade" src="img/bronze-horizontal-branco.svg"><br>
+<img height="150" alt="selo horizontal com fundo bronze e letra a branco com a expressão Selo Bronze, Selo de Usabilidade & Acessibilidade" src="img/bronze-horizontal.svg">
