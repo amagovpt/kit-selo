@@ -80,32 +80,32 @@ O Selo de Usabilidade e Acessibilidade está estruturado em 3 níveis de classif
 - O nível 2, o intermédio,  corresponde ao Selo Prata;
 - O nível 3, o mais exigente em termos de esforço, corresponde ao Selo Ouro.
 
-### Nível 1 - Selo Bronze
+### Requisitos Selo Bronze
 
 Para a atribuição do Selo Bronze, a Declaração de Acessibilidade e Usabilidade deve declarar que o sítio web está "plenamente conforme" para com os requisitos de acessibilidade constantes do DL n.º 83/2018 e anexar evidências que comprovem, no mínimo:
 
-1. A existência de uma avaliação automática às práticas de acessibilidade de uma amostra de páginas feita por um validador de acessibilidade que comprove a inexistência de violações de conformidade nível 'AA' das WCAG 2.1 do W3C. A amostra deve, no mínimo, contemplar a primeira página e todas as páginas, pertencentes ao domínio, diretamente hiperligadas a esta;
-2. A existência da _checklist_ "10 aspetos críticos de acessibilidade funcional", com evidências compiladas que demonstrem a satisfação dos requisitos constantes da _checklist_;
-3. A existência da _checklist_ "Conteúdo", com evidências compiladas que demonstrem a satisfação dos requisitos constantes da _checklist_.
+1. A existência de uma avaliação automática às práticas de acessibilidade de uma amostra de páginas feita por um validador de acessibilidade que comprove a inexistência de violações de conformidade nível 'AA' das WCAG 2.1 do W3C. A amostra deve, no mínimo, contemplar a primeira página e todas as páginas, pertencentes ao domínio, diretamente hiperligadas a esta, e;
+2. A existência da [_checklist_ "10 aspetos críticos de acessibilidade funcional"]((checklists/checklist-10aspetos), com evidências compiladas que demonstrem a satisfação dos requisitos constantes da _checklist_, e;
+3. A existência da [_checklist_ "Conteúdo"]((checklists/checklist-conteudo), com evidências compiladas que demonstrem a satisfação dos requisitos constantes da _checklist_.
 
 Aviso: para o primeiro ano de operação do Selo de Usabilidade e Acessibilidade considera-se "plenamente conforme" se, no mínimo:
 
 - a avaliação automática recolhida no AccessMonitor obtiver nota 9 em todas as páginas da amostra;
 - o grau de satisfação em cada uma das duas _checklists_ for de 75%.
 
-### Nível 2 - Selo Prata
+### Requisitos Selo Prata
 
 Para a atribuição do Selo Prata, a Declaração de Acessibilidade e Usabilidade deve declarar que o sítio web está "plenamente conforme" para com os requisitos de acessibilidade constantes do DL n.º 83/2018 e anexar evidências que comprovem, no mínimo:
 
-1. Responder ao esquema de conformidade do Selo Bronze;
-2. A existência da _checklist_ "Transação", com evidências compiladas que demonstrem a satisfação dos requisitos constantes da _checklist_.
+1. Responder ao esquema de conformidade do Selo Bronze, e;
+2. A existência da [_checklist_ "Transação"]((checklists/checklist-transacao), com evidências compiladas que demonstrem a satisfação dos requisitos constantes da _checklist_.
 
 Aviso: para o primeiro ano de operação do Selo de Usabilidade e Acessibilidade considera-se "plenamente conforme" se, no mínimo:
 
 - a avaliação automática recolhida no AccessMonitor obtiver nota 9 em todas as páginas da amostra;
 - o grau de satisfação em cada uma das três _checklists_ for de 75%.
 
-### Nível 3 - Selo Ouro
+### Requisitos Selo Ouro
 
 Para a atribuição do Selo Ouro, a Declaração de Acessibilidade e Usabilidade deve declarar que o sítio web está "plenamente conforme" para com os requisitos de acessibilidade constantes do DL n.º 83/2018 e anexar evidências que comprovem, no mínimo:
 
@@ -114,94 +114,25 @@ Para a atribuição do Selo Ouro, a Declaração de Acessibilidade e Usabilidade
 
 Os testes de usabilidade devem contemplar uma amostra de 6 participantes, com um grupo composto por 3 pessoas com deficiência - da tipologia constante da EN301549 - e um grupo composto por 3 pessoas sem deficiência, que sirva de grupo de controlo da amostra.
 
-## Requisitos para obter o Selo Bronze
+#### Algumas instruções para a realização dos testes de usabilidade
 
-### Usabilidade: conformidade para com a <em lang="en">Checklist</em> "Conteúdo"
-
-- [Consulte a Checklist Conteúdo](checklists/checklist-conteudo).
-
-### Acessibilidade: conformidade 'AA' das <abbr title="Web Content Accessibility Guidelines, version 2.1" lang="en">WCAG 2.1</abbr> de acordo com uma ferramenta automática
-
-O sítio _Web_ tem de passar a bateria de testes de um validador automático de acessibilidade _Web_ para a conformidade ‘AA’ das Diretrizes de Acessibilidade para Conteúdo _Web_ (WCAG 2.1), de acordo com a metodologia constante no artigo 9.º, n.º 1, alínea a) do DL nº 83/2018, de 19 de outubro:
-
-<blockquote>
-<ol>
-<li>Para os sítios <em>Web</em>, as entidades referidas no artigo 2.º devem adotar os seguintes procedimentos de monitorização:
-<ul type="none">
-<li>a) Procedimento simplificado automático ou semiautomático, correspondente a uma avaliação automática a uma amostra de páginas do sítio <em>Web</em> composta, no mínimo, pela página de entrada e por todas as páginas hiperligadas à página de entrada e contemplando, sempre que possível, os vários tipos de <em>templates</em> utilizados, recorrendo a um validador automático ou semiautomático de acessibilidade <em>Web</em> comummente utilizado no mercado;</li>
-</ul></li>
-</ol>
-</blockquote>
-
-Apresentam-se a seguir algumas das ferramentas de validação automática que podem ser usadas para proceder à análise da conformidade 'AA' das WCAG 2.1. Fazemos notar que a grande maioria das ferramentas atualmente existentes no mercado têm como referência a versão 2.0 das WCAG, o que é aceitável para a determinação da conformidade.
-
-- AccessMonitor / Observatório Português da Acessibilidade _Web_ (em português)<br>http://accessmonitor.acessibilidade.gov.pt 
-- WAVE - _Web_ Accessibility Evaluation Tool<br>http://wave.webaim.org
-- Rocket Validator<br>https://rocketvalidator.com
-- SiteImprove<br>https://siteimprove.com
-- Deque / aXe<br>https://www.deque.com/axe/
-
-##  Requisitos para obter o Selo Prata 
-
-### Usabilidade: conformidade para com a _checklist_ "Transação"
-
-- [Consulte a Checklist "Transação"](checklists/checklist-transacao).
-
-### Acessibilidade: conformidade para com a _checklist_ "10 aspetos funcionais"
-
-A _checklist_ "10 aspetos funcionais" é para ser usada de acordo com a metodologia referida no artigo 9.º, n.º 1, alínea b) do DL n.º 83/2018:
-
-<blockquote>
-<ol>
-<li>Para os sítios <em>Web</em>, as entidades referidas no artigo 2.º devem adotar os seguintes procedimentos de monitorização:<br>
-(...)
-<ul type="none">
-<li>b) Procedimento simplificado manual, correspondente a uma avaliação manual pericial a uma amostra de páginas que permita responder à diversidade de elementos constantes da lista de verificação para sítios <em>Web</em> publicada no sítio <em>Web</em> www.acessibilidade.gov.pt;</li>
-</ul></li>
-</ol>
-</blockquote>
-
-[Consulte a Checklist "10 aspetos funcionais"](checklists/checklist-10aspetos)
-
-## Requisitos para obter o Selo Ouro
-
-### Testes de Usabilidade
-
-Para obter o Selo Ouro, além dos procedimentos descritos para o Selo Bronze e para o Selo Prata, as entidades deverão apresentar prova da realização de testes com utilizadores.
-
-Este nível está também alinhado com a recomendação constante na metodologia sugerida pelo DL n.º 83/2018 no artigo 9.º, n.º 1, alínea c):
-
-<blockquote>
-<ol>
-<li>Para os sítios <em>Web</em>, as entidades referidas no artigo 2.º devem adotar os seguintes procedimentos de monitorização:<br>
-(...)
-<ul type="none">
-<li>c) Testes de usabilidade com pessoas com deficiência, dos quais devem fazer parte como objeto de análise, pelo menos, uma tarefa e uma tipologia de utilizadores.</li>
-</ul></li>
-</ol>
-</blockquote>
-
-**1 · NÚMERO DE UTILIZADORES**
-
-Nos testes com utilizadores devem participar, no mínimo, um bloco de 4 utilizadores + 2 utilizadores com necessidades especiais pertencentes a uma das seguintes tipologias: visão, audição, motora, intelectual. : No mínimo 2 participantes com necessidades especiais por tipologia. Deve ser realizado um bloco de testes por cada 5 ações principais do sítio _Web_ em causa. 
-
-**2 · PROTOCOLO ADEQUADO** 
+**1. PROTOCOLO ADEQUADO** 
 
 O teste deve focar-se nas principais funções do sítio _Web_ e ser comum a todos os utilizadores. No caso de utilizadores com necessidades especiais, o protocolo deve ser aplicado no seu local de trabalho/consulta habitual usando as tecnologias de apoio habituais e com as configurações personalizadas pelo próprio participante. 
 
-**3 · PROTOCOLO DE TESTES SEM VIÉS**
+**2. PROTOCOLO DE TESTES SEM VIÉS**
 
 O teste procurará não influenciar as opções do utilizador e não deverá fornecer pistas sobre a realização das tarefas, incluindo termos usados. Sempre que apropriado deve ser solicitado aos participantes que verbalizem o que estão a pensar enquanto desempenham a sua tarefa no sítio _Web_.
 
-**4 . Autorizações e registos das sessões**
+**3. Autorizações e registos das sessões**
 
 A entidade deve solicitar autorização por escrito aos participantes e, sempre que apropriado, deve efetuar registos vídeo ou áudio das sessões.
 
-**5 · RELATÓRIO FINAL COM OBSERVAÇÕES E RECOMENDAÇÕES**
+**4. RELATÓRIO FINAL COM OBSERVAÇÕES E RECOMENDAÇÕES**
 
 O relatório final deve incluir uma lista de observações e recomendações para cada uma das tarefas. 
 
-**6 · INCORPORAÇÃO DE RECOMENDAÇÕES**
+**5. INCORPORAÇÃO DE RECOMENDAÇÕES**
 
 As entidades deverão evidenciar que as recomendações foram incorporadas no sítio _Web_. 
 
@@ -209,7 +140,7 @@ As entidades deverão evidenciar que as recomendações foram incorporadas no s�
 
 ### Período de Atribuição 
 
-A atribuição do Selo é válida por um período de 12 meses. Contudo, se se verificar que o sítio _Web_ sofreu uma alteração profunda o Selo será revogado. 
+A atribuição do Selo é válida por um período de 12 meses. Contudo, se se verificar que o sítio web sofreu uma alteração profunda o Selo será revogado. 
 
 ### Método de Aplicação 
 
