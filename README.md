@@ -5,14 +5,9 @@
 - [Introdução](#introdução)
 - [Processo de Candidatura](#processo-de-candidatura)
 - [Níveis de Classificação](#níveis-de-classificação)
-- Requisitos para obter o Selo Bronze 
-  - [Usabilidade: conformidade para com a _checklist_ "Conteúdo"](#usabilidade-conformidade-para-com-a-checklist-conteúdo)
-  - [Acessibilidade: conformidade 'AA' das WCAG 2.1 de acordo com uma ferramenta automática](#acessibilidade-conformidade-aa-das-wcag-21-de-acordo-com-uma-ferramenta-automática)
-- Requisitos para obter o Selo Prata 
-  - [Usabilidade: conformidade para com a _checklist_ "Transação"](#usabilidade-conformidade-para-com-a-checklist-transação)
-  - [Acessibilidade: conformidade para com a _checklist_ "10 aspetos funcionais"](#acessibilidade-conformidade-para-com-a-checklist-10-aspetos-funcionais)
-- Requisitos para obter o Selo Ouro
-  - [Testes de Usabilidade](#testes-de-usabilidade)
+- [Requisitos Selo Bronze](#requisitos-selo-bronze)
+- [Requisitos Selo Prata](#requisitos-selo-prata)
+- [Requisitos Selo Ouro](#requisitos-selo-ouro)
 - [Condições de atribuição e afixação do Selo](#condições-de-atribuição-e-afixação-do-Selo)
 - Anexos
   - [Selos em formato SVG](#formato-svg-do-selo-usabilidade-e-acessibilidade)
