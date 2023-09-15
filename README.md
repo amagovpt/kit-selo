@@ -5,10 +5,10 @@
 - [Introdução](#introdução)
 - [Processo de Candidatura](#processo-de-candidatura)
 - [Níveis de Classificação](#níveis-de-classificação)
-- [Requisitos Selo Bronze](#requisitos-selo-bronze)
-- [Requisitos Selo Prata](#requisitos-selo-prata)
-- [Requisitos Selo Ouro](#requisitos-selo-ouro)
-- [Condições de atribuição e afixação do Selo](#condições-de-atribuição-e-afixação-do-Selo)
+- [Requisitos do Selo Bronze](#requisitos-do-selo-bronze)
+- [Requisitos do Selo Prata](#requisitos-do-selo-prata)
+- [Requisitos do Selo Ouro](#requisitos-do-selo-ouro)
+- [Condições de atribuição e afixação do Selo](#condições-de-atribuição-e-afixação-do-selo)
 - Anexos
   - [Selos em formato SVG](#formato-svg-do-selo-usabilidade-e-acessibilidade)
   - Checklists:
@@ -16,11 +16,11 @@
     - [_Checklist_ "Conteúdo"](checklists/checklist-conteudo.html)
     - [_Checklist_ "Transação"](checklists/checklist-transacao.html)
   - Documentos de recolha de evidências das checklists:
-    - [Recolha de evidências da Checklist 10 aspetos funcionais (xlsx, 125KB)](checklists/sintese-10aspetos.xlsx)
+    - [Recolha de evidências da Checklist "10 aspetos funcionais" (xlsx, 125KB)](checklists/sintese-10aspetos.xlsx)
     - [Recolha de evidências da Checklist "Conteúdo" (xlsx, 103KB)](checklists/sintese-conteudo.xlsx)
     - [Recolha de evidências da Checklist "Transação" (xlsx, 87KB)](checklists/sintese-transacao.xlsx)
   - Documentos de recolha de evidências das checklists em formato código aberto:
-    - [Recolha de evidências da Checklist 10 aspetos funcionais (ods, 56KB)](checklists/sintese-10aspetos.ods)
+    - [Recolha de evidências da Checklist "10 aspetos funcionais" (ods, 56KB)](checklists/sintese-10aspetos.ods)
     - [Recolha de evidências da Checklist "Conteúdo" (ods, 53KB)](checklists/sintese-conteudo.ods)
     - [Recolha de evidências da Checklist "Transação" (ods, 50KB)](checklists/sintese-transacao.ods)
   - Declaração de Acessibilidade e Usabilidade
