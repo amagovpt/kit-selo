@@ -75,7 +75,7 @@ O Selo de Usabilidade e Acessibilidade está estruturado em 3 níveis de classif
 - O nível 2, o intermédio,  corresponde ao Selo Prata;
 - O nível 3, o mais exigente em termos de esforço, corresponde ao Selo Ouro.
 
-## Requisitos Selo Bronze
+## Requisitos do Selo Bronze
 
 Para a atribuição do Selo Bronze, a Declaração de Acessibilidade e Usabilidade deve declarar que o sítio web está "plenamente conforme" para com os requisitos de acessibilidade constantes do DL n.º 83/2018 e anexar evidências que comprovem, no mínimo:
 
@@ -88,7 +88,7 @@ Aviso: para o primeiro ano de operação do Selo de Usabilidade e Acessibilidade
 - A avaliação automática recolhida no AccessMonitor obtiver nota 9 em todas as páginas da amostra;
 - O grau de satisfação em cada uma das duas _checklists_ for de 75%.
 
-## Requisitos Selo Prata
+## Requisitos do Selo Prata
 
 Para a atribuição do Selo Prata, a Declaração de Acessibilidade e Usabilidade deve declarar que o sítio web está "plenamente conforme" para com os requisitos de acessibilidade constantes do DL n.º 83/2018 e anexar evidências que comprovem, no mínimo:
 
@@ -100,7 +100,7 @@ Aviso: para o primeiro ano de operação do Selo de Usabilidade e Acessibilidade
 - A avaliação automática recolhida no AccessMonitor obtiver nota 9 em todas as páginas da amostra;
 - O grau de satisfação em cada uma das três _checklists_ for de 75%.
 
-## Requisitos Selo Ouro
+## Requisitos do Selo Ouro
 
 Para a atribuição do Selo Ouro, a Declaração de Acessibilidade e Usabilidade deve declarar que o sítio web está "plenamente conforme" para com os requisitos de acessibilidade constantes do DL n.º 83/2018 e anexar evidências que comprovem, no mínimo:
 
