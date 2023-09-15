@@ -85,8 +85,8 @@ Para a atribuição do Selo Bronze, a Declaração de Acessibilidade e Usabilida
 
 Aviso: para o primeiro ano de operação do Selo de Usabilidade e Acessibilidade considera-se "plenamente conforme" se, no mínimo:
 
-- a avaliação automática recolhida no AccessMonitor obtiver nota 9 em todas as páginas da amostra;
-- o grau de satisfação em cada uma das duas _checklists_ for de 75%.
+- A avaliação automática recolhida no AccessMonitor obtiver nota 9 em todas as páginas da amostra;
+- O grau de satisfação em cada uma das duas _checklists_ for de 75%.
 
 ## Requisitos Selo Prata
 
@@ -97,8 +97,8 @@ Para a atribuição do Selo Prata, a Declaração de Acessibilidade e Usabilidad
 
 Aviso: para o primeiro ano de operação do Selo de Usabilidade e Acessibilidade considera-se "plenamente conforme" se, no mínimo:
 
-- a avaliação automática recolhida no AccessMonitor obtiver nota 9 em todas as páginas da amostra;
-- o grau de satisfação em cada uma das três _checklists_ for de 75%.
+- A avaliação automática recolhida no AccessMonitor obtiver nota 9 em todas as páginas da amostra;
+- O grau de satisfação em cada uma das três _checklists_ for de 75%.
 
 ## Requisitos Selo Ouro
 
@@ -133,12 +133,12 @@ O relatório final a incluir na Declaração de Acessibilidade deve conter:
 - Metodologia e material de registo utilizado.
 - Guião das tarefas realizadas.
 - Resultados obtidos:
-  - taxas de sucesso na execução das tarefas;
-  - tempos de execução das tarefas (eficiência);
-  - barreiras encontradas;
-  - estratégias de navegação;
-  - grau de satisfação dos utilizadores para com o sítio web;
-- Principais recomendações e lições aprendidas.
+  - Taxas de sucesso na execução das tarefas;
+  - Tempos de execução das tarefas (eficiência);
+  - Barreiras encontradas;
+  - Estratégias de navegação;
+  - Grau de satisfação dos utilizadores para com o sítio web;
+- Principais recomendações e lições aprendidas;
 - Correções efetuadas à luz das recomendações e lições aprendidas.
   
 ## Condições de atribuição e afixação do Selo
@@ -179,7 +179,7 @@ Para cada nível existem 4 versões do selo. Pode optar por afixar aquela que me
 <img height="150" alt="selo horizontal com fundo dourado e letra a branco com a expressão Selo Ouro e, com fundo branco e letra cinzenta a expressão Selo de Usabilidade & Acessibilidade" src="img/ouro-horizontal-branco.svg"><br>
 <img height="150" alt="selo horizontal com fundo dourado e letra a branco com a expressão Selo Ouro, Selo de Usabilidade & Acessibilidade" src="img/ouro-horizontal.svg">
 
-#### Versoões do Selo Prata
+#### Versões do Selo Prata
 
 <img height="150" alt="selo vertical com fundo prata e letra a branco com a expressão Selo Prata, Usabilidade & Acessibilidade" src="img/prata.svg"><br>
 <img height="150" alt="selo vertical com fundo prata e letra a branco com a expressão Selo Prata" src="img/prata-vertical.svg"><br>
