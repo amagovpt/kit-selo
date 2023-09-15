@@ -172,7 +172,7 @@ Todos os selos que se encontram abaixo estão em formato <abbr title="Scalable V
 
 Para cada nível existem 4 versões do selo. Pode optar por afixar aquela que melhor se adequa ao seu <em lang="en">design</em>. 
 
-#### Versões do Selo Ouro
+##### Versões do Selo Ouro
 
 <img height="150" alt="selo vertical com fundo dourado e letra a branco com a expressão Selo Ouro" src="img/ouro.svg"><br>
 <img height="150" alt="selo vertical com fundo dourado e letra a branco com a expressão Selo Ouro, Usabilidade & Acessibilidade" src="img/ouro-vertical.svg"><br>
