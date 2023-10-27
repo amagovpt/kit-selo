@@ -1,5 +1,7 @@
 # Selo de Usabilidade e Acessibilidade
 
+**Nota prévia: caso encontre algum problema com o presente documento que nos queira reportar, use, por favor, o endereço de correio eletrónico: <a href="mailto:acessibilidade@ama.gov.pt">acessibilidade@ama.gov.pt</a>**.
+
 ## Índice 
 
 - [Introdução](#introdução)
@@ -24,7 +26,7 @@
     - [Recolha de evidências da Checklist "Conteúdo" (ods, 53KB)](checklists/sintese-conteudo.ods)
     - [Recolha de evidências da Checklist "Transação" (ods, 50KB)](checklists/sintese-transacao.ods)
   - Declaração de Acessibilidade e Usabilidade
-    - [Gerador da Declaração de Acessibilidade e Usabilidade](https://amagovpt.github.io/gerador/#create)
+    - [Gerador da Declaração de Acessibilidade e Usabilidade](https://www.acessibilidade.gov.pt/gerador/#create)
 
 # Introdução 
 
