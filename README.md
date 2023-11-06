@@ -82,25 +82,25 @@ O Selo de Usabilidade e Acessibilidade está estruturado em 3 níveis de classif
 Para a atribuição do Selo Bronze, a Declaração de Acessibilidade e Usabilidade deve declarar que o sítio web está "plenamente conforme" para com os requisitos de acessibilidade constantes do DL n.º 83/2018 e anexar evidências que comprovem, no mínimo:
 
 1. A existência de uma avaliação automática às práticas de acessibilidade de uma amostra de páginas feita por um validador de acessibilidade que comprove a inexistência de violações de conformidade nível 'AA' das WCAG 2.1 do W3C. A amostra deve, no mínimo, contemplar a primeira página e todas as páginas, pertencentes ao domínio, diretamente hiperligadas a esta, e;
-2. A existência da [_checklist_ "10 aspetos críticos de acessibilidade funcional"]((checklists/checklist-10aspetos), com evidências compiladas que demonstrem a satisfação dos requisitos constantes da _checklist_, e;
-3. A existência da [_checklist_ "Conteúdo"]((checklists/checklist-conteudo), com evidências compiladas que demonstrem a satisfação dos requisitos constantes da _checklist_.
+2. A existência da [_checklist_ "10 aspetos críticos de acessibilidade funcional"](checklists/checklist-10aspetos), com evidências compiladas que demonstrem a satisfação dos requisitos constantes da _checklist_, e;
+3. A existência da [_checklist_ "Conteúdo"](checklists/checklist-conteudo), com evidências compiladas que demonstrem a satisfação dos requisitos constantes da _checklist_.
 
 Aviso: para o primeiro ano de operação do Selo de Usabilidade e Acessibilidade considera-se "plenamente conforme" se, no mínimo:
 
-- a avaliação automática recolhida no AccessMonitor obtiver nota 9 em todas as páginas da amostra;
-- o grau de satisfação em cada uma das duas _checklists_ for de 75%.
+- da avaliação automática recolhida no AccessMonitor resultar nota 9 em todas as páginas da amostra, e;
+- da avaliação manual efetuada às duas _checklists_ resultar um grau de satisfação de 75% dos requisitos existentes em cada uma delas.
 
 ## Requisitos Selo Prata
 
 Para a atribuição do Selo Prata, a Declaração de Acessibilidade e Usabilidade deve declarar que o sítio web está "plenamente conforme" para com os requisitos de acessibilidade constantes do DL n.º 83/2018 e anexar evidências que comprovem, no mínimo:
 
 1. Responder ao esquema de conformidade do Selo Bronze, e;
-2. A existência da [_checklist_ "Transação"]((checklists/checklist-transacao), com evidências compiladas que demonstrem a satisfação dos requisitos constantes da _checklist_.
+2. A existência da [_checklist_ "Transação"](checklists/checklist-transacao), com evidências compiladas que demonstrem a satisfação dos requisitos constantes da _checklist_.
 
 Aviso: para o primeiro ano de operação do Selo de Usabilidade e Acessibilidade considera-se "plenamente conforme" se, no mínimo:
 
-- a avaliação automática recolhida no AccessMonitor obtiver nota 9 em todas as páginas da amostra;
-- o grau de satisfação em cada uma das três _checklists_ for de 75%.
+- da avaliação automática recolhida no AccessMonitor resultar nota 9 em todas as páginas da amostra, e;
+- da avaliação manual efetuada às três _checklists_ resultar um grau de satisfação de 75% dos requisitos existentes em cada uma delas.
 
 ## Requisitos Selo Ouro
 
@@ -109,7 +109,7 @@ Para a atribuição do Selo Ouro, a Declaração de Acessibilidade e Usabilidade
 1. Responder ao esquema de conformidade do Selo Prata, e;
 2. A existência de um relatório dos testes levados a efeito com utilizadores - testes de usabilidade.
 
-Os testes de usabilidade devem contemplar uma amostra de 6 participantes, com um grupo composto por 2 pessoas com deficiência, de uma das tipologias constante da EN301549, e 4 pessoas sem deficiência.
+Os testes de usabilidade devem contemplar uma amostra de, no mínimo, 6 participantes, com um grupo composto por 2 pessoas com deficiência, de uma das tipologias constante da EN301549, e 4 pessoas sem deficiência.
 
 ### Algumas notas a observar na realização dos testes de usabilidade
 
