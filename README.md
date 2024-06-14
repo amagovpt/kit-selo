@@ -17,14 +17,14 @@
     - [Lista de requisitos "10 aspectos funcionais"](checklists/checklist-10aspetos.html)
     - [Lista de requisitos "Conteúdo"](checklists/checklist-conteudo.html)
     - [Lista de requisitos "Transação"](checklists/checklist-transacao.html)
-  - Documentos de recolha de evidências das checklists:
-    - [Recolha de evidências da Lista de Requisitos 10 aspetos funcionais (xlsx, 125KB)](checklists/sintese-10aspetos.xlsx)
-    - [Recolha de evidências da Lista de Requisitos "Conteúdo" (xlsx, 103KB)](checklists/sintese-conteudo.xlsx)
-    - [Recolha de evidências da Lista de Requisitos "Transação" (xlsx, 87KB)](checklists/sintese-transacao.xlsx)
+  - Documentos de recolha de evidências das listas de requisitos:
+    - [Recolha de evidências da lista de requisitos 10 aspetos funcionais (xlsx, 125KB)](checklists/sintese-10aspetos.xlsx)
+    - [Recolha de evidências da lista de requisitos "Conteúdo" (xlsx, 103KB)](checklists/sintese-conteudo.xlsx)
+    - [Recolha de evidências da lista de requisitos "Transação" (xlsx, 87KB)](checklists/sintese-transacao.xlsx)
   - Documentos de recolha de evidências das Listas de Requisitos em formato código aberto:
-    - [Recolha de evidências da Lista de Requisitos 10 aspetos funcionais (ods, 56KB)](checklists/sintese-10aspetos.ods)
-    - [Recolha de evidências da Lista de Requisitos "Conteúdo" (ods, 53KB)](checklists/sintese-conteudo.ods)
-    - [Recolha de evidências da Lista de Requisitos "Transação" (ods, 50KB)](checklists/sintese-transacao.ods)
+    - [Recolha de evidências da lista de requisitos 10 aspetos funcionais (ods, 56KB)](checklists/sintese-10aspetos.ods)
+    - [Recolha de evidências da lista de requisitos "Conteúdo" (ods, 53KB)](checklists/sintese-conteudo.ods)
+    - [Recolha de evidências da lista de requisitos "Transação" (ods, 50KB)](checklists/sintese-transacao.ods)
   - Declaração de Acessibilidade e Usabilidade
     - [Gerador da Declaração de Acessibilidade e Usabilidade](https://www.acessibilidade.gov.pt/gerador/)
 
