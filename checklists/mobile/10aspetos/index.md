@@ -1,7 +1,7 @@
 ---
 title: 10 Aspetos Críticos de Acessibilidade Funcional para Aplicações Móveis
 ---
-<h1>{{ title }}</h1>
+<h2>{{ page.title }}</h2>
 
 nota: o presente documento pode ser comentado no seu [repositório no GitHub](https://github.com/amagovpt/booka11y/tree/main/mobile-v2). Se tem algo que nos queira dizer abra um [issue](https://github.com/amagovpt/booka11y/issues).
 
