@@ -100,18 +100,20 @@ Principais autores:
 
 ## Referências
 
+Apple. (2024). [Human Interface Guidelines - Accessibility](https://developer.apple.com/design/human-interface-guidelines/accessibility).
+
+Appt. (2024). [Appt Evaluation Methodology (Appt-EM)](https://appt.org/en/guidelines/appt-em)
+
 Bureau of Internet Accessibility. (2021). [The definitive mobile accessibility checklist: Open your mobile website and apps to a wider audience](https://www.boia.org/definitive-mobile-accessibility-checklist). Estados Unidos da América: [BOIA](https://www.boia.org).
 
-W3C/WAI. (2015). [Mobile Accessibility: How WCAG 2.0 and Other W3C/WAI Guidelines Apply to Mobile](https://www.w3.org/TR/mobile-accessibility-mapping/). W3C First Public Working Draft 26 February 2015.
-
-W3C/WAI. (2023). [Techniques for WCAG 2.1](https://www.w3.org/WAI/WCAG21/Techniques/). Developed by Accessibility Guidelines Working Group (AG WG) Participants. Updated 20 June 2023.
-
-Paul J. Adam. (??). [Mobile Accessibility QA Testing Checklist](https://pauljadam.com/demos/mobilechecklist.html).
+Deque. (2024). [Rules & Remediation](https://docs.deque.com/devtools-mobile/2024.9.18/en/rules)
 
 Evinced. (2024). [MCAG - Mobile Content Accessibility Guidellines](https://getevinced.github.io/mcag/).
 
-Apple. (2024). [Human Interface Guidelines - Accessibility](https://developer.apple.com/design/human-interface-guidelines/accessibility).
-
 Google. (2024). [Principles for improving app accessibility](https://developer.android.com/guide/topics/ui/accessibility/principles).
 
-Appt. (2024). [Appt Evaluation Methodology (Appt-EM)](https://appt.org/en/guidelines/appt-em)
+Paul J. Adam. (??). [Mobile Accessibility QA Testing Checklist](https://pauljadam.com/demos/mobilechecklist.html).
+
+W3C/WAI. (2023). [Techniques for WCAG 2.1](https://www.w3.org/WAI/WCAG21/Techniques/). Developed by Accessibility Guidelines Working Group (AG WG) Participants. Updated 20 June 2023.
+
+W3C/WAI. (2015). [Mobile Accessibility: How WCAG 2.0 and Other W3C/WAI Guidelines Apply to Mobile](https://www.w3.org/TR/mobile-accessibility-mapping/). W3C First Public Working Draft 26 February 2015.
