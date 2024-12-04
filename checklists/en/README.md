@@ -1,5 +1,7 @@
 # Usability and Accessibility Seal Checklists
 
+<p lang="en">English version (<a href="https://amagovpt.github.io/kit-selo/checklists/">see also the portuguese version</a>.</p>
+
 Checklists:
 
 - [Checklist "10 critical aspects of functional accessibility"](checklist-10aspects.html)
