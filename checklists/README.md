@@ -1,5 +1,7 @@
 # Listas de requisitos do Selo de Usabilidade e Acessibilidade
 
+Versão Portuguesa (também pode [consultar a versão inglesa](https://amagovpt.github.io/kit-selo/checklists/en/)).
+
 <em lang="en">Checklists</em>:
 
 - [Lista de requisitos "10 aspetos críticos de acessibilidade funcional"](checklist-10aspetos.html)
