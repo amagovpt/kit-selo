@@ -1,6 +1,6 @@
 # Usability and Accessibility Seal Checklists
 
-<p lang="en">English version (<a href="https://amagovpt.github.io/kit-selo/checklists/">see also the portuguese version</a>.</p>
+<p lang="en">English version (<a href="https://amagovpt.github.io/kit-selo/checklists/">see also the portuguese version</a>).</p>
 
 Checklists:
 
