@@ -5,6 +5,8 @@ title: 10 Aspetos Críticos de Acessibilidade Funcional para Aplicações Móvei
 
 nota: o presente documento pode ser comentado no seu [repositório no GitHub](https://github.com/amagovpt/booka11y/tree/main/mobile-v2). Se tem algo que nos queira dizer abra um [issue](https://github.com/amagovpt/booka11y/issues).
 
+- Documento de recolha de evidências em formato .xlsx: [ficheiro de recolha de evidências para a lista de verficação 10 aspetos críticos de acessibilidade funcional para aplicações móveis (xlsx, 163Kb)](sintese-10aspetos-mobile.xlsx)
+
 ## 1. Crie <em lang="en">designs</em> para ecrãs de dimensão reduzida
 
 Na experiência com dispositivos móveis os ecrãs são, em regra, muito mais pequenos do que nos computadores de secretária ou mesmo nos portáteis. A leitura e a interação num ecrã de dimensão reduzida obriga a que a informação seja apresentada de forma mais concisa e, para o caso da interação, esta deva ser construída dando particular atenção às dimensões reduzidas  dos alvos de toque. 
