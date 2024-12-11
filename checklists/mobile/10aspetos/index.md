@@ -5,7 +5,7 @@ title: 10 Aspetos Críticos de Acessibilidade Funcional para Aplicações Móvei
 
 nota: o presente documento pode ser comentado no seu [repositório no GitHub](https://github.com/amagovpt/booka11y/tree/main/mobile-v2). Se tem algo que nos queira dizer abra um [issue](https://github.com/amagovpt/booka11y/issues).
 
-- Documento de recolha de evidências em formato .xlsx: [ficheiro de recolha de evidências para a lista de verficação 10 aspetos críticos de acessibilidade funcional para aplicações móveis (xlsx, 163Kb)](sintese-10aspetos-mobile.xlsx)
+- Documento de recolha de evidências em formato .xlsx: [ficheiro de recolha de evidências para a lista de verficação 10 aspetos críticos de acessibilidade funcional para aplicações móveis (xlsx, 163Kb)](sintese-10aspetos-mobile.xlsx). Use este ficheiro para recolher na aplicação móvel as evidências de satisfação dos requisitos de acessibilidade e anexe-a à sua Declaração de Acessibilidade. 
 
 ## 1. Crie <em lang="en">designs</em> para ecrãs de dimensão reduzida
 
