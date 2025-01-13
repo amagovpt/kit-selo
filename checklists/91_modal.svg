@@ -1,0 +1,10 @@
+<!-- Ícone 9.1: Foco ao abrir a caixa de diálogo -->
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <rect x="20" y="30" width="60" height="40" fill="#ccc" stroke="#000" stroke-width="2" />
+  <path d="M50 10 L50 30" stroke="#000" stroke-width="2" marker-end="url(#arrowhead)" />
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#000" />
+    </marker>
+  </defs>
+</svg>

@@ -1,0 +1,7 @@
+<!-- Ícone 9.3: Fechar ou sair da caixa de diálogo -->
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <rect x="20" y="30" width="60" height="40" fill="#ccc" stroke="#000" stroke-width="2" />
+  <text x="50" y="55" font-size="12" text-anchor="middle" fill="#000">ESC</text>
+  <line x1="75" y1="35" x2="85" y2="45" stroke="#000" stroke-width="2" />
+  <line x1="85" y1="35" x2="75" y2="45" stroke="#000" stroke-width="2" />
+</svg>
