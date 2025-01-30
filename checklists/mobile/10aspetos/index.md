@@ -1,4 +1,4 @@
-[voltar ao índice](/kit-selo/checklists/)
+[Checklists](/kit-selo/checklists/)
 
 <h1>Checklist "10 Aspetos Críticos de Acessibilidade Funcional para Aplicações Móveis"</h1>
 
