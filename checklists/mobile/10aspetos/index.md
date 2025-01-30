@@ -1,3 +1,5 @@
+[voltar ao índice](/kit-selo/checklists/)
+
 <h1>Checklist "10 Aspetos Críticos de Acessibilidade Funcional para Aplicações Móveis"</h1>
 
 nota: o presente documento pode ser comentado no seu [repositório no GitHub](https://github.com/amagovpt/kit-selo). Se tem algo que nos queira dizer abra um [issue](https://github.com/amagovpt/booka11y/issues).
