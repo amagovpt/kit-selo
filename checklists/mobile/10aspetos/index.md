@@ -3,7 +3,7 @@ title: Checklist 10 Aspetos Críticos de Acessibilidade Funcional para Aplicaç�
 ---
 <h1>{{ page.title }}</h1>
 
-nota: o presente documento pode ser comentado no seu [repositório no GitHub](https://github.com/amagovpt/booka11y/tree/main/mobile-v2). Se tem algo que nos queira dizer abra um [issue](https://github.com/amagovpt/booka11y/issues).
+nota: o presente documento pode ser comentado no seu [repositório no GitHub](https://github.com/amagovpt/kit-selo). Se tem algo que nos queira dizer abra um [issue](https://github.com/amagovpt/booka11y/issues).
 
 - Documento de recolha de evidências em formato .xlsx: [ficheiro de recolha de evidências para a lista de verficação 10 aspetos críticos de acessibilidade funcional para aplicações móveis (xlsx, 163Kb)](sintese-10aspetos-mobile.xlsx). Use este ficheiro para recolher na aplicação móvel as evidências de satisfação dos requisitos de acessibilidade e anexe-a à sua Declaração de Acessibilidade. 
 
