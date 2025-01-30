@@ -24,4 +24,4 @@ Documentos de recolha de evidências das listas de requisitos:
 
 Documentos de recolha de evidências das listas de requisitos:
 
-- [Recolha de evidências da Checklist "10 aspetos críticos de acessibilidade funcional para aplicações móveis" (xlsx, 164KB)](mobile/sintese-10aspetos-mobile.xlsx)
+- [Recolha de evidências da Checklist "10 aspetos críticos de acessibilidade funcional para aplicações móveis" (xlsx, 163KB)](mobile/10aspetos/sintese-10aspetos-mobile.xlsx)
