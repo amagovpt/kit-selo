@@ -1,5 +1,5 @@
 ---
-title: 10 Aspetos Críticos de Acessibilidade Funcional para Aplicações Móveis
+title: Checklist 10 Aspetos Críticos de Acessibilidade Funcional para Aplicações Móveis
 ---
 <h1>{{ page.title }}</h1>
 
