@@ -1,6 +1,6 @@
 # Checklists do Selo de Usabilidade e Acessibilidade
 
-Versão Portuguesa (também pode [consultar a versão inglesa](https://amagovpt.github.io/kit-selo/checklists/en/)).
+Versão Portuguesa. Também pode [consultar a versão inglesa](https://amagovpt.github.io/kit-selo/checklists/en/).
 
 ## Checklists para inspeção manual de sítios Web
 
@@ -10,7 +10,7 @@ Versão Portuguesa (também pode [consultar a versão inglesa](https://amagovpt.
 - [Checklist "Conteúdo"](checklist-conteudo.html)
 - [Checklist "Transação"](checklist-transacao.html)
 
-Documentos de recolha de evidências das listas de requisitos:
+Documentos de recolha de evidências das Checklists:
 
 - [Recolha de evidências da Checklist "10 aspetos críticos de acessibilidade funcional para sítios Web" (xlsx, 125KB)](sintese-10aspetos.xlsx)
 - [Recolha de evidências da Checklist "Conteúdo" (xlsx, 103KB)](sintese-conteudo.xlsx)
@@ -22,6 +22,6 @@ Documentos de recolha de evidências das listas de requisitos:
 
 - [Checklist "10 aspetos críticos de acessibilidade funcional para aplicações móveis"](mobile/10aspetos/)
 
-Documentos de recolha de evidências das listas de requisitos:
+Documentos de recolha de evidências das Checklists:
 
 - [Recolha de evidências da Checklist "10 aspetos críticos de acessibilidade funcional para aplicações móveis" (xlsx, 163KB)](mobile/10aspetos/sintese-10aspetos-mobile.xlsx)
