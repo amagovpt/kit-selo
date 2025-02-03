@@ -2,7 +2,13 @@
 
 <h1>Checklist "10 Aspetos Críticos de Acessibilidade Funcional para Aplicações Móveis"</h1>
 
-nota: o presente documento pode ser comentado no seu [repositório no GitHub](https://github.com/amagovpt/kit-selo). Se tem algo que nos queira dizer abra um [issue](https://github.com/amagovpt/kit-selo/issues).
+**Nota 1:** A checklist "10 aspetos críticos de acessibilidade funcional para aplicações móveis" é a lista de verificação a que se faz alusão no artigo 9.º, n.º 2, alínea b) do Decreto-Lei n.º 83/2018 e deve ser usada de acordo com a metodologia referenciada no diploma:
+
+> "2. Para as aplicações móveis, as entidades previstas no artigo 2.º devem adotar os seguintes procedimentos:
+> (...)
+> b) Procedimento simplificado manual, correspondente a uma avaliação manual pericial a uma amostra de páginas que permita responder à diversidade de elementos constantes da lista de verificação para sítios web publicada no sítio web www.acessibilidade.gov.pt;"
+
+**Nota 2:** O presente documento pode ser comentado no seu [repositório no GitHub](https://github.com/amagovpt/kit-selo). Se tem algo que nos queira dizer abra um [issue](https://github.com/amagovpt/kit-selo/issues).
 
 - Documento de recolha de evidências em formato .xlsx: [ficheiro de recolha de evidências para a lista de verficação 10 aspetos críticos de acessibilidade funcional para aplicações móveis (xlsx, 163Kb)](sintese-10aspetos-mobile.xlsx). Use este ficheiro para recolher na aplicação móvel as evidências de satisfação dos requisitos de acessibilidade e anexe-a à sua Declaração de Acessibilidade. 
 
