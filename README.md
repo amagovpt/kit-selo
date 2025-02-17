@@ -1,5 +1,7 @@
 # Selo de Usabilidade e Acessibilidade
 
+**Nota prévia: caso encontre algum problema com o presente documento que nos queira reportar, use, por favor, o endereço de correio eletrónico: <a href="mailto:acessibilidade@ama.gov.pt">acessibilidade@ama.gov.pt</a>**.
+
 ## Índice 
 
 - [Introdução](#introdução)
@@ -24,7 +26,7 @@
     - [Recolha de evidências da Checklist "Conteúdo" (ods, 53KB)](checklists/sintese-conteudo.ods)
     - [Recolha de evidências da Checklist "Transação" (ods, 50KB)](checklists/sintese-transacao.ods)
   - Declaração de Acessibilidade e Usabilidade
-    - [Gerador da Declaração de Acessibilidade e Usabilidade](https://amagovpt.github.io/gerador/#create)
+    - [Gerador da Declaração de Acessibilidade e Usabilidade](https://www.acessibilidade.gov.pt/gerador/)
 
 # Introdução 
 
@@ -61,7 +63,7 @@ O Selo de Usabilidade e Acessibilidade é também ele um instrumento pedagógico
 
 ## Processo de Candidatura
 
-A AMA elaborou os requisitos a observar para a obtenção de cada um dos Selos - Bronze, Prata, Ouro - numa lógica de prática corrente, diária, a usar pelas equipas de desenvolvimento e de edição de conteúdos. As _checklists_ não são para serem usadas apenas no momento da candidatura ao Selo. As listas de requisitos e todo o trabalho efetuado para a sua verificação - ferramentas utilizadas, estudos efetuados, etc. -, devem ir engrossando a compilação de evidências anexas à Declaração de Acessibilidade. São as evidências que sustentam a declaração - conforme, parcialmente conforme, não conforme - tornada pública na Declaração de Acessibilidade.
+A AMA elaborou os requisitos a observar para a obtenção de cada um dos Selos - Bronze, Prata, Ouro - numa lógica de prática corrente, diária, a usar pelas equipas de desenvolvimento e de edição de conteúdos. As listas de requisitos não são para serem usadas apenas no momento da candidatura ao Selo. As listas de requisitos e todo o trabalho efetuado para a sua verificação - ferramentas utilizadas, estudos efetuados, etc. -, devem ir engrossando a compilação de evidências anexas à Declaração de Acessibilidade. São as evidências que sustentam a declaração - conforme, parcialmente conforme, não conforme - tornada pública na Declaração de Acessibilidade.
 
 Para preencher a Declaração de Acessibilidade, a AMA criou uma ferramenta que permite gerar a Declaração de acordo com o modelo definido na legislação - [use o gerador da Declaração de Acessibilidade e Usabilidade](https://www.acessibilidade.gov.pt/gerador/). A Declaração deve ficar publicada na pasta /acessibilidade do sítio web (i.e. www.dominio_do_site.pt/acessibilidade).
 
@@ -80,25 +82,27 @@ O Selo de Usabilidade e Acessibilidade está estruturado em 3 níveis de classif
 Para a atribuição do Selo Bronze, a Declaração de Acessibilidade e Usabilidade deve declarar que o sítio web está "plenamente conforme" para com os requisitos de acessibilidade constantes do DL n.º 83/2018 e anexar evidências que comprovem, no mínimo:
 
 1. A existência de uma avaliação automática às práticas de acessibilidade de uma amostra de páginas feita por um validador de acessibilidade que comprove a inexistência de violações de conformidade nível 'AA' das WCAG 2.1 do W3C. A amostra deve, no mínimo, contemplar a primeira página e todas as páginas, pertencentes ao domínio, diretamente hiperligadas a esta, e;
-2. A existência da [_checklist_ "10 aspetos críticos de acessibilidade funcional"]((checklists/checklist-10aspetos), com evidências compiladas que demonstrem a satisfação dos requisitos constantes da _checklist_, e;
-3. A existência da [_checklist_ "Conteúdo"]((checklists/checklist-conteudo), com evidências compiladas que demonstrem a satisfação dos requisitos constantes da _checklist_.
+2. A existência da [lista de requisitos "10 aspetos críticos de acessibilidade funcional"](checklists/checklist-10aspetos), com evidências compiladas que demonstrem a satisfação dos requisitos constantes da lista de requisitos, e;
+3. A existência da [lista de requisitos "Conteúdo"](checklists/checklist-conteudo), com evidências compiladas que demonstrem a satisfação dos requisitos constantes da lista de requisitos.
 
 Aviso: para o primeiro ano de operação do Selo de Usabilidade e Acessibilidade considera-se "plenamente conforme" se, no mínimo:
 
 - A avaliação automática recolhida no AccessMonitor obtiver nota 9 em todas as páginas da amostra;
 - O grau de satisfação em cada uma das duas _checklists_ for de 75%.
 
+
 ## Requisitos do Selo Prata
 
 Para a atribuição do Selo Prata, a Declaração de Acessibilidade e Usabilidade deve declarar que o sítio web está "plenamente conforme" para com os requisitos de acessibilidade constantes do DL n.º 83/2018 e anexar evidências que comprovem, no mínimo:
 
 1. Responder ao esquema de conformidade do Selo Bronze, e;
-2. A existência da [_checklist_ "Transação"]((checklists/checklist-transacao), com evidências compiladas que demonstrem a satisfação dos requisitos constantes da _checklist_.
+2. A existência da [lista de requisitos "Transação"](checklists/checklist-transacao), com evidências compiladas que demonstrem a satisfação dos requisitos constantes da lista de requisitos.
 
 Aviso: para o primeiro ano de operação do Selo de Usabilidade e Acessibilidade considera-se "plenamente conforme" se, no mínimo:
 
 - A avaliação automática recolhida no AccessMonitor obtiver nota 9 em todas as páginas da amostra;
 - O grau de satisfação em cada uma das três _checklists_ for de 75%.
+
 
 ## Requisitos do Selo Ouro
 

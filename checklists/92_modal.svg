@@ -1,0 +1,7 @@
+<!-- Ícone 9.2: Navegação restrita à caixa de diálogo -->
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <rect x="20" y="30" width="60" height="40" fill="#ccc" stroke="#000" stroke-width="2" />
+  <rect x="10" y="20" width="80" height="60" fill="none" stroke="#000" stroke-width="2" stroke-dasharray="5,5" />
+  <line x1="10" y1="20" x2="90" y2="80" stroke="#000" stroke-width="2" />
+  <line x1="10" y1="80" x2="90" y2="20" stroke="#000" stroke-width="2" />
+</svg>

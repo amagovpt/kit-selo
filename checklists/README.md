@@ -1,13 +1,27 @@
-# Listas de verificação do Selo de Usabilidade e Acessibilidade
+# Checklists do Selo de Usabilidade e Acessibilidade
+
+Versão Portuguesa. Também pode [consultar a versão inglesa](https://amagovpt.github.io/kit-selo/checklists/en/).
+
+## Checklists para inspeção manual de sítios Web
 
 <em lang="en">Checklists</em>:
 
-- [Lista de verificação "10 aspetos críticos de acessibilidade funcional"](checklist-10aspetos.html)
-- [Lista de verificação "Conteúdo"](checklist-conteudo.html)
-- [Lista de verificação "Transação"](checklist-transacao.html)
+- [Checklist "10 aspetos críticos de acessibilidade funcional para sítios Web"](checklist-10aspetos.html)
+- [Checklist "Conteúdo"](checklist-conteudo.html)
+- [Checklist "Transação"](checklist-transacao.html)
 
-Documentos de recolha de evidências das <em lang="en">checklists</em>:
+Documentos de recolha de evidências das Checklists:
 
-- [Recolha de evidências da Lista de verificação "10 aspetos críticos de acessibilidade funcional" (xlsx, 125KB)](sintese-10aspetos.xlsx)
-- [Recolha de evidências da Lista de verificação "Conteúdo" (xlsx, 103KB)](sintese-conteudo.xlsx)
-- [Recolha de evidências da Lista de verificação "Transação" (xlsx, 87KB)](sintese-transacao.xlsx)
+- [Recolha de evidências da Checklist "10 aspetos críticos de acessibilidade funcional para sítios Web" (xlsx, 125KB)](sintese-10aspetos.xlsx)
+- [Recolha de evidências da Checklist "Conteúdo" (xlsx, 103KB)](sintese-conteudo.xlsx)
+- [Recolha de evidências da Checklist "Transação" (xlsx, 87KB)](sintese-transacao.xlsx)
+
+## Checklist para inspeção manual de aplicações móveis
+
+<em lang="en">Checklists</em>:
+
+- [Checklist "10 aspetos críticos de acessibilidade funcional para aplicações móveis"](mobile/10aspetos/)
+
+Documentos de recolha de evidências das Checklists:
+
+- [Recolha de evidências da Checklist "10 aspetos críticos de acessibilidade funcional para aplicações móveis" (xlsx, 163KB)](mobile/10aspetos/sintese-10aspetos-mobile.xlsx)
