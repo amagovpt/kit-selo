@@ -7,24 +7,24 @@
 - [Introdução](#introdução)
 - [Processo de Candidatura](#processo-de-candidatura)
 - [Níveis de Classificação](#níveis-de-classificação)
-- [Requisitos Selo Bronze](#requisitos-selo-bronze)
-- [Requisitos Selo Prata](#requisitos-selo-prata)
-- [Requisitos Selo Ouro](#requisitos-selo-ouro)
-- [Condições de atribuição e afixação do Selo](#condições-de-atribuição-e-afixação-do-Selo)
+- [Requisitos do Selo Bronze](#requisitos-do-selo-bronze)
+- [Requisitos do Selo Prata](#requisitos-do-selo-prata)
+- [Requisitos do Selo Ouro](#requisitos-do-selo-ouro)
+- [Condições de atribuição e afixação do Selo](#condições-de-atribuição-e-afixação-do-selo)
 - Anexos
   - [Selos em formato SVG](#formato-svg-do-selo-usabilidade-e-acessibilidade)
-  - Listas de requisitos:
-    - [Lista de requisitos "10 aspectos funcionais"](checklists/checklist-10aspetos.html)
-    - [Lista de requisitos "Conteúdo"](checklists/checklist-conteudo.html)
-    - [Lista de requisitos "Transação"](checklists/checklist-transacao.html)
-  - Documentos de recolha de evidências das listas de requisitos:
-    - [Recolha de evidências da lista de requisitos 10 aspetos funcionais (xlsx, 125KB)](checklists/sintese-10aspetos.xlsx)
-    - [Recolha de evidências da lista de requisitos "Conteúdo" (xlsx, 103KB)](checklists/sintese-conteudo.xlsx)
-    - [Recolha de evidências da lista de requisitos "Transação" (xlsx, 87KB)](checklists/sintese-transacao.xlsx)
-  - Documentos de recolha de evidências das Listas de Requisitos em formato código aberto:
-    - [Recolha de evidências da lista de requisitos 10 aspetos funcionais (ods, 56KB)](checklists/sintese-10aspetos.ods)
-    - [Recolha de evidências da lista de requisitos "Conteúdo" (ods, 53KB)](checklists/sintese-conteudo.ods)
-    - [Recolha de evidências da lista de requisitos "Transação" (ods, 50KB)](checklists/sintese-transacao.ods)
+  - Checklists:
+    - [_Checklist_ "10 aspectos funcionais"](checklists/checklist-10aspetos.html)
+    - [_Checklist_ "Conteúdo"](checklists/checklist-conteudo.html)
+    - [_Checklist_ "Transação"](checklists/checklist-transacao.html)
+  - Documentos de recolha de evidências das checklists:
+    - [Recolha de evidências da Checklist "10 aspetos funcionais" (xlsx, 125KB)](checklists/sintese-10aspetos.xlsx)
+    - [Recolha de evidências da Checklist "Conteúdo" (xlsx, 103KB)](checklists/sintese-conteudo.xlsx)
+    - [Recolha de evidências da Checklist "Transação" (xlsx, 87KB)](checklists/sintese-transacao.xlsx)
+  - Documentos de recolha de evidências das checklists em formato código aberto:
+    - [Recolha de evidências da Checklist "10 aspetos funcionais" (ods, 56KB)](checklists/sintese-10aspetos.ods)
+    - [Recolha de evidências da Checklist "Conteúdo" (ods, 53KB)](checklists/sintese-conteudo.ods)
+    - [Recolha de evidências da Checklist "Transação" (ods, 50KB)](checklists/sintese-transacao.ods)
   - Declaração de Acessibilidade e Usabilidade
     - [Gerador da Declaração de Acessibilidade e Usabilidade](https://www.acessibilidade.gov.pt/gerador/)
 
@@ -77,7 +77,7 @@ O Selo de Usabilidade e Acessibilidade está estruturado em 3 níveis de classif
 - O nível 2, o intermédio,  corresponde ao Selo Prata;
 - O nível 3, o mais exigente em termos de esforço, corresponde ao Selo Ouro.
 
-## Requisitos Selo Bronze
+## Requisitos do Selo Bronze
 
 Para a atribuição do Selo Bronze, a Declaração de Acessibilidade e Usabilidade deve declarar que o sítio web está "plenamente conforme" para com os requisitos de acessibilidade constantes do DL n.º 83/2018 e anexar evidências que comprovem, no mínimo:
 
@@ -87,10 +87,11 @@ Para a atribuição do Selo Bronze, a Declaração de Acessibilidade e Usabilida
 
 Aviso: para o primeiro ano de operação do Selo de Usabilidade e Acessibilidade considera-se "plenamente conforme" se, no mínimo:
 
-- da avaliação automática recolhida no AccessMonitor resultar nota 9 em todas as páginas da amostra, e;
-- da avaliação manual efetuada às duas listas de requisitos resultar um grau de satisfação de 75% dos requisitos existentes em cada uma delas.
+- A avaliação automática recolhida no AccessMonitor obtiver nota 9 em todas as páginas da amostra;
+- O grau de satisfação em cada uma das duas _checklists_ for de 75%.
 
-## Requisitos Selo Prata
+
+## Requisitos do Selo Prata
 
 Para a atribuição do Selo Prata, a Declaração de Acessibilidade e Usabilidade deve declarar que o sítio web está "plenamente conforme" para com os requisitos de acessibilidade constantes do DL n.º 83/2018 e anexar evidências que comprovem, no mínimo:
 
@@ -99,17 +100,18 @@ Para a atribuição do Selo Prata, a Declaração de Acessibilidade e Usabilidad
 
 Aviso: para o primeiro ano de operação do Selo de Usabilidade e Acessibilidade considera-se "plenamente conforme" se, no mínimo:
 
-- da avaliação automática recolhida no AccessMonitor resultar nota 9 em todas as páginas da amostra, e;
-- da avaliação manual efetuada às três listas de requisitos resultar um grau de satisfação de 75% dos requisitos existentes em cada uma delas.
+- A avaliação automática recolhida no AccessMonitor obtiver nota 9 em todas as páginas da amostra;
+- O grau de satisfação em cada uma das três _checklists_ for de 75%.
 
-## Requisitos Selo Ouro
+
+## Requisitos do Selo Ouro
 
 Para a atribuição do Selo Ouro, a Declaração de Acessibilidade e Usabilidade deve declarar que o sítio web está "plenamente conforme" para com os requisitos de acessibilidade constantes do DL n.º 83/2018 e anexar evidências que comprovem, no mínimo:
 
 1. Responder ao esquema de conformidade do Selo Prata, e;
 2. A existência de um relatório dos testes levados a efeito com utilizadores - testes de usabilidade.
 
-Os testes de usabilidade devem contemplar uma amostra de, no mínimo, 6 participantes, com um grupo composto por 2 pessoas com deficiência, de uma das tipologias constante da EN301549, e 4 pessoas sem deficiência.
+Os testes de usabilidade devem contemplar uma amostra de 6 participantes, com um grupo composto por 4 pessoas com deficiência de uma das tipologias constantes da EN 301 549 e um grupo composto por 2 pessoas sem deficiência, que sirva de grupo de controlo da amostra.
 
 ### Algumas notas a observar na realização dos testes de usabilidade
 
@@ -135,12 +137,12 @@ O relatório final a incluir na Declaração de Acessibilidade deve conter:
 - Metodologia e material de registo utilizado.
 - Guião das tarefas realizadas.
 - Resultados obtidos:
-  - taxas de sucesso na execução das tarefas;
-  - tempos de execução das tarefas (eficiência);
-  - barreiras encontradas;
-  - estratégias de navegação;
-  - grau de satisfação dos utilizadores para com o sítio web;
-- Principais recomendações e lições aprendidas.
+  - Taxas de sucesso na execução das tarefas;
+  - Tempos de execução das tarefas (eficiência);
+  - Barreiras encontradas;
+  - Estratégias de navegação;
+  - Grau de satisfação dos utilizadores para com o sítio web;
+- Principais recomendações e lições aprendidas;
 - Correções efetuadas à luz das recomendações e lições aprendidas.
   
 ## Condições de atribuição e afixação do Selo
@@ -174,14 +176,14 @@ Todos os selos que se encontram abaixo estão em formato <abbr title="Scalable V
 
 Para cada nível existem 4 versões do selo. Pode optar por afixar aquela que melhor se adequa ao seu <em lang="en">design</em>. 
 
-#### Versões do Selo Ouro
+##### Versões do Selo Ouro
 
 <img height="150" alt="selo vertical com fundo dourado e letra a branco com a expressão Selo Ouro" src="img/ouro.svg"><br>
 <img height="150" alt="selo vertical com fundo dourado e letra a branco com a expressão Selo Ouro, Usabilidade & Acessibilidade" src="img/ouro-vertical.svg"><br>
 <img height="150" alt="selo horizontal com fundo dourado e letra a branco com a expressão Selo Ouro e, com fundo branco e letra cinzenta a expressão Selo de Usabilidade & Acessibilidade" src="img/ouro-horizontal-branco.svg"><br>
 <img height="150" alt="selo horizontal com fundo dourado e letra a branco com a expressão Selo Ouro, Selo de Usabilidade & Acessibilidade" src="img/ouro-horizontal.svg">
 
-#### Versoões do Selo Prata
+#### Versões do Selo Prata
 
 <img height="150" alt="selo vertical com fundo prata e letra a branco com a expressão Selo Prata, Usabilidade & Acessibilidade" src="img/prata.svg"><br>
 <img height="150" alt="selo vertical com fundo prata e letra a branco com a expressão Selo Prata" src="img/prata-vertical.svg"><br>
