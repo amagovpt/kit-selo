@@ -8,7 +8,7 @@
 >
 > (...)
 >
-> b) Procedimento simplificado manual, correspondente a uma avaliação manual pericial a uma amostra de páginas que permita responder à diversidade de elementos constantes da lista de verificação para sítios web publicada no sítio web www.acessibilidade.gov.pt;"
+> b) Procedimento simplificado manual, correspondente a uma avaliação manual pericial a uma amostra de páginas que permita responder à diversidade de elementos constantes da lista de verificação para aplicações móveis publicada no sítio web www.acessibilidade.gov.pt;"
 
 **Nota 2:** O presente documento pode ser comentado no seu [repositório no GitHub](https://github.com/amagovpt/kit-selo). Se tem algo que nos queira dizer abra um [issue](https://github.com/amagovpt/kit-selo/issues).
 
