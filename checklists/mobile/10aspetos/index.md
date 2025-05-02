@@ -1,6 +1,6 @@
 [Checklists](/kit-selo/checklists/)
 
-You can [read the English version of this document](en/10aspects/)
+<p lang="en">You can <a href="en/10aspects/">read the English version of this document</a></p>
 
 <h1>Checklist "10 Aspetos Críticos de Acessibilidade Funcional para Aplicações Móveis"</h1>
 
