@@ -1,5 +1,9 @@
 [Checklists](/kit-selo/checklists/)
 
+<div lang="en">
+    You can [read the English version of this document](en/10aspects/)
+</div>
+
 <h1>Checklist "10 Aspetos Críticos de Acessibilidade Funcional para Aplicações Móveis"</h1>
 
 **Nota 1:** A checklist "10 aspetos críticos de acessibilidade funcional para aplicações móveis" é a lista de verificação a que se faz alusão no artigo 9.º, n.º 2, alínea b) do Decreto-Lei n.º 83/2018 e deve ser usada de acordo com a metodologia referenciada no diploma:
