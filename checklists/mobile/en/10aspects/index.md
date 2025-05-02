@@ -1,10 +1,24 @@
+[Checklists](/kit-selo/checklists/)
+
+<!-- <p lang="en">You can <a href="../en/10aspects/">read the English version of this document</a></p> -->
+
 <h1>Checklist "10 Aspetos Críticos de Acessibilidade Funcional para Aplicações Móveis"</h1>
 
-nota: o presente documento pode ser comentado no seu [repositório no GitHub](https://github.com/amagovpt/kit-selo). Se tem algo que nos queira dizer abra um [issue](https://github.com/amagovpt/booka11y/issues).
+**Nota 1:** A checklist "10 aspetos críticos de acessibilidade funcional para aplicações móveis" é a lista de verificação a que se faz alusão no artigo 9.º, n.º 2, alínea b) do Decreto-Lei n.º 83/2018 e deve ser usada de acordo com a metodologia referenciada no diploma:
+
+> "2. Para as aplicações móveis, as entidades previstas no artigo 2.º devem adotar os seguintes procedimentos:
+>
+> (...)
+>
+> b) Procedimento simplificado manual, correspondente a uma avaliação manual pericial a uma amostra de páginas que permita responder à diversidade de elementos constantes da lista de verificação para aplicações móveis publicada no sítio web www.acessibilidade.gov.pt;"
+
+**Nota 2:** O presente documento pode ser comentado no seu [repositório no GitHub](https://github.com/amagovpt/kit-selo). Se tem algo que nos queira dizer abra um [issue](https://github.com/amagovpt/kit-selo/issues).
 
 - Documento de recolha de evidências em formato .xlsx: [ficheiro de recolha de evidências para a lista de verficação 10 aspetos críticos de acessibilidade funcional para aplicações móveis (xlsx, 163Kb)](sintese-10aspetos-mobile.xlsx). Use este ficheiro para recolher na aplicação móvel as evidências de satisfação dos requisitos de acessibilidade e anexe-a à sua Declaração de Acessibilidade. 
 
 ## 1. Crie <em lang="en">designs</em> para ecrãs de dimensão reduzida
+
+![](https://selo.usabilidade.gov.pt/wp-content/uploads/2024/10/aspeto_critico-mobile_1-1_blue.svg)
 
 Na experiência com dispositivos móveis os ecrãs são, em regra, muito mais pequenos do que nos computadores de secretária ou mesmo nos portáteis. A leitura e a interação num ecrã de dimensão reduzida obriga a que a informação seja apresentada de forma mais concisa e, para o caso da interação, esta deva ser construída dando particular atenção às dimensões reduzidas  dos alvos de toque. 
 
@@ -14,6 +28,8 @@ Na experiência com dispositivos móveis os ecrãs são, em regra, muito mais pe
 
 ## 2. Crie gestos simples e disponibilize opções acessíveis
 
+![](https://selo.usabilidade.gov.pt/wp-content/uploads/2024/10/aspeto_critico-mobile_2-1_blue.svg)
+
 Normalmente os dispositivos móveis são controlados por gestos, tais como passar um ou mais dedos em várias direções ou dar um ou mais toques com um ou mais dedos. No entanto, os gestos disponíveis por defeito nos dispositivos não funcionam para todas as pessoas. Gestos complexos, como sejam os gestos para desenhar formas, que obrigam a usar vários dedos ou a efetuar múltiplos toques, são difíceis, ou mesmo impossíveis, de compreender ou executar por alguns utilizadores. Por isso, é importante que os gestos sejam sempre acompanhados por opções alternativas que permitam o controlo via tecnologias de apoio ou que respondam aos diferentes métodos de controlo alternativos. Os movimentos involuntários dos utilizadores podem colidir com funcionalidades que são ativadas com o movimento dos dispositivos. É por isso importante que os dispositivos permitam a sua desativação e a existência de formas alternativas de executar tais funcionalidades.
 
 - [2.1 Controlos de toque são ativados após deixar de exercer pressão (up event) e não após o toque inicial (down event)](2.md/#21-controlos-de-toque-são-ativados-após-deixar-de-exercer-pressão-up-event-e-não-após-o-toque-inicial-down-event)
@@ -22,6 +38,8 @@ Normalmente os dispositivos móveis são controlados por gestos, tais como passa
 - [2.4 Gestos Multiponto (uso simultâneo de vários dedos) ou gestos baseados no desenho de uma trajetória estão também disponíveis com gestos que fazem uso do toque de um só ponto ou que não obrigam a desenhar uma trajetória](2.md/#24-gestos-multiponto-uso-simultâneo-de-vários-dedos-ou-gestos-baseados-no-desenho-de-uma-trajetória-estão-também-disponíveis-com-gestos-que-fazem-uso-do-toque-de-um-só-ponto-ou-que-não-obrigam-a-desenhar-uma-trajetória)
 
 ## 3. Forneça indicações para gestos e ações
+
+![](https://selo.usabilidade.gov.pt/wp-content/uploads/2024/10/aspeto_critico-mobile_3-1_blue.svg)
 
 Os gestos nem sempre são intuitivos, especialmente quando fogem do padrão regular ou correspondem a padrões pouco utilizados. Algo semelhante acontece com as ações disponíveis num determinado momento - nem sempre é óbvio para todos os utilizadores que ações estão disponíveis e que decisão tomar.
 
@@ -34,6 +52,8 @@ Para que os utilizadores não façam involuntariamente coisas como abrir um menu
 
 ## 4. Permita o uso de múltiplos métodos de entrada e inserção de dados
 
+![](https://selo.usabilidade.gov.pt/wp-content/uploads/2024/10/aspeto_critico-mobile_4-1_blue.svg)
+
 Uma das caraterísticas mais distintivas dos dispositivos móveis é a existência de um ecrã sensível ao toque. No entanto, nem todos podem navegar ou inserir dados através de gestos ou toques precisos no ecrã. O conteúdo não deve impedir o uso de outros métodos de operar a interface ou de inserir dados que existem para além do toque no ecrã. É importante que os métodos de operação e inserção de dados disponíveis suportem dispositivos de entrada alternativos, como sejam os teclados externos, dispositivos apontadores, manipulos e outras opções acessíveis. A diversidade dos métodos de operação e inserção torna o conteúdo móvel mais acessível e utilizável a pessoas que têm dificuldade em usar ecrãs sensíveis ao toque.
 
 - [4.1 Teclado virtual definido para o tipo de entrada de dados](4.md#41-teclado-virtual-definido-para-o-tipo-de-entrada-de-dados)
@@ -43,14 +63,18 @@ Uma das caraterísticas mais distintivas dos dispositivos móveis é a existênc
 
 ## 5. Permita a ativação da ampliação e o redimensionamento do texto
 
-O tamanho reduzido dos ecrãs dos dispositivos móveis levam os utilizadores a redimensionar frequentemente o tamanho do texto. Dada a sua importância, hoje em dia, esta é uma função que se encontra disponível em quase todos os dispositivos móveis. É importante que programadores e <em lang="en">designers</em> não a desativem e que garantam que o conteúdo funciona como esperado, mesmo quando ampliado ou redimensionado. Práticas de conceção responsivas permitem que o conteúdo se adapte a variações do tamanho do texto e diferentes posicionamentos, de acordo com as especificações do dispositivo, do software e das preferências do utilizador. A existência de opções nas páginas para redimensionar texto pode ser útil e contribbuir para aumentar a facilidade de uso da aplicação.
+![](https://selo.usabilidade.gov.pt/wp-content/uploads/2024/10/aspeto_critico-mobile_5-1_blue.svg)
 
-- [5.1 - Usando a funcionalidade de ampliação de texto do sistema operativo, no mínimo, é possível redimensionar o texto em 200% sem a utilização de tecnologias de apoio](5.md#51---usando-a-funcionalidade-de-ampliação-de-texto-do-sistema-operativo-no-mínimo-é-possível-redimensionar-o-texto-em-200-sem-a-utilização-de-tecnologias-de-apoio)
-- [5.2 - Usando a funcionalidade de ampliação de texto do navegador web, no mínimo, é possível redimensionar o texto em 200% sem a utilização de tecnologias de apoio](5.md#52---usando-a-funcionalidade-de-ampliação-de-texto-do-navegador-web-no-mínimo-é-possível-redimensionar-o-texto-em-200-sem-a-utilização-de-tecnologias-de-apoio)
-- [5.3 - Usando mecanismos de ampliação existentes na interface da página Web/app, no mínimo, é possível redimensionar o texto em 200% sem a utilização de tecnologias de apoio](5.md#53---usando-mecanismos-de-ampliação-existentes-na-interface-da-página-webapp-no-mínimo-é-possível-redimensionar-o-texto-em-200-sem-a-utilização-de-tecnologias-de-apoio)
+O tamanho reduzido dos ecrãs dos dispositivos móveis levam os utilizadores a redimensionar frequentemente o tamanho do texto. Dada a sua importância, hoje em dia, esta é uma função que se encontra disponível em quase todos os dispositivos móveis. É importante que programadores e <em lang="en">designers</em> não a desativem e que garantam que o conteúdo funciona como esperado, mesmo quando ampliado ou redimensionado. Práticas de conceção responsivas permitem que o conteúdo se adapte a variações do tamanho do texto e diferentes posicionamentos, de acordo com as especificações do dispositivo, do software e das preferências do utilizador. A existência de opções nas páginas para redimensionar texto pode ser útil e contribuir para aumentar a facilidade de uso da aplicação.
+
+- [5.1 - Usando a funcionalidade de ampliação de texto do sistema operativo, no mínimo, é possível aumentar o tamanho do texto em 200% sem que se perca conteúdo ou funcionalidade](5.md#51---usando-a-funcionalidade-de-amplia%C3%A7%C3%A3o-de-texto-do-sistema-operativo-no-m%C3%ADnimo-%C3%A9-poss%C3%ADvel-aumentar-o-tamanho-do-texto-em-200-sem-que-se-perca-conte%C3%BAdo-ou-funcionalidade)
+- [5.2 - Usando a funcionalidade de ampliação de texto do navegador web, no mínimo, é possível aumentar o texto em 200% sem que se perca conteúdo ou funcionalidade](5.md#52---usando-a-funcionalidade-de-amplia%C3%A7%C3%A3o-de-texto-do-navegador-web-no-m%C3%ADnimo-%C3%A9-poss%C3%ADvel-aumentar-o-texto-em-200-sem-que-se-perca-conte%C3%BAdo-ou-funcionalidade)
+- [5.3 - Usando mecanismos de ampliação existentes na interface da página Web/app, no mínimo, é possível aumentar o texto em 200% sem que se perca conteúdo ou funcionalidade](5.md#53---usando-mecanismos-de-amplia%C3%A7%C3%A3o-existentes-na-interface-da-p%C3%A1gina-webapp-no-m%C3%ADnimo-%C3%A9-poss%C3%ADvel-aumentar-o-texto-em-200-sem-que-se-perca-conte%C3%BAdo-ou-funcionalidade)
 - [5.4 - Usando as 3 funcionalidades de ampliação anteriores, verifique se o texto dos controlos de formulário (e.g. campos de edição, botões) pode ser ampliado até aos 200%](5.md#54---usando-as-3-funcionalidades-de-amplia%C3%A7%C3%A3o-anteriores-verifique-se-o-texto-dos-controlos-de-formul%C3%A1rio-eg-campos-de-edi%C3%A7%C3%A3o-bot%C3%B5es-pode-ser-ampliado-at%C3%A9-aos-200)
 
 ## 6. Certifique-se que a orientação do dispositivo e o layout da página não limitam o uso
+
+![](https://selo.usabilidade.gov.pt/wp-content/uploads/2024/10/aspeto_critico-mobile_6-1_blue.svg)
 
 Algumas experiências móveis são concebidas de origem para visualizações espcíficas em modo retrato ou paisagem, no entanto há pessoas que precisam ou preferem ter a opção de troca entre modos de visualização retrato/paisagem sempre ativo ou que usam sempre um dos modos. Para além disso, todos os utilizadores dizem que os sítios Web ou as aplicações móveis são mais fáceis de usar quando as suas páginas se apresentam com padrões esperados e se apresentam de forma consistente entre páginas e entre funções.
 
@@ -58,6 +82,8 @@ Algumas experiências móveis são concebidas de origem para visualizações esp
 - [6.2 O layout da página é consistente e previsível](6.md#62-o-layout-da-p%C3%A1gina-%C3%A9-consistente-e-previs%C3%ADvel)
 
 ## 7. Faça com que a estrutura e a navegação se apresentem a todos os utilizadores
+
+![](https://selo.usabilidade.gov.pt/wp-content/uploads/2024/10/aspeto_critico-mobile_7-1_blue.svg)
 
 Mesmo que a regra seja a de mostrar quantidades mais pequenas de conteúdo de uma só vez, a organização e a etiquetagem adequada dos conteúdos em dispositivos móveis são tão relevantes   quanto na experiência em computador. Todas as páginas e conteúdos precisam de ser intuitivamente navegáveis através da visão ou de qualquer tecnologia de apoio utilizada - um leitor de ecrã, por exemplo. Construir páginas fáceis de pesquisar, com funcionalidades fáceis de compreender e assegurar que a experiência se encontra otimizada para qualquer utilizador independentemente da forma de uso.
 
@@ -68,6 +94,8 @@ Mesmo que a regra seja a de mostrar quantidades mais pequenas de conteúdo de um
 
 ## 8. Forneça alternativas em texto para gráficos e multimédia
 
+![](https://selo.usabilidade.gov.pt/wp-content/uploads/2024/10/aspeto_critico-mobile_8-1_blue.svg)
+
 Tal como num sítio Web, ou em qualquer outra plataforma digital, a disponibilização de alternativas em texto é crítica. Esta técnica permite que os utilizadores de tecnologias de apoio, mas também todos aqueles que tenham conexões lentas à Internet ou que, por qualquer razão técnica ou ambiental, se vejam impedidos de aceder a uma imagem, um gráfico, um vídeo ou um registo áudio, disponham de uma forma alternativa em texto que lhes permita aceder à mensagem veiculada por aqueles.
 
 - [8.1 Conteúdo gráfico tem um alternativo em texto acessível](8.md#81-conte%C3%BAdo-gr%C3%A1fico-tem-um-alternativo-em-texto-acess%C3%ADvel)
@@ -77,6 +105,8 @@ Tal como num sítio Web, ou em qualquer outra plataforma digital, a disponibiliz
 
 ## 9. Utilize a cor de modo efetivo
 
+![](https://selo.usabilidade.gov.pt/wp-content/uploads/2024/10/aspeto_critico-mobile_9-1_blue.svg)
+
 As cores são elementos importantes para personalizar marcas e interfaces. A regra é usar a cor de forma criativa, mas efetiva, que funcione para vários utilizadores. Na verdade, existem apenas duas importantes considerações de acessibilidade a ter em conta: (1) usar um contraste suficiente e (2) evitar a cor como única pista visual para veicular informações importantes. Embora o uso adequado de cores seja igualmente importante em computadores, nos dispositivos móveis o uso da cor torna-se ainda mais crítico. A utilização dos dispositivos móveis nos mais diversos ambientes, com diferentes condições de luminosidade, torna a tarefa de ver o ecrã um desafio mais sensível às cores em uso. Desafio que afeta em maior ou menor grau todos os utilizadores e não apenas pessoas com dificuldades de perceção da cor ou com baixa visão.
 
 - [9.1 O texto normal apresenta-se com um rácio de contraste de, no mínimo, 4.5 para 1](9.md#91-o-texto-normal-apresenta-se-com-um-r%C3%A1cio-de-contraste-de-no-m%C3%ADnimo-45-para-1)
@@ -85,6 +115,8 @@ As cores são elementos importantes para personalizar marcas e interfaces. A reg
 - [9.4 Informação ou significado (por exemplo um erro) não é veiculado apenas pela cor](9.md#94-informa%C3%A7%C3%A3o-ou-significado-por-exemplo-um-erro-n%C3%A3o-%C3%A9-veiculado-apenas-pela-cor)
 
 ## 10. Idioma da aplicação
+
+![](https://selo.usabilidade.gov.pt/wp-content/uploads/2024/10/aspeto_critico-mobile_10-1_blue.svg)
 
 - [10.1 O idioma principal codificado na página da aplicação corresponde ao idioma escrito](10.md)
 
