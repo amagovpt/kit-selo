@@ -67,7 +67,7 @@ A AMA elaborou os requisitos a observar para a obtenção de cada um dos Selos -
 
 Para preencher a Declaração de Acessibilidade, a AMA criou uma ferramenta que permite gerar a Declaração de acordo com o modelo definido na legislação - [use o gerador da Declaração de Acessibilidade e Usabilidade](https://www.acessibilidade.gov.pt/gerador/). A Declaração deve ficar publicada na pasta /acessibilidade do sítio web (i.e. www.dominio_do_site.pt/acessibilidade).
 
-A Declaração de Acessibilidade e Usabilidade é, ela própria, o formulário de candidatura. Ela é tudo o que precisa para se candidatar ao Selo. Basta ir à [página de Candidatura do sitio web do Selo](https://selo.usabilidade.gov.pt/candidatura.html#scroll-error) e dizer-nos em que endereço se encontra a Declaração e qual é o Selo a que pretende candidatar-se: bronze. prata ou ouro. A equipa da AMA dará início á validação da informação constante da Declaração e dar-lhe-á retorno via correio eletrónico.
+A Declaração de Acessibilidade e Usabilidade é, ela própria, o formulário de candidatura. Ela é tudo o que precisa para se candidatar ao Selo. Basta ir à [página de Candidatura do sitio web do Selo](https://selo.usabilidade.gov.pt/candidatura/) e dizer-nos em que endereço se encontra a Declaração e qual é o Selo a que pretende candidatar-se: bronze. prata ou ouro. A equipa da AMA dará início á validação da informação constante da Declaração e dar-lhe-á retorno via correio eletrónico.
 
 ## Níveis de Classificação 
 
