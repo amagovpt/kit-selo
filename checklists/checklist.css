@@ -44,6 +44,10 @@
 	
 }
 
+.ref-wcag ul {
+	list-style: none;
+}
+
 .ref-wcag ul li {
 	display: inline;
 }
