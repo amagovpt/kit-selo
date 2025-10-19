@@ -37,3 +37,11 @@
 			list-style: none;
 			font-style: italic;
 		}
+
+/* Relação com as WCAG */
+
+summary {
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+	margin: 1rem 0;
+}
