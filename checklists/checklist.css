@@ -37,3 +37,13 @@
 			list-style: none;
 			font-style: italic;
 		}
+
+/* style ref-wcag for SC, Techniques and failures of WCAG references */
+
+.ref-wcag p {
+	
+}
+
+.ref-wcag ul li {
+	display: inline;
+}
