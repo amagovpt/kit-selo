@@ -1,6 +1,6 @@
 # Selo de Usabilidade e Acessibilidade
 
-**Nota prévia: caso encontre algum problema com o presente documento que nos queira reportar, use, por favor, o endereço de correio eletrónico: <a href="mailto:acessibilidade@ama.gov.pt">acessibilidade@ama.gov.pt</a>**.
+**Nota prévia: caso encontre algum problema com o presente documento que nos queira reportar, use, por favor, o endereço de correio eletrónico: <a href="mailto:acessibilidade@arte.gov.pt">acessibilidade@arte.gov.pt</a>**.
 
 ## Índice 
 
